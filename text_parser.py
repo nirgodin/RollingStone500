@@ -7,7 +7,18 @@ class TextParser:
     def __init__(self, path: str):
         self.text: List[str] = self._read_text(path)
 
-    def parse_text(self) -> List[str]:
+    def parse_old_text(self) -> List[str]:
+        self._drop_newlines()
+        self._drop_apple_music()
+        self._drop_bullets()
+        self._split_song_from_artist()
+        self._drop_writers()
+        self._drop_backslash_from_name()
+        self._organize_list()
+
+        return self.text
+
+    def parse_new_text(self) -> List[str]:
         self._drop_newlines()
         self._drop_apple_music()
         self._split_song_from_artist()
@@ -16,21 +27,41 @@ class TextParser:
 
         return self.text
 
+    def _organize_list(self):
+        i = 0
+        while i <= len(self.text) - 1:
+            if self.text[i].isdigit():
+                i += 9
+            else:
+                self.text[i-2] += self.text[i-1]
+                self.text.pop(i-1)
+                i += 9
+                return self._organize_list()
+
     def _drop_backslash_from_name(self):
-        self.text = [re.sub(r'\\', '', e) for e in self.text]
+        self.text = [e.replace('\\', '') for e in self.text]
         return self.text
 
     def _split_song_from_artist(self) -> List[str]:
-        for i in range(len(self.text)):
-            if self.text[i].__contains__(", '"):
-                artist, song = self.text[i].split(", '")
-                self.text[i] = artist
-                self.text.insert(i+1, song)
+        formatted_text = []
+        for index, value in enumerate(self.text):
+            if value.__contains__(", '"):
+                artist, song = value.split(", '")[:2]
+                formatted_text.append(artist)
+                formatted_text.append(song)
+            else:
+                formatted_text.append(value)
 
+        self.text = formatted_text
+        return self.text
+
+    def _drop_bullets(self) -> List[str]:
+        self.text = [e for e in self.text if not e.__contains__('•')]
         return self.text
 
     def _drop_apple_music(self) -> List[str]:
-        self.text = [e for e in self.text if e not in {'Powered byApple Music', 'Play the Full Song'}]
+        self.text = [e for e in self.text
+                     if e not in {'Powered byApple Music', 'Play the Full Song', 'RELATED:'}]
         return self.text
 
     def _drop_writers(self) -> List[str]:
@@ -47,3 +78,9 @@ class TextParser:
     def _read_text(path: str) -> List[str]:
         with open(path, encoding='utf8') as f:
             return f.readlines()
+
+
+parser = TextParser('old_list.txt')
+text = parser._drop_newlines()
+text = parser._drop_apple_music()
+text = parser._drop_bullets()

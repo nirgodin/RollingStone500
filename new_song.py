@@ -5,7 +5,7 @@ from spotify import Spotify
 
 
 @dataclass(unsafe_hash=True)
-class Song:
+class NewSong:
     ranking: int = None
     artist: str = None
     track: str = None
@@ -41,8 +41,8 @@ class Song:
 
 
 @dataclass
-class Songs:
-    songs: List[Song] = None
+class NewSongs:
+    songs: List[NewSong] = None
 
     def get_songs(self, text: List[str]):
         self.songs = [self._get_single_song(text, index) for index in range(0, len(text), 6)]
@@ -53,8 +53,8 @@ class Songs:
         rankings = list(range(len(songs), 0, -1))
         return {i: d for i, d in zip(rankings, songs)}
 
-    def _get_single_song(self, text: List[str], starting_index: int) -> Song:
-        song = Song()
+    def _get_single_song(self, text: List[str], starting_index: int) -> NewSong:
+        song = NewSong()
         song = self._get_rolling_stone_features(song, text, starting_index)
         song = self._get_spotify_features(song)
         song = self._get_sentiment(song)
@@ -62,7 +62,7 @@ class Songs:
         return song
 
     @staticmethod
-    def _get_rolling_stone_features(song: Song, text: List[str], starting_index: int) -> Song:
+    def _get_rolling_stone_features(song: NewSong, text: List[str], starting_index: int) -> NewSong:
         song.ranking = int(text[starting_index])
         song.artist = text[starting_index+1]
         song.track = text[starting_index + 2]
@@ -73,7 +73,7 @@ class Songs:
         return song
 
     @staticmethod
-    def _get_spotify_features(song: Song) -> Song:
+    def _get_spotify_features(song: NewSong) -> NewSong:
         song.set_spotify()
         song.genre = song.get_genre()
         song.popularity = song.get_populartiy()
@@ -82,7 +82,7 @@ class Songs:
         return song
 
     @staticmethod
-    def _get_sentiment(song: Song) -> Song:
+    def _get_sentiment(song: NewSong) -> NewSong:
         song.sentiment = song.get_sentiment()
 
         return song

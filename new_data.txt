@@ -6,6 +6,12 @@
         "genre": "classic soul",
         "popularity": 72,
         "ranking": 1,
+        "sentiment": {
+            "compound": 0.9835,
+            "neg": 0.054,
+            "neu": 0.84,
+            "pos": 0.105
+        },
         "track": "'Respect'",
         "writers": "Otis Redding",
         "year": 1967
@@ -17,6 +23,12 @@
         "genre": "conscious hip hop",
         "popularity": 55,
         "ranking": 2,
+        "sentiment": {
+            "compound": 0.6444,
+            "neg": 0.094,
+            "neu": 0.797,
+            "pos": 0.11
+        },
         "track": "'Fight the Power'",
         "writers": "Carlton Ridenhour, Eric Sadler, Hank Shocklee, Keith Shocklee",
         "year": 1989
@@ -28,6 +40,12 @@
         "genre": "adult standards",
         "popularity": 66,
         "ranking": 3,
+        "sentiment": {
+            "compound": -0.1045,
+            "neg": 0.096,
+            "neu": 0.805,
+            "pos": 0.099
+        },
         "track": "'A Change Is Gonna Come'",
         "writers": "Sam Cooke",
         "year": 1964
@@ -39,6 +57,12 @@
         "genre": "album rock",
         "popularity": 71,
         "ranking": 4,
+        "sentiment": {
+            "compound": 0.7351,
+            "neg": 0.078,
+            "neu": 0.815,
+            "pos": 0.107
+        },
         "track": "'Like a Rolling Stone'",
         "writers": "Bob Dylan",
         "year": 1965
@@ -50,6 +74,12 @@
         "genre": "grunge",
         "popularity": 76,
         "ranking": 5,
+        "sentiment": {
+            "compound": -0.1686,
+            "neg": 0.056,
+            "neu": 0.895,
+            "pos": 0.049
+        },
         "track": "'Smells Like Teen Spirit'",
         "writers": "Kurt Cobain",
         "year": 1991
@@ -61,6 +91,12 @@
         "genre": "classic soul",
         "popularity": 70,
         "ranking": 6,
+        "sentiment": {
+            "compound": -0.9505,
+            "neg": 0.133,
+            "neu": 0.794,
+            "pos": 0.072
+        },
         "track": "'What\u2019s Going On'",
         "writers": "Marvin Gaye, Renaldo Benson, Al Cleveland",
         "year": 1971
@@ -72,6 +108,12 @@
         "genre": "beatlesque",
         "popularity": 68,
         "ranking": 7,
+        "sentiment": {
+            "compound": -0.8083,
+            "neg": 0.11,
+            "neu": 0.806,
+            "pos": 0.083
+        },
         "track": "'Strawberry Fields Forever'",
         "writers": "John Lennon, Paul McCartney",
         "year": 1967
@@ -83,6 +125,12 @@
         "genre": "dance pop",
         "popularity": 69,
         "ranking": 8,
+        "sentiment": {
+            "compound": -0.4574,
+            "neg": 0.068,
+            "neu": 0.879,
+            "pos": 0.054
+        },
         "track": "'Get Ur Freak On'",
         "writers": "Missy Elliott, Timbaland",
         "year": 2001
@@ -94,6 +142,12 @@
         "genre": "album rock",
         "popularity": 83,
         "ranking": 9,
+        "sentiment": {
+            "compound": 0.8885,
+            "neg": 0.0,
+            "neu": 0.944,
+            "pos": 0.056
+        },
         "track": "'Dreams'",
         "writers": "Stevie Nicks",
         "year": 1977
@@ -105,6 +159,12 @@
         "genre": "atl hip hop",
         "popularity": 79,
         "ranking": 10,
+        "sentiment": {
+            "compound": 0.9523,
+            "neg": 0.036,
+            "neu": 0.844,
+            "pos": 0.12
+        },
         "track": "'Hey Ya!'",
         "writers": "Andr\u00e9 Benjamin",
         "year": 2003
@@ -116,6 +176,12 @@
         "genre": "baroque pop",
         "popularity": 68,
         "ranking": 11,
+        "sentiment": {
+            "compound": 0.6753,
+            "neg": 0.058,
+            "neu": 0.84,
+            "pos": 0.102
+        },
         "track": "'God Only Knows'",
         "writers": "Brian Wilson, Tony Asher",
         "year": 1966
@@ -127,6 +193,12 @@
         "genre": "funk",
         "popularity": 72,
         "ranking": 12,
+        "sentiment": {
+            "compound": -0.9407,
+            "neg": 0.122,
+            "neu": 0.866,
+            "pos": 0.012
+        },
         "track": "'Superstition'",
         "writers": "Stevie Wonder",
         "year": 1972
@@ -138,6 +210,12 @@
         "genre": "british invasion",
         "popularity": 75,
         "ranking": 13,
+        "sentiment": {
+            "compound": -0.4767,
+            "neg": 0.112,
+            "neu": 0.786,
+            "pos": 0.102
+        },
         "track": "'Gimme Shelter'",
         "writers": "Mick Jagger, Keith Richards",
         "year": 1969
@@ -149,6 +227,12 @@
         "genre": "album rock",
         "popularity": 62,
         "ranking": 14,
+        "sentiment": {
+            "compound": 0.9409,
+            "neg": 0.063,
+            "neu": 0.761,
+            "pos": 0.175
+        },
         "track": "'Waterloo Sunset'",
         "writers": "Ray Davies",
         "year": 1967
@@ -160,6 +244,12 @@
         "genre": "beatlesque",
         "popularity": 70,
         "ranking": 15,
+        "sentiment": {
+            "compound": 0.6808,
+            "neg": 0.009,
+            "neu": 0.911,
+            "pos": 0.08
+        },
         "track": "'I Want to Hold Your Hand'",
         "writers": "John Lennon, Paul McCartney",
         "year": 1963
@@ -171,6 +261,12 @@
         "genre": "dance pop",
         "popularity": 75,
         "ranking": 16,
+        "sentiment": {
+            "compound": 0.7184,
+            "neg": 0.049,
+            "neu": 0.853,
+            "pos": 0.098
+        },
         "track": "'Crazy in Love'",
         "writers": "Shaun Carter, Beyonc\u00e9 Knowles, Eugene Record, Rich Harrison",
         "year": 2003
@@ -182,6 +278,12 @@
         "genre": "classic rock",
         "popularity": 73,
         "ranking": 17,
+        "sentiment": {
+            "compound": -0.4215,
+            "neg": 0.119,
+            "neu": 0.768,
+            "pos": 0.114
+        },
         "track": "'Bohemian Rhapsody'",
         "writers": "Freddie Mercury",
         "year": 1975
@@ -193,6 +295,12 @@
         "genre": "funk",
         "popularity": 73,
         "ranking": 18,
+        "sentiment": {
+            "compound": 0.9714,
+            "neg": 0.009,
+            "neu": 0.832,
+            "pos": 0.159
+        },
         "track": "'Purple Rain'",
         "writers": "Prince",
         "year": 1984
@@ -204,6 +312,12 @@
         "genre": "album rock",
         "popularity": 76,
         "ranking": 19,
+        "sentiment": {
+            "compound": 0.9638,
+            "neg": 0.012,
+            "neu": 0.829,
+            "pos": 0.16
+        },
         "track": "'Imagine'",
         "writers": "John Lennon, Yoko Ono",
         "year": 1971
@@ -215,6 +329,12 @@
         "genre": "art pop",
         "popularity": 58,
         "ranking": 20,
+        "sentiment": {
+            "compound": 0.8555,
+            "neg": 0.04,
+            "neu": 0.854,
+            "pos": 0.106
+        },
         "track": "'Dancing on My Own'",
         "writers": "Robin Miriam Carlsson, Patrik Berger",
         "year": 2010
@@ -226,6 +346,12 @@
         "genre": "adult standards",
         "popularity": 57,
         "ranking": 21,
+        "sentiment": {
+            "compound": -0.5338,
+            "neg": 0.088,
+            "neu": 0.851,
+            "pos": 0.062
+        },
         "track": "'Strange Fruit'",
         "writers": "Lewis Allan",
         "year": 1939
@@ -237,6 +363,12 @@
         "genre": "brill building pop",
         "popularity": 68,
         "ranking": 22,
+        "sentiment": {
+            "compound": 0.7876,
+            "neg": 0.056,
+            "neu": 0.821,
+            "pos": 0.123
+        },
         "track": "'Be My Baby'",
         "writers": "Jeff Barry, Ellie Greenwich, Phil Spector",
         "year": 1963
@@ -248,6 +380,12 @@
         "genre": "art rock",
         "popularity": 73,
         "ranking": 23,
+        "sentiment": {
+            "compound": 0.2944,
+            "neg": 0.073,
+            "neu": 0.845,
+            "pos": 0.082
+        },
         "track": "'Heroes'",
         "writers": "David Bowie, Brian Eno",
         "year": 1977
@@ -259,6 +397,12 @@
         "genre": "beatlesque",
         "popularity": 63,
         "ranking": 24,
+        "sentiment": {
+            "compound": 0.0772,
+            "neg": 0.057,
+            "neu": 0.882,
+            "pos": 0.061
+        },
         "track": "'A Day in the Life'",
         "writers": "John Lennon, Paul McCartney",
         "year": 1967
@@ -270,6 +414,12 @@
         "genre": "chicago rap",
         "popularity": 75,
         "ranking": 25,
+        "sentiment": {
+            "compound": 0.976,
+            "neg": 0.05,
+            "neu": 0.763,
+            "pos": 0.187
+        },
         "track": "'Runaway'",
         "writers": "Emile Haynie, John Roger Branch, Kanye West, Malik Yusef, Pete Rock, Terrence Thornton, Jeff Bhasker, Mike Dean",
         "year": 2010
@@ -281,6 +431,12 @@
         "genre": "canadian singer-songwriter",
         "popularity": 66,
         "ranking": 26,
+        "sentiment": {
+            "compound": 0.5984,
+            "neg": 0.0,
+            "neu": 0.955,
+            "pos": 0.045
+        },
         "track": "'A Case of You'",
         "writers": "Joni Mitchell",
         "year": 1971
@@ -292,6 +448,12 @@
         "genre": "classic rock",
         "popularity": 70,
         "ranking": 27,
+        "sentiment": {
+            "compound": 0.8074,
+            "neg": 0.02,
+            "neu": 0.889,
+            "pos": 0.091
+        },
         "track": "'Born to Run'",
         "writers": "Bruce Springsteen",
         "year": 1975
@@ -303,6 +465,12 @@
         "genre": "art punk",
         "popularity": 68,
         "ranking": 28,
+        "sentiment": {
+            "compound": -0.3804,
+            "neg": 0.052,
+            "neu": 0.927,
+            "pos": 0.021
+        },
         "track": "'Once in a Lifetime'",
         "writers": "Brian Eno, Chris Frantz, David Byrne, Jerry Harrison, Tina Weymouth",
         "year": 1980
@@ -314,6 +482,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 29,
+        "sentiment": {
+            "compound": 0.0516,
+            "neg": 0.021,
+            "neu": 0.956,
+            "pos": 0.023
+        },
         "track": "'Nuthin' but a 'G' Thang'",
         "writers": "Calvin Broadus, Frederick Knight, Leon Haywood",
         "year": 1992
@@ -325,6 +499,12 @@
         "genre": "art pop",
         "popularity": 75,
         "ranking": 30,
+        "sentiment": {
+            "compound": 0.9595,
+            "neg": 0.021,
+            "neu": 0.776,
+            "pos": 0.203
+        },
         "track": "'Royals'",
         "writers": "Ella Yelich O'Connor, Joel Little",
         "year": 2011
@@ -336,6 +516,12 @@
         "genre": "british invasion",
         "popularity": 76,
         "ranking": 31,
+        "sentiment": {
+            "compound": -0.128,
+            "neg": 0.07,
+            "neu": 0.857,
+            "pos": 0.073
+        },
         "track": "'(I Can't Get No) Satisfaction'",
         "writers": "Mick Jagger, Keith Richards",
         "year": 1965
@@ -347,6 +533,12 @@
         "genre": "east coast hip hop",
         "popularity": 74,
         "ranking": 32,
+        "sentiment": {
+            "compound": -0.126,
+            "neg": 0.051,
+            "neu": 0.89,
+            "pos": 0.059
+        },
         "track": "'Juicy'",
         "writers": "Diddy, James Mtume, Jean-Claude Olivier, The Notorious B.I.G.",
         "year": 1994
@@ -358,6 +550,12 @@
         "genre": "blues rock",
         "popularity": 74,
         "ranking": 33,
+        "sentiment": {
+            "compound": 0.886,
+            "neg": 0.0,
+            "neu": 0.899,
+            "pos": 0.101
+        },
         "track": "'Johnny B. Goode'",
         "writers": "Chuck Berry",
         "year": 1958
@@ -369,6 +567,12 @@
         "genre": "funk",
         "popularity": 49,
         "ranking": 34,
+        "sentiment": {
+            "compound": -0.4111,
+            "neg": 0.093,
+            "neu": 0.836,
+            "pos": 0.071
+        },
         "track": "'Papa\u2019s Got a Brand New Bag'",
         "writers": "James Brown",
         "year": 1966
@@ -380,6 +584,12 @@
         "genre": "adult standards",
         "popularity": 64,
         "ranking": 35,
+        "sentiment": {
+            "compound": 0.8842,
+            "neg": 0.015,
+            "neu": 0.847,
+            "pos": 0.138
+        },
         "track": "'Tutti-Frutti'",
         "writers": "Dorothy LaBostrie, Richard Penniman, Joe Lubin",
         "year": 1955
@@ -391,6 +601,12 @@
         "genre": "alternative rock",
         "popularity": 81,
         "ranking": 36,
+        "sentiment": {
+            "compound": -0.6369,
+            "neg": 0.042,
+            "neu": 0.958,
+            "pos": 0.0
+        },
         "track": "'Seven Nation Army'",
         "writers": "Jack White",
         "year": 2003
@@ -402,6 +618,12 @@
         "genre": "funk",
         "popularity": 70,
         "ranking": 37,
+        "sentiment": {
+            "compound": -0.0387,
+            "neg": 0.024,
+            "neu": 0.945,
+            "pos": 0.031
+        },
         "track": "'When Doves Cry'",
         "writers": " Prince",
         "year": 1984
@@ -413,6 +635,12 @@
         "genre": "classic soul",
         "popularity": 73,
         "ranking": 38,
+        "sentiment": {
+            "compound": 0.6808,
+            "neg": 0.0,
+            "neu": 0.952,
+            "pos": 0.048
+        },
         "track": "'(Sittin' On) the Dock of the Bay'",
         "writers": "Otis Redding, Steve Cropper",
         "year": 1967
@@ -424,6 +652,12 @@
         "genre": "atl hip hop",
         "popularity": 61,
         "ranking": 39,
+        "sentiment": {
+            "compound": 0.9565,
+            "neg": 0.0,
+            "neu": 0.855,
+            "pos": 0.145
+        },
         "track": "'B.O.B.'",
         "writers": "Andr\u00e9 Benjamin, Antwan Patton, David Sheats",
         "year": 2000
@@ -435,6 +669,12 @@
         "genre": null,
         "popularity": 1,
         "ranking": 40,
+        "sentiment": {
+            "compound": 0.0,
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0
+        },
         "track": "'All Along the Watchtower'",
         "writers": "Bob Dylan",
         "year": 1968
@@ -446,6 +686,12 @@
         "genre": "alternative rock",
         "popularity": 66,
         "ranking": 41,
+        "sentiment": {
+            "compound": -0.836,
+            "neg": 0.165,
+            "neu": 0.74,
+            "pos": 0.095
+        },
         "track": "'Love Will Tear Us Apart'",
         "writers": "Bernard Sumner, Ian Curtis, Peter Hook, Stephen Morris",
         "year": 1980
@@ -457,6 +703,12 @@
         "genre": "reggae",
         "popularity": 68,
         "ranking": 42,
+        "sentiment": {
+            "compound": 0.2716,
+            "neg": 0.124,
+            "neu": 0.731,
+            "pos": 0.144
+        },
         "track": "'Redemption Song'",
         "writers": "Bob Marley and the Wailers",
         "year": 1980
@@ -468,6 +720,12 @@
         "genre": "classic soul",
         "popularity": 77,
         "ranking": 43,
+        "sentiment": {
+            "compound": 0.1779,
+            "neg": 0.021,
+            "neu": 0.95,
+            "pos": 0.028
+        },
         "track": "'My Girl'",
         "writers": "Ronald White, Smokey Robinson",
         "year": 1965
@@ -479,6 +737,12 @@
         "genre": "pop",
         "popularity": 82,
         "ranking": 44,
+        "sentiment": {
+            "compound": -0.128,
+            "neg": 0.042,
+            "neu": 0.911,
+            "pos": 0.047
+        },
         "track": "'Billie Jean'",
         "writers": "Michael J. Jackson",
         "year": 1982
@@ -490,6 +754,12 @@
         "genre": "conscious hip hop",
         "popularity": 73,
         "ranking": 45,
+        "sentiment": {
+            "compound": 0.2471,
+            "neg": 0.084,
+            "neu": 0.816,
+            "pos": 0.1
+        },
         "track": "'Alright'",
         "writers": "Kendrick Lamar, M. Spears, P. Williams",
         "year": 2015
@@ -501,6 +771,12 @@
         "genre": "dance pop",
         "popularity": 75,
         "ranking": 46,
+        "sentiment": {
+            "compound": 0.9431,
+            "neg": 0.072,
+            "neu": 0.721,
+            "pos": 0.206
+        },
         "track": "'Paper Planes'",
         "writers": "Joe Strummer, Maya Arulpragasam, Mick Jones, Nick Headon, Paul Simonon, Wesley Pentz",
         "year": 2008
@@ -512,6 +788,12 @@
         "genre": "glam rock",
         "popularity": 77,
         "ranking": 47,
+        "sentiment": {
+            "compound": 0.8405,
+            "neg": 0.027,
+            "neu": 0.846,
+            "pos": 0.127
+        },
         "track": "'Tiny Dancer'",
         "writers": "Bernie Taupin, Elton John",
         "year": 1972
@@ -523,6 +805,12 @@
         "genre": "alternative rock",
         "popularity": 58,
         "ranking": 48,
+        "sentiment": {
+            "compound": -0.3612,
+            "neg": 0.03,
+            "neu": 0.97,
+            "pos": 0.0
+        },
         "track": "'Idioteque'",
         "writers": "Arthur Krieger, Colin Greenwood, Ed O'Brien, Jonny Greenwood, Paul Lansky, Philip Selway, Thom Yorke",
         "year": 2000
@@ -534,6 +822,12 @@
         "genre": "conscious hip hop",
         "popularity": 72,
         "ranking": 49,
+        "sentiment": {
+            "compound": -0.1779,
+            "neg": 0.05,
+            "neu": 0.906,
+            "pos": 0.044
+        },
         "track": "'Doo Wop (That Thing)'",
         "writers": "Lauryn Hill",
         "year": 1998
@@ -545,6 +839,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 50,
+        "sentiment": {
+            "compound": 0.8122,
+            "neg": 0.0,
+            "neu": 0.917,
+            "pos": 0.083
+        },
         "track": "'Gasolina'",
         "writers": "Francisco Salda\u00f1a, Ramon Ayala, Victor Cabrera",
         "year": 2010
@@ -556,6 +856,12 @@
         "genre": "adult standards",
         "popularity": 60,
         "ranking": 51,
+        "sentiment": {
+            "compound": 0.5574,
+            "neg": 0.058,
+            "neu": 0.863,
+            "pos": 0.079
+        },
         "track": "'Walk on By'",
         "writers": " Burt Bacharach, Hal David",
         "year": 1964
@@ -567,6 +873,12 @@
         "genre": "dance pop",
         "popularity": 62,
         "ranking": 52,
+        "sentiment": {
+            "compound": -0.4678,
+            "neg": 0.047,
+            "neu": 0.934,
+            "pos": 0.019
+        },
         "track": "'I Feel Love'",
         "writers": " Donna Summer, Giorgio Moroder, Pete Bellotte",
         "year": 1977
@@ -578,6 +890,12 @@
         "genre": "baroque pop",
         "popularity": 70,
         "ranking": 53,
+        "sentiment": {
+            "compound": 0.8126,
+            "neg": 0.0,
+            "neu": 0.938,
+            "pos": 0.062
+        },
         "track": "'Good Vibrations'",
         "writers": "Brian Wilson, Mike Love",
         "year": 1966
@@ -589,6 +907,12 @@
         "genre": "brill building pop",
         "popularity": 63,
         "ranking": 54,
+        "sentiment": {
+            "compound": 0.8689,
+            "neg": 0.066,
+            "neu": 0.808,
+            "pos": 0.126
+        },
         "track": "'The Tracks of My Tears'",
         "writers": "Marvin Tarplin, William Robinson, Warren Moore",
         "year": 1965
@@ -600,6 +924,12 @@
         "genre": "dance pop",
         "popularity": 71,
         "ranking": 55,
+        "sentiment": {
+            "compound": 0.8519,
+            "neg": 0.05,
+            "neu": 0.821,
+            "pos": 0.129
+        },
         "track": "'Like a Prayer'",
         "writers": "Madonna, Patrick Leonard",
         "year": 1989
@@ -611,6 +941,12 @@
         "genre": "dance pop",
         "popularity": 69,
         "ranking": 56,
+        "sentiment": {
+            "compound": 0.8885,
+            "neg": 0.012,
+            "neu": 0.891,
+            "pos": 0.097
+        },
         "track": "'Work It'",
         "writers": "Melissa Elliott, Timothy Mosley",
         "year": 2000
@@ -622,6 +958,12 @@
         "genre": "classic rock",
         "popularity": 53,
         "ranking": 57,
+        "sentiment": {
+            "compound": -0.1027,
+            "neg": 0.053,
+            "neu": 0.889,
+            "pos": 0.058
+        },
         "track": "'Family Affair'",
         "writers": "Sylvester Stewart",
         "year": 1971
@@ -633,6 +975,12 @@
         "genre": "album rock",
         "popularity": 71,
         "ranking": 58,
+        "sentiment": {
+            "compound": -0.3291,
+            "neg": 0.062,
+            "neu": 0.898,
+            "pos": 0.04
+        },
         "track": "'The Weight'",
         "writers": "Robbie Robertson",
         "year": 1968
@@ -644,6 +992,12 @@
         "genre": "bronx hip hop",
         "popularity": 48,
         "ranking": 59,
+        "sentiment": {
+            "compound": -0.899,
+            "neg": 0.125,
+            "neu": 0.836,
+            "pos": 0.039
+        },
         "track": "'The Message'",
         "writers": "Edward Fletcher, Melvin Glover, Clifton Chase, Sylvia Robinson",
         "year": 1982
@@ -655,6 +1009,12 @@
         "genre": "art pop",
         "popularity": 58,
         "ranking": 60,
+        "sentiment": {
+            "compound": 0.9136,
+            "neg": 0.035,
+            "neu": 0.828,
+            "pos": 0.137
+        },
         "track": "'Running Up That Hill'",
         "writers": "Kate Bush",
         "year": 1985
@@ -666,6 +1026,12 @@
         "genre": "album rock",
         "popularity": 78,
         "ranking": 61,
+        "sentiment": {
+            "compound": 0.866,
+            "neg": 0.031,
+            "neu": 0.858,
+            "pos": 0.112
+        },
         "track": "'Stairway to Heaven'",
         "writers": "Jimmy Page, Robert Plant",
         "year": 1971
@@ -677,6 +1043,12 @@
         "genre": "irish rock",
         "popularity": 75,
         "ranking": 62,
+        "sentiment": {
+            "compound": 0.8786,
+            "neg": 0.049,
+            "neu": 0.832,
+            "pos": 0.119
+        },
         "track": "'One'",
         "writers": "Bono, Larry Mullen Jr., The Edge, Adam Clayton",
         "year": 1992
@@ -688,6 +1060,12 @@
         "genre": "classic country pop",
         "popularity": 71,
         "ranking": 63,
+        "sentiment": {
+            "compound": 0.8839,
+            "neg": 0.041,
+            "neu": 0.828,
+            "pos": 0.131
+        },
         "track": "'Jolene'",
         "writers": "Dolly Parton",
         "year": 1974
@@ -699,6 +1077,12 @@
         "genre": "classic rock",
         "popularity": 70,
         "ranking": 64,
+        "sentiment": {
+            "compound": 0.8833,
+            "neg": 0.0,
+            "neu": 0.908,
+            "pos": 0.092
+        },
         "track": "'Blitzkrieg Bop'",
         "writers": "Tommy Ramone, Dee Dee Ramone",
         "year": 1976
@@ -710,6 +1094,12 @@
         "genre": "disco",
         "popularity": 80,
         "ranking": 65,
+        "sentiment": {
+            "compound": 0.9231,
+            "neg": 0.074,
+            "neu": 0.757,
+            "pos": 0.169
+        },
         "track": "'September'",
         "writers": "Albert McKay, Allee Willis, Maurice White",
         "year": 1978
@@ -721,6 +1111,12 @@
         "genre": "classic rock",
         "popularity": 69,
         "ranking": 66,
+        "sentiment": {
+            "compound": -0.7033,
+            "neg": 0.104,
+            "neu": 0.838,
+            "pos": 0.057
+        },
         "track": "'Bridge Over Troubled Water'",
         "writers": "Paul Simon",
         "year": 1970
@@ -732,6 +1128,12 @@
         "genre": "album rock",
         "popularity": 62,
         "ranking": 67,
+        "sentiment": {
+            "compound": 0.743,
+            "neg": 0.014,
+            "neu": 0.915,
+            "pos": 0.071
+        },
         "track": "'Tangled Up in Blue'",
         "writers": "Bob Dylan",
         "year": 1975
@@ -743,6 +1145,12 @@
         "genre": "disco",
         "popularity": 52,
         "ranking": 68,
+        "sentiment": {
+            "compound": 0.9606,
+            "neg": 0.012,
+            "neu": 0.805,
+            "pos": 0.183
+        },
         "track": "'Good Times'",
         "writers": "Bernard Edwards, Nile Rodgers",
         "year": 1979
@@ -754,6 +1162,12 @@
         "genre": "pop",
         "popularity": 68,
         "ranking": 69,
+        "sentiment": {
+            "compound": 0.8248,
+            "neg": 0.047,
+            "neu": 0.818,
+            "pos": 0.135
+        },
         "track": "'All Too Well'",
         "writers": "Taylor Swift, Liz Rose",
         "year": 2012
@@ -765,6 +1179,12 @@
         "genre": "rock-and-roll",
         "popularity": 70,
         "ranking": 70,
+        "sentiment": {
+            "compound": 0.8126,
+            "neg": 0.0,
+            "neu": 0.919,
+            "pos": 0.081
+        },
         "track": "'Suspicious Minds'",
         "writers": "Mark James",
         "year": 1969
@@ -776,6 +1196,12 @@
         "genre": "folk",
         "popularity": 77,
         "ranking": 71,
+        "sentiment": {
+            "compound": -0.7506,
+            "neg": 0.085,
+            "neu": 0.881,
+            "pos": 0.034
+        },
         "track": "'Fast Car'",
         "writers": "Tracy Chapman",
         "year": 1988
@@ -787,6 +1213,12 @@
         "genre": "beatlesque",
         "popularity": 75,
         "ranking": 72,
+        "sentiment": {
+            "compound": 0.0617,
+            "neg": 0.025,
+            "neu": 0.938,
+            "pos": 0.037
+        },
         "track": "'Yesterday'",
         "writers": "John Lennon, Paul McCartney",
         "year": 1965
@@ -798,6 +1230,12 @@
         "genre": "dance pop",
         "popularity": 73,
         "ranking": 73,
+        "sentiment": {
+            "compound": 0.2263,
+            "neg": 0.05,
+            "neu": 0.893,
+            "pos": 0.058
+        },
         "track": "'Formation'",
         "writers": "Aaquil Brown, Beyonc\u00e9, Khalif Brown, Michael L. Williams II",
         "year": 2016
@@ -809,6 +1247,12 @@
         "genre": "canadian singer-songwriter",
         "popularity": 63,
         "ranking": 74,
+        "sentiment": {
+            "compound": 0.6501,
+            "neg": 0.06,
+            "neu": 0.848,
+            "pos": 0.092
+        },
         "track": "'Hallelujah'",
         "writers": "Leonard Cohen",
         "year": 1984
@@ -820,6 +1264,12 @@
         "genre": "alternative rock",
         "popularity": 68,
         "ranking": 75,
+        "sentiment": {
+            "compound": 0.9079,
+            "neg": 0.02,
+            "neu": 0.843,
+            "pos": 0.137
+        },
         "track": "'Common People'",
         "writers": "Candida Doyle, Jarvis Cocker, Nick Banks, Russell Senior, Steve Mackey",
         "year": 1996
@@ -831,6 +1281,12 @@
         "genre": "arkansas country",
         "popularity": 66,
         "ranking": 76,
+        "sentiment": {
+            "compound": 0.25,
+            "neg": 0.041,
+            "neu": 0.908,
+            "pos": 0.051
+        },
         "track": "'I Walk the Line'",
         "writers": "Johnny Cash",
         "year": 1956
@@ -842,6 +1298,12 @@
         "genre": "alternative rock",
         "popularity": 56,
         "ranking": 77,
+        "sentiment": {
+            "compound": 0.4588,
+            "neg": 0.079,
+            "neu": 0.826,
+            "pos": 0.095
+        },
         "track": "'Roadrunner'",
         "writers": "Jonathan Richman",
         "year": 1976
@@ -853,6 +1315,12 @@
         "genre": "karaoke",
         "popularity": 0,
         "ranking": 78,
+        "sentiment": {
+            "compound": 0.8591,
+            "neg": 0.087,
+            "neu": 0.752,
+            "pos": 0.162
+        },
         "track": "'Reach Out (I'll Be There)'",
         "writers": "Brian Holland, Eddie Holland, Lamont Dozier",
         "year": 1967
@@ -864,6 +1332,12 @@
         "genre": "british soul",
         "popularity": 74,
         "ranking": 79,
+        "sentiment": {
+            "compound": 0.8126,
+            "neg": 0.077,
+            "neu": 0.781,
+            "pos": 0.142
+        },
         "track": "'Back to Black'",
         "writers": "Amy Winehouse, Mark Ronson",
         "year": 2006
@@ -875,6 +1349,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 80,
+        "sentiment": {
+            "compound": 0.6249,
+            "neg": 0.019,
+            "neu": 0.92,
+            "pos": 0.061
+        },
         "track": "What'd I Say'",
         "writers": "Ray Charles",
         "year": 1957
@@ -886,6 +1366,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 81,
+        "sentiment": {
+            "compound": -0.8555,
+            "neg": 0.142,
+            "neu": 0.789,
+            "pos": 0.069
+        },
         "track": "I\u2019m Waiting for the Man'",
         "writers": "Lou Reed",
         "year": 1967
@@ -897,6 +1383,12 @@
         "genre": "british soul",
         "popularity": 76,
         "ranking": 82,
+        "sentiment": {
+            "compound": -0.6652,
+            "neg": 0.056,
+            "neu": 0.922,
+            "pos": 0.022
+        },
         "track": "Rolling in the Deep'",
         "writers": "Adele Laurie Blue Adkins, Paul Richard Epworth",
         "year": 2011
@@ -908,6 +1400,12 @@
         "genre": "album rock",
         "popularity": 47,
         "ranking": 83,
+        "sentiment": {
+            "compound": -0.5267,
+            "neg": 0.037,
+            "neu": 0.963,
+            "pos": 0.0
+        },
         "track": "Desolation Row'",
         "writers": "Bob Dylan",
         "year": 1965
@@ -919,6 +1417,12 @@
         "genre": "classic soul",
         "popularity": 73,
         "ranking": 84,
+        "sentiment": {
+            "compound": 0.8225,
+            "neg": 0.036,
+            "neu": 0.825,
+            "pos": 0.139
+        },
         "track": "Let's Stay Together'",
         "writers": "Al Green, Al Jackson Jr., Willie Mitchell",
         "year": 1971
@@ -930,6 +1434,12 @@
         "genre": "funk",
         "popularity": 72,
         "ranking": 85,
+        "sentiment": {
+            "compound": -0.4854,
+            "neg": 0.061,
+            "neu": 0.897,
+            "pos": 0.043
+        },
         "track": "Kiss'",
         "writers": "Prince",
         "year": 1986
@@ -941,6 +1451,12 @@
         "genre": "british invasion",
         "popularity": 61,
         "ranking": 86,
+        "sentiment": {
+            "compound": 0.807,
+            "neg": 0.019,
+            "neu": 0.887,
+            "pos": 0.094
+        },
         "track": "Tumbling Dice'",
         "writers": "Mick Jagger, Keith Richards",
         "year": 1972
@@ -952,6 +1468,12 @@
         "genre": "alternative dance",
         "popularity": 58,
         "ranking": 87,
+        "sentiment": {
+            "compound": -0.853,
+            "neg": 0.185,
+            "neu": 0.685,
+            "pos": 0.129
+        },
         "track": "All My Friends'",
         "writers": "Pat Mahoney, James Murphy, Tyler Pope",
         "year": 2007
@@ -963,6 +1485,12 @@
         "genre": "glam metal",
         "popularity": 73,
         "ranking": 88,
+        "sentiment": {
+            "compound": 0.9625,
+            "neg": 0.013,
+            "neu": 0.815,
+            "pos": 0.172
+        },
         "track": "Sweet Child O' Mine'",
         "writers": "Duff McKagan, Jeffrey Isbell, Saul Hudson, Steven Adler, W. Axl Rose",
         "year": 1987
@@ -974,6 +1502,12 @@
         "genre": "beatlesque",
         "popularity": 73,
         "ranking": 89,
+        "sentiment": {
+            "compound": 0.657,
+            "neg": 0.03,
+            "neu": 0.902,
+            "pos": 0.068
+        },
         "track": "Hey Jude'",
         "writers": "John Lennon, Paul McCartney",
         "year": 1968
@@ -985,6 +1519,12 @@
         "genre": "classic soul",
         "popularity": 68,
         "ranking": 90,
+        "sentiment": {
+            "compound": 0.5505,
+            "neg": 0.029,
+            "neu": 0.91,
+            "pos": 0.062
+        },
         "track": "(You Make Me Feel Like) A Natural Woman'",
         "writers": "Carole King, Gerry Goffin, Jerry Wexler",
         "year": 1967
@@ -996,6 +1536,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 91,
+        "sentiment": {
+            "compound": 0.9366,
+            "neg": 0.073,
+            "neu": 0.77,
+            "pos": 0.157
+        },
         "track": "Int'l Players Anthem (I Choose You)'",
         "writers": "Bernard Freeman, Chad Butler, Andre Benjamin, Antwan Patton, Jordan Houston, Paul Beauregard",
         "year": 2007
@@ -1007,6 +1553,12 @@
         "genre": "adult standards",
         "popularity": 54,
         "ranking": 92,
+        "sentiment": {
+            "compound": -0.1127,
+            "neg": 0.067,
+            "neu": 0.888,
+            "pos": 0.046
+        },
         "track": "Good Golly, Miss Molly'",
         "writers": "Robert Blackwell, John Marascalco",
         "year": 1958
@@ -1018,6 +1570,12 @@
         "genre": "dance pop",
         "popularity": 70,
         "ranking": 93,
+        "sentiment": {
+            "compound": 0.2083,
+            "neg": 0.021,
+            "neu": 0.95,
+            "pos": 0.029
+        },
         "track": "Since U Been Gone'",
         "writers": "Lukasz Gottwald, Martin Sandberg",
         "year": 2004
@@ -1029,6 +1587,12 @@
         "genre": "dance pop",
         "popularity": 75,
         "ranking": 94,
+        "sentiment": {
+            "compound": 0.802,
+            "neg": 0.019,
+            "neu": 0.893,
+            "pos": 0.089
+        },
         "track": "I Will Always Love You'",
         "writers": "Dolly Parton",
         "year": 1992
@@ -1040,6 +1604,12 @@
         "genre": "beatlesque",
         "popularity": 77,
         "ranking": 95,
+        "sentiment": {
+            "compound": 0.7391,
+            "neg": 0.022,
+            "neu": 0.888,
+            "pos": 0.09
+        },
         "track": "Wonderwall'",
         "writers": "Noel Gallagher",
         "year": 1995
@@ -1051,6 +1621,12 @@
         "genre": "east coast hip hop",
         "popularity": 64,
         "ranking": 96,
+        "sentiment": {
+            "compound": 0.7351,
+            "neg": 0.074,
+            "neu": 0.796,
+            "pos": 0.129
+        },
         "track": "99 Problems'",
         "writers": "Shawn Carter, Fredrick Rubin, Norman Landsberg, Felix Pappalardi, William Squier, John Ventura, Leslie Weinstein, Tracy Marrow, Alphonso Henderson, Bernard Freeman",
         "year": 2003
@@ -1062,6 +1638,12 @@
         "genre": "art punk",
         "popularity": 50,
         "ranking": 97,
+        "sentiment": {
+            "compound": -0.0129,
+            "neg": 0.042,
+            "neu": 0.917,
+            "pos": 0.041
+        },
         "track": "Gloria'",
         "writers": "Patti Smith, Van Morrison",
         "year": 1975
@@ -1073,6 +1655,12 @@
         "genre": "beatlesque",
         "popularity": 71,
         "ranking": 98,
+        "sentiment": {
+            "compound": 0.9163,
+            "neg": 0.034,
+            "neu": 0.841,
+            "pos": 0.124
+        },
         "track": "In My Life'",
         "writers": "John Lennon, Paul McCartney",
         "year": 1965
@@ -1084,6 +1672,12 @@
         "genre": "disco",
         "popularity": 77,
         "ranking": 99,
+        "sentiment": {
+            "compound": 0.7876,
+            "neg": 0.0,
+            "neu": 0.94,
+            "pos": 0.06
+        },
         "track": "Stayin' Alive'",
         "writers": "Robin Gibb, Maurice Gibb, Barry Gibb",
         "year": 1977
@@ -1095,6 +1689,12 @@
         "genre": "album rock",
         "popularity": 68,
         "ranking": 100,
+        "sentiment": {
+            "compound": 0.1209,
+            "neg": 0.083,
+            "neu": 0.839,
+            "pos": 0.079
+        },
         "track": "Blowin' in the Wind'",
         "writers": "Bob Dylan",
         "year": 1963
@@ -1106,6 +1706,12 @@
         "genre": "alternative dance",
         "popularity": 66,
         "ranking": 101,
+        "sentiment": {
+            "compound": 0.34,
+            "neg": 0.067,
+            "neu": 0.845,
+            "pos": 0.088
+        },
         "track": "Maps'",
         "writers": "Brian Chase, Karen Lee Orzolek, Nicholas Joseph Zinner",
         "year": 2003
@@ -1117,6 +1723,12 @@
         "genre": "blues rock",
         "popularity": 15,
         "ranking": 102,
+        "sentiment": {
+            "compound": 0.3612,
+            "neg": 0.05,
+            "neu": 0.877,
+            "pos": 0.073
+        },
         "track": "Maybelline'",
         "writers": "Chuck Berry",
         "year": 1955
@@ -1128,6 +1740,12 @@
         "genre": "alternative rock",
         "popularity": 66,
         "ranking": 103,
+        "sentiment": {
+            "compound": -0.743,
+            "neg": 0.14,
+            "neu": 0.775,
+            "pos": 0.085
+        },
         "track": "You Oughta Know'",
         "writers": "Alanis Morissette, Glen Ballard",
         "year": 1995
@@ -1139,6 +1757,12 @@
         "genre": "motown",
         "popularity": 75,
         "ranking": 104,
+        "sentiment": {
+            "compound": 0.7992,
+            "neg": 0.0,
+            "neu": 0.896,
+            "pos": 0.104
+        },
         "track": "I Want You Back'",
         "writers": "Alphonso Mizell, Berry Gordy, Dennis Lussier, Freddie Perren",
         "year": 1969
@@ -1150,6 +1774,12 @@
         "genre": "art rock",
         "popularity": 68,
         "ranking": 105,
+        "sentiment": {
+            "compound": -0.4522,
+            "neg": 0.058,
+            "neu": 0.901,
+            "pos": 0.041
+        },
         "track": "Life on Mars?'",
         "writers": "David Bowie",
         "year": 1971
@@ -1161,6 +1791,12 @@
         "genre": "british invasion",
         "popularity": 74,
         "ranking": 106,
+        "sentiment": {
+            "compound": -0.5859,
+            "neg": 0.156,
+            "neu": 0.701,
+            "pos": 0.143
+        },
         "track": "Sympathy for the Devil'",
         "writers": "Keith Richards, Mick Jagger",
         "year": 1968
@@ -1172,6 +1808,12 @@
         "genre": "east coast hip hop",
         "popularity": 72,
         "ranking": 107,
+        "sentiment": {
+            "compound": 0.1779,
+            "neg": 0.033,
+            "neu": 0.927,
+            "pos": 0.04
+        },
         "track": "C.R.E.A.M.'",
         "writers": "Wu-Tang Clan",
         "year": 1994
@@ -1179,10 +1821,16 @@
     "108": {
         "artist": "The Cure",
         "description": "Robert Smith wrote the Cure\u2019s 1987 single \u201cJust Like Heaven\u201d after a romantic getaway to Beachy Head in East Sussex, England, with his future wife, Mary Poole. \u201cThe song is about hyperventilating \u2014 kissing and fainting to the floor,\u201d Smith said in 2003. \u201cMary dances with me in the video because she was the girl, so it had to be her. The idea is that one night like that is worth 1,000 hours of drudgery.\u201d Millions of people connected to that sentiment, and \u201cJust Like Heaven\u201d became the Cure\u2019s first Top 40 hit in America.",
-        "duration": 212000,
-        "genre": "new wave",
-        "popularity": 65,
+        "duration": null,
+        "genre": null,
+        "popularity": null,
         "ranking": 108,
+        "sentiment": {
+            "compound": 0.9393,
+            "neg": 0.0,
+            "neu": 0.83,
+            "pos": 0.17
+        },
         "track": "Just Like Heaven'",
         "writers": "Boris Williams, Lol Tolhurst, Porl Thompson, Robert Smith, Simon Gallup",
         "year": 1987
@@ -1194,6 +1842,12 @@
         "genre": "classic rock",
         "popularity": 64,
         "ranking": 109,
+        "sentiment": {
+            "compound": 0.3094,
+            "neg": 0.039,
+            "neu": 0.885,
+            "pos": 0.076
+        },
         "track": "Everyday People'",
         "writers": "Sylvester Stewart",
         "year": 1968
@@ -1205,6 +1859,12 @@
         "genre": "beatlesque",
         "popularity": 69,
         "ranking": 110,
+        "sentiment": {
+            "compound": 0.5574,
+            "neg": 0.021,
+            "neu": 0.923,
+            "pos": 0.057
+        },
         "track": "Something'",
         "writers": "George Harrison",
         "year": 1969
@@ -1216,6 +1876,12 @@
         "genre": "classic rock",
         "popularity": 63,
         "ranking": 111,
+        "sentiment": {
+            "compound": -0.0387,
+            "neg": 0.041,
+            "neu": 0.92,
+            "pos": 0.039
+        },
         "track": "Thunder Road'",
         "writers": "Bruce Springsteen",
         "year": 1975
@@ -1227,6 +1893,12 @@
         "genre": "alternative rock",
         "popularity": 81,
         "ranking": 112,
+        "sentiment": {
+            "compound": -0.4115,
+            "neg": 0.045,
+            "neu": 0.938,
+            "pos": 0.018
+        },
         "track": "Losing My Religion'",
         "writers": "Michael Mills, Michael Stipe, Peter Buck, William Berry",
         "year": 1991
@@ -1238,6 +1910,12 @@
         "genre": "funk",
         "popularity": 64,
         "ranking": 113,
+        "sentiment": {
+            "compound": 0.5994,
+            "neg": 0.074,
+            "neu": 0.811,
+            "pos": 0.115
+        },
         "track": "Higher Ground'",
         "writers": "Stevie Wonder",
         "year": 1973
@@ -1249,6 +1927,12 @@
         "genre": "dance pop",
         "popularity": 80,
         "ranking": 114,
+        "sentiment": {
+            "compound": 0.0,
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0
+        },
         "track": "Toxic'",
         "writers": "Cathy Dennis, CKS Garage, Henrik Jonback, Pontus Winnberg",
         "year": 2003
@@ -1260,6 +1944,12 @@
         "genre": "adult standards",
         "popularity": 74,
         "ranking": 115,
+        "sentiment": {
+            "compound": 0.2411,
+            "neg": 0.0,
+            "neu": 0.979,
+            "pos": 0.021
+        },
         "track": "At Last'",
         "writers": "Harry Warren, Mack Gordon",
         "year": 1960
@@ -1271,6 +1961,12 @@
         "genre": "electro",
         "popularity": 28,
         "ranking": 116,
+        "sentiment": {
+            "compound": 0.9778,
+            "neg": 0.047,
+            "neu": 0.705,
+            "pos": 0.247
+        },
         "track": "It Takes Two'",
         "writers": "Robert Ginyard",
         "year": 1988
@@ -1282,6 +1978,12 @@
         "genre": "classic soul",
         "popularity": 74,
         "ranking": 117,
+        "sentiment": {
+            "compound": 0.8074,
+            "neg": 0.064,
+            "neu": 0.806,
+            "pos": 0.13
+        },
         "track": "I Say a Little Prayer'",
         "writers": "Burt Bacharach, Hal David",
         "year": 1968
@@ -1293,6 +1995,12 @@
         "genre": "alternative rock",
         "popularity": 81,
         "ranking": 118,
+        "sentiment": {
+            "compound": 0.9816,
+            "neg": 0.0,
+            "neu": 0.742,
+            "pos": 0.258
+        },
         "track": "Creep'",
         "writers": "Albert Hammond, Colin Greenwood, Ed O'Brien, Jonny Greenwood, Mike Hazlewood, Philip Selway, Thom Yorke",
         "year": 1992
@@ -1304,6 +2012,12 @@
         "genre": "classic soul",
         "popularity": 71,
         "ranking": 119,
+        "sentiment": {
+            "compound": 0.5574,
+            "neg": 0.023,
+            "neu": 0.914,
+            "pos": 0.063
+        },
         "track": "I Heard It Through the Grapevine'",
         "writers": "Barrett Strong, Norman Whitfield",
         "year": 1968
@@ -1315,6 +2029,12 @@
         "genre": "black punk",
         "popularity": 49,
         "ranking": 120,
+        "sentiment": {
+            "compound": 0.0976,
+            "neg": 0.065,
+            "neu": 0.857,
+            "pos": 0.078
+        },
         "track": "Oh Bondage! Up Yours!'",
         "writers": "Poly Styrene",
         "year": 1977
@@ -1326,6 +2046,12 @@
         "genre": "beatlesque",
         "popularity": 76,
         "ranking": 121,
+        "sentiment": {
+            "compound": -0.4939,
+            "neg": 0.105,
+            "neu": 0.817,
+            "pos": 0.077
+        },
         "track": "Let It Be'",
         "writers": "John Lennon, Paul McCartney",
         "year": 1970
@@ -1337,6 +2063,12 @@
         "genre": "brill building pop",
         "popularity": 58,
         "ranking": 122,
+        "sentiment": {
+            "compound": 0.0387,
+            "neg": 0.015,
+            "neu": 0.969,
+            "pos": 0.016
+        },
         "track": "People Get Ready'",
         "writers": "Curtis Mayfield",
         "year": 1965
@@ -1348,6 +2080,12 @@
         "genre": "art punk",
         "popularity": 70,
         "ranking": 123,
+        "sentiment": {
+            "compound": 0.8126,
+            "neg": 0.064,
+            "neu": 0.785,
+            "pos": 0.151
+        },
         "track": "This Must Be the Place (Naive Melody)'",
         "writers": "Chris Frantz, David Byrne, Jerry Harrison, Tina Weymouth",
         "year": 1983
@@ -1359,6 +2097,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 124,
+        "sentiment": {
+            "compound": 0.5859,
+            "neg": 0.016,
+            "neu": 0.928,
+            "pos": 0.056
+        },
         "track": "That\u2019ll Be the Day'",
         "writers": "Buddy Holly, Jerry Allison, Norman Petty",
         "year": 1957
@@ -1370,6 +2114,12 @@
         "genre": "punk",
         "popularity": 52,
         "ranking": 125,
+        "sentiment": {
+            "compound": -0.9039,
+            "neg": 0.164,
+            "neu": 0.784,
+            "pos": 0.053
+        },
         "track": "Anarchy in the U.K.'",
         "writers": "John Lydon, Glenn Matlock, Paul Cook, Simon Ritchie, Steve Jones",
         "year": 1977
@@ -1381,6 +2131,12 @@
         "genre": "new wave pop",
         "popularity": 67,
         "ranking": 126,
+        "sentiment": {
+            "compound": 0.0,
+            "neg": 0.051,
+            "neu": 0.9,
+            "pos": 0.049
+        },
         "track": "Freedom! '90'",
         "writers": "George Michael",
         "year": 1990
@@ -1392,6 +2148,12 @@
         "genre": "atl hip hop",
         "popularity": 71,
         "ranking": 127,
+        "sentiment": {
+            "compound": 0.9485,
+            "neg": 0.022,
+            "neu": 0.798,
+            "pos": 0.18
+        },
         "track": "Waterfalls'",
         "writers": "Brandon Bennett, Lisa \"Left Eye\" Lopes, Marqueze Etheridge, Rico Wade, Ray Murray, Sleepy Brown",
         "year": 1995
@@ -1403,6 +2165,12 @@
         "genre": "album rock",
         "popularity": 75,
         "ranking": 128,
+        "sentiment": {
+            "compound": 0.9013,
+            "neg": 0.021,
+            "neu": 0.857,
+            "pos": 0.122
+        },
         "track": "Whole Lotta Love'",
         "writers": "John Bonham, John Paul Jones, Jimmy Page, Robert Plant, Willie Dixon",
         "year": 1969
@@ -1414,6 +2182,12 @@
         "genre": "canadian hip hop",
         "popularity": 69,
         "ranking": 129,
+        "sentiment": {
+            "compound": 0.9207,
+            "neg": 0.0,
+            "neu": 0.885,
+            "pos": 0.115
+        },
         "track": "Hold On, We're Going Home'",
         "writers": "Aubrey Graham, Jordan Ullman, Majid Maskati, Noah Shebib, Paul Jeffries",
         "year": 2013
@@ -1425,6 +2199,12 @@
         "genre": "brill building pop",
         "popularity": 67,
         "ranking": 130,
+        "sentiment": {
+            "compound": 0.5707,
+            "neg": 0.035,
+            "neu": 0.874,
+            "pos": 0.091
+        },
         "track": "Dancing in the Street'",
         "writers": "Ivy Joe Hunter, Marvin Gaye, William Stevenson",
         "year": 1964
@@ -1436,6 +2216,12 @@
         "genre": "adult standards",
         "popularity": 76,
         "ranking": 131,
+        "sentiment": {
+            "compound": -0.6486,
+            "neg": 0.045,
+            "neu": 0.942,
+            "pos": 0.014
+        },
         "track": "Stand by Me'",
         "writers": "Ben E. King, Jerry Leiber, Mike Stoller",
         "year": 1961
@@ -1447,6 +2233,12 @@
         "genre": "alternative hip hop",
         "popularity": 51,
         "ranking": 132,
+        "sentiment": {
+            "compound": 0.7684,
+            "neg": 0.0,
+            "neu": 0.932,
+            "pos": 0.068
+        },
         "track": "Paid in Full'",
         "writers": "Eric Barrier, William Griffin",
         "year": 1987
@@ -1458,6 +2250,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 133,
+        "sentiment": {
+            "compound": 0.3744,
+            "neg": 0.046,
+            "neu": 0.885,
+            "pos": 0.069
+        },
         "track": "Don\u2019t Stop Believin\u2019'",
         "writers": "Jonathan Cain, Neal Schon, Stephen Perry",
         "year": 1981
@@ -1469,6 +2267,12 @@
         "genre": "disco",
         "popularity": 72,
         "ranking": 134,
+        "sentiment": {
+            "compound": 0.3919,
+            "neg": 0.056,
+            "neu": 0.873,
+            "pos": 0.071
+        },
         "track": "What's Love Got to Do With It'",
         "writers": "Graham Lyle, Terry Britten",
         "year": 1984
@@ -1480,6 +2284,12 @@
         "genre": "beatlesque",
         "popularity": 65,
         "ranking": 135,
+        "sentiment": {
+            "compound": 0.9072,
+            "neg": 0.0,
+            "neu": 0.852,
+            "pos": 0.148
+        },
         "track": "She Loves You'",
         "writers": "John Lennon, Paul McCartney",
         "year": 1964
@@ -1491,6 +2301,12 @@
         "genre": "classic soul",
         "popularity": 62,
         "ranking": 136,
+        "sentiment": {
+            "compound": 0.7184,
+            "neg": 0.0,
+            "neu": 0.926,
+            "pos": 0.074
+        },
         "track": "Try a Little Tenderness'",
         "writers": "Harry Woods, James Campbell, Reginald Connelly",
         "year": 1966
@@ -1502,6 +2318,12 @@
         "genre": "dance pop",
         "popularity": 81,
         "ranking": 137,
+        "sentiment": {
+            "compound": 0.802,
+            "neg": 0.06,
+            "neu": 0.807,
+            "pos": 0.133
+        },
         "track": "Thank U, Next'",
         "writers": "Kimberly Krysiuk, Tayla Parx, Victoria McCants, Ariana Grande, Charles Anderson, Michael Foster, Njomza Vitia, Tommy Brown",
         "year": 2019
@@ -1513,6 +2335,12 @@
         "genre": "candy pop",
         "popularity": 62,
         "ranking": 138,
+        "sentiment": {
+            "compound": 0.4215,
+            "neg": 0.062,
+            "neu": 0.853,
+            "pos": 0.085
+        },
         "track": "Heart of Glass'",
         "writers": "Chris Stein, Debbie Harry",
         "year": 1979
@@ -1524,6 +2352,12 @@
         "genre": "dance pop",
         "popularity": 65,
         "ranking": 139,
+        "sentiment": {
+            "compound": 0.9034,
+            "neg": 0.028,
+            "neu": 0.834,
+            "pos": 0.138
+        },
         "track": "Vogue'",
         "writers": "Madonna, Shep Pettibone",
         "year": 1990
@@ -1535,6 +2369,12 @@
         "genre": "reggae",
         "popularity": 66,
         "ranking": 140,
+        "sentiment": {
+            "compound": 0.9603,
+            "neg": 0.031,
+            "neu": 0.788,
+            "pos": 0.181
+        },
         "track": "No Woman No Cry'",
         "writers": "Vincent Ford, Bob Marley",
         "year": 1975
@@ -1546,6 +2386,12 @@
         "genre": "classic rock",
         "popularity": 71,
         "ranking": 141,
+        "sentiment": {
+            "compound": 0.7816,
+            "neg": 0.016,
+            "neu": 0.862,
+            "pos": 0.122
+        },
         "track": "Maggie May'",
         "writers": "Rod Stewart, Martin Quittenton",
         "year": 1971
@@ -1557,6 +2403,12 @@
         "genre": "country",
         "popularity": 55,
         "ranking": 142,
+        "sentiment": {
+            "compound": 0.1432,
+            "neg": 0.086,
+            "neu": 0.807,
+            "pos": 0.107
+        },
         "track": "He Stopped Loving Her Today'",
         "writers": "Bobby Braddock, Curly Putnam",
         "year": 1980
@@ -1568,6 +2420,12 @@
         "genre": "classic rock",
         "popularity": 70,
         "ranking": 143,
+        "sentiment": {
+            "compound": -0.8957,
+            "neg": 0.141,
+            "neu": 0.815,
+            "pos": 0.043
+        },
         "track": "London Calling'",
         "writers": "Mick Jones, Joe Strummer",
         "year": 1980
@@ -1579,6 +2437,12 @@
         "genre": "british invasion",
         "popularity": 0,
         "ranking": 144,
+        "sentiment": {
+            "compound": 0.3804,
+            "neg": 0.037,
+            "neu": 0.912,
+            "pos": 0.051
+        },
         "track": "Jumpin\u2019 Jack Flash'",
         "writers": "Mick Jagger, Keith Richards",
         "year": 1968
@@ -1590,6 +2454,12 @@
         "genre": "atl hip hop",
         "popularity": 79,
         "ranking": 145,
+        "sentiment": {
+            "compound": 0.9398,
+            "neg": 0.076,
+            "neu": 0.724,
+            "pos": 0.201
+        },
         "track": "Ms. Jackson'",
         "writers": "Andr\u00e9 Benjamin, Antwan Patton, David Sheats",
         "year": 2000
@@ -1601,6 +2471,12 @@
         "genre": "adult standards",
         "popularity": 71,
         "ranking": 146,
+        "sentiment": {
+            "compound": 0.7579,
+            "neg": 0.043,
+            "neu": 0.833,
+            "pos": 0.124
+        },
         "track": "Fire and Rain'",
         "writers": "James Taylor",
         "year": 1970
@@ -1612,6 +2488,12 @@
         "genre": "adult standards",
         "popularity": 60,
         "ranking": 147,
+        "sentiment": {
+            "compound": -0.7579,
+            "neg": 0.104,
+            "neu": 0.857,
+            "pos": 0.039
+        },
         "track": "Blueberry Hill'",
         "writers": "Al Lewis, Larry Stock, Vincent Rose",
         "year": 1956
@@ -1623,6 +2505,12 @@
         "genre": "album rock",
         "popularity": 70,
         "ranking": 148,
+        "sentiment": {
+            "compound": 0.8858,
+            "neg": 0.031,
+            "neu": 0.836,
+            "pos": 0.133
+        },
         "track": "Kashmir'",
         "writers": "John Bonham, Jimmy Page, Robert Plant",
         "year": 1975
@@ -1634,6 +2522,12 @@
         "genre": "glam rock",
         "popularity": 79,
         "ranking": 149,
+        "sentiment": {
+            "compound": 0.624,
+            "neg": 0.071,
+            "neu": 0.823,
+            "pos": 0.106
+        },
         "track": "Rocket Man'",
         "writers": "Elton John, Bernie Taupin",
         "year": 1972
@@ -1645,6 +2539,12 @@
         "genre": "permanent wave",
         "popularity": 78,
         "ranking": 150,
+        "sentiment": {
+            "compound": -0.3818,
+            "neg": 0.071,
+            "neu": 0.882,
+            "pos": 0.048
+        },
         "track": "Basket Case'",
         "writers": "Billie Joe Armstrong, Mike Dirnt, Tre Cool",
         "year": 1994
@@ -1656,6 +2556,12 @@
         "genre": "adult standards",
         "popularity": 61,
         "ranking": 151,
+        "sentiment": {
+            "compound": 0.9443,
+            "neg": 0.0,
+            "neu": 0.856,
+            "pos": 0.144
+        },
         "track": "Will You Love Me Tomorrow'",
         "writers": "Gerry Goffin, Carole King",
         "year": 1960
@@ -1667,6 +2573,12 @@
         "genre": "classic rock",
         "popularity": 61,
         "ranking": 152,
+        "sentiment": {
+            "compound": 0.802,
+            "neg": 0.0,
+            "neu": 0.935,
+            "pos": 0.065
+        },
         "track": "Proud Mary'",
         "writers": "John Fogerty",
         "year": 1969
@@ -1678,6 +2590,12 @@
         "genre": "disco",
         "popularity": 72,
         "ranking": 153,
+        "sentiment": {
+            "compound": 0.9524,
+            "neg": 0.0,
+            "neu": 0.862,
+            "pos": 0.138
+        },
         "track": "Super Freak'",
         "writers": "Rick James, Alonzo Miller",
         "year": 1981
@@ -1689,6 +2607,12 @@
         "genre": "blues",
         "popularity": 54,
         "ranking": 154,
+        "sentiment": {
+            "compound": -0.5859,
+            "neg": 0.083,
+            "neu": 0.87,
+            "pos": 0.046
+        },
         "track": "Spoonful'",
         "writers": "Willie Dixon",
         "year": 1960
@@ -1700,6 +2624,12 @@
         "genre": "alternative rock",
         "popularity": 64,
         "ranking": 155,
+        "sentiment": {
+            "compound": 0.885,
+            "neg": 0.015,
+            "neu": 0.85,
+            "pos": 0.135
+        },
         "track": "Last Nite'",
         "writers": "Julian Casablancas",
         "year": 2001
@@ -1711,6 +2641,12 @@
         "genre": "classic garage rock",
         "popularity": 67,
         "ranking": 156,
+        "sentiment": {
+            "compound": 0.2023,
+            "neg": 0.027,
+            "neu": 0.925,
+            "pos": 0.048
+        },
         "track": "Louie Louie'",
         "writers": "Richard Berry",
         "year": 1963
@@ -1722,6 +2658,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 157,
+        "sentiment": {
+            "compound": 0.8834,
+            "neg": 0.037,
+            "neu": 0.836,
+            "pos": 0.127
+        },
         "track": "Teenage Riot'",
         "writers": "Thurston Moore, Kim Gordon, Lee Ranaldo, Steve Shelley",
         "year": 1988
@@ -1733,6 +2675,12 @@
         "genre": "afrobeat",
         "popularity": 62,
         "ranking": 158,
+        "sentiment": {
+            "compound": -0.5023,
+            "neg": 0.046,
+            "neu": 0.931,
+            "pos": 0.023
+        },
         "track": "Cissy Strut'",
         "writers": "Leo Nocentelli, Arthur Neville, George Porter, Joseph Modeliste",
         "year": 1969
@@ -1744,6 +2692,12 @@
         "genre": "album rock",
         "popularity": 75,
         "ranking": 159,
+        "sentiment": {
+            "compound": 0.6351,
+            "neg": 0.0,
+            "neu": 0.941,
+            "pos": 0.059
+        },
         "track": "Baba O'Riley'",
         "writers": "Pete Townshend",
         "year": 1971
@@ -1755,6 +2709,12 @@
         "genre": "alternative rock",
         "popularity": 61,
         "ranking": 160,
+        "sentiment": {
+            "compound": 0.6331,
+            "neg": 0.053,
+            "neu": 0.873,
+            "pos": 0.074
+        },
         "track": "Nightswimming'",
         "writers": "Bill Berry, Peter Buck, Mike Mills, Michael Stipe",
         "year": 1992
@@ -1766,6 +2726,12 @@
         "genre": "dance pop",
         "popularity": 63,
         "ranking": 161,
+        "sentiment": {
+            "compound": 0.8658,
+            "neg": 0.022,
+            "neu": 0.871,
+            "pos": 0.106
+        },
         "track": "Into the Groove'",
         "writers": "Madonna, Stephen Bray",
         "year": 1985
@@ -1777,6 +2743,12 @@
         "genre": "british folk",
         "popularity": 67,
         "ranking": 162,
+        "sentiment": {
+            "compound": -0.5267,
+            "neg": 0.115,
+            "neu": 0.802,
+            "pos": 0.083
+        },
         "track": "Pink Moon'",
         "writers": "Nick Drake",
         "year": 1972
@@ -1788,6 +2760,12 @@
         "genre": "album rock",
         "popularity": 76,
         "ranking": 163,
+        "sentiment": {
+            "compound": 0.9127,
+            "neg": 0.0,
+            "neu": 0.885,
+            "pos": 0.115
+        },
         "track": "Landslide'",
         "writers": "Stevie Nicks",
         "year": 1975
@@ -1799,6 +2777,12 @@
         "genre": "album rock",
         "popularity": 62,
         "ranking": 164,
+        "sentiment": {
+            "compound": 0.8478,
+            "neg": 0.036,
+            "neu": 0.848,
+            "pos": 0.116
+        },
         "track": "Mr. Tambourine Man'",
         "writers": "Bob Dylan",
         "year": 1965
@@ -1810,6 +2794,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 165,
+        "sentiment": {
+            "compound": -0.9209,
+            "neg": 0.152,
+            "neu": 0.814,
+            "pos": 0.034
+        },
         "track": "I\u2019m So Lonesome I Could Cry'",
         "writers": "Hank Williams",
         "year": 1949
@@ -1821,6 +2811,12 @@
         "genre": "album rock",
         "popularity": 62,
         "ranking": 166,
+        "sentiment": {
+            "compound": -0.6705,
+            "neg": 0.063,
+            "neu": 0.916,
+            "pos": 0.022
+        },
         "track": "All the Young Dudes'",
         "writers": "David Bowie",
         "year": 1972
@@ -1832,6 +2828,12 @@
         "genre": "detroit hip hop",
         "popularity": 74,
         "ranking": 167,
+        "sentiment": {
+            "compound": 0.2617,
+            "neg": 0.069,
+            "neu": 0.861,
+            "pos": 0.07
+        },
         "track": "Lose Yourself'",
         "writers": "Marshall Mathers",
         "year": 2002
@@ -1843,6 +2845,12 @@
         "genre": "adult standards",
         "popularity": 60,
         "ranking": 168,
+        "sentiment": {
+            "compound": -0.6256,
+            "neg": 0.058,
+            "neu": 0.942,
+            "pos": 0.0
+        },
         "track": "Son of a Preacher Man'",
         "writers": "John Hurley, Ronnie Wilkins",
         "year": 1968
@@ -1854,6 +2862,12 @@
         "genre": "album rock",
         "popularity": 74,
         "ranking": 169,
+        "sentiment": {
+            "compound": 0.8561,
+            "neg": 0.053,
+            "neu": 0.82,
+            "pos": 0.127
+        },
         "track": "American Girl'",
         "writers": "Tom Petty",
         "year": 1976
@@ -1865,6 +2879,12 @@
         "genre": "brill building pop",
         "popularity": 56,
         "ranking": 170,
+        "sentiment": {
+            "compound": 0.0129,
+            "neg": 0.0,
+            "neu": 0.989,
+            "pos": 0.011
+        },
         "track": "In the Still of the Night'",
         "writers": "Fred Parris",
         "year": 1956
@@ -1876,6 +2896,12 @@
         "genre": "adult standards",
         "popularity": 66,
         "ranking": 171,
+        "sentiment": {
+            "compound": 0.9423,
+            "neg": 0.038,
+            "neu": 0.791,
+            "pos": 0.171
+        },
         "track": "What a Wonderful World'",
         "writers": "G.D. Weiss, G. Douglas",
         "year": 1967
@@ -1887,6 +2913,12 @@
         "genre": "adult standards",
         "popularity": 35,
         "ranking": 172,
+        "sentiment": {
+            "compound": -0.8807,
+            "neg": 0.139,
+            "neu": 0.814,
+            "pos": 0.047
+        },
         "track": "Mississippi Goddam'",
         "writers": "Nina Simone",
         "year": 1964
@@ -1898,6 +2930,12 @@
         "genre": "alternative rock",
         "popularity": 55,
         "ranking": 173,
+        "sentiment": {
+            "compound": 0.5994,
+            "neg": 0.061,
+            "neu": 0.837,
+            "pos": 0.102
+        },
         "track": "Marquee Moon'",
         "writers": "Tom Verlaine",
         "year": 1977
@@ -1909,6 +2947,12 @@
         "genre": "alternative rock",
         "popularity": 46,
         "ranking": 174,
+        "sentiment": {
+            "compound": 0.7351,
+            "neg": 0.02,
+            "neu": 0.896,
+            "pos": 0.084
+        },
         "track": "Radio Free Europe'",
         "writers": "Bill Berry, Peter Buck, Mike Mills, Michael Stipe",
         "year": 1983
@@ -1920,6 +2964,12 @@
         "genre": "brill building pop",
         "popularity": 59,
         "ranking": 175,
+        "sentiment": {
+            "compound": 0.765,
+            "neg": 0.052,
+            "neu": 0.779,
+            "pos": 0.169
+        },
         "track": "I Only Have Eyes for You'",
         "writers": "Al Dubin, Harry Warren",
         "year": 1959
@@ -1931,6 +2981,12 @@
         "genre": "album rock",
         "popularity": 70,
         "ranking": 176,
+        "sentiment": {
+            "compound": 0.2144,
+            "neg": 0.063,
+            "neu": 0.849,
+            "pos": 0.088
+        },
         "track": "You Really Got Me'",
         "writers": "Ray Davies",
         "year": 1964
@@ -1942,6 +2998,12 @@
         "genre": "album rock",
         "popularity": 77,
         "ranking": 177,
+        "sentiment": {
+            "compound": 0.5789,
+            "neg": 0.045,
+            "neu": 0.862,
+            "pos": 0.093
+        },
         "track": "Jump'",
         "writers": "Edward Van Halen, Alex Van Halen, Michael Anthony, David Lee Roth",
         "year": 1983
@@ -1953,6 +3015,12 @@
         "genre": "electropop",
         "popularity": 84,
         "ranking": 178,
+        "sentiment": {
+            "compound": 0.3355,
+            "neg": 0.074,
+            "neu": 0.829,
+            "pos": 0.097
+        },
         "track": "Bad Guy'",
         "writers": "Finneas O'Connell, Billie Eilish O'Connell",
         "year": 2019
@@ -1964,6 +3032,12 @@
         "genre": "album rock",
         "popularity": 71,
         "ranking": 179,
+        "sentiment": {
+            "compound": 0.6187,
+            "neg": 0.095,
+            "neu": 0.771,
+            "pos": 0.134
+        },
         "track": "Comfortably Numb'",
         "writers": "David Gilmour, Roger Waters",
         "year": 1979
@@ -1975,6 +3049,12 @@
         "genre": "art rock",
         "popularity": 73,
         "ranking": 180,
+        "sentiment": {
+            "compound": 0.8605,
+            "neg": 0.03,
+            "neu": 0.857,
+            "pos": 0.112
+        },
         "track": "Walk on the Wild Side'",
         "writers": "Lou Reed",
         "year": 1972
@@ -1986,6 +3066,12 @@
         "genre": "art rock",
         "popularity": 54,
         "ranking": 181,
+        "sentiment": {
+            "compound": -0.4404,
+            "neg": 0.037,
+            "neu": 0.944,
+            "pos": 0.019
+        },
         "track": "Eight Miles High'",
         "writers": "Gene Clark, James McGuinn, David Crosby",
         "year": 1966
@@ -1997,6 +3083,12 @@
         "genre": "classic rock",
         "popularity": 51,
         "ranking": 182,
+        "sentiment": {
+            "compound": 0.4398,
+            "neg": 0.026,
+            "neu": 0.915,
+            "pos": 0.059
+        },
         "track": "The Sounds of Silence'",
         "writers": "Paul Simon",
         "year": 1964
@@ -2008,6 +3100,12 @@
         "genre": "funk",
         "popularity": 69,
         "ranking": 183,
+        "sentiment": {
+            "compound": 0.8537,
+            "neg": 0.0,
+            "neu": 0.893,
+            "pos": 0.107
+        },
         "track": "You Are the Sunshine of My Life'",
         "writers": "Stevie Wonder",
         "year": 1972
@@ -2019,6 +3117,12 @@
         "genre": "lilith",
         "popularity": 71,
         "ranking": 184,
+        "sentiment": {
+            "compound": -0.4215,
+            "neg": 0.065,
+            "neu": 0.897,
+            "pos": 0.038
+        },
         "track": "Nothing Compares 2 U'",
         "writers": "Prince",
         "year": 1990
@@ -2030,6 +3134,12 @@
         "genre": "pop",
         "popularity": 78,
         "ranking": 185,
+        "sentiment": {
+            "compound": 0.5106,
+            "neg": 0.0,
+            "neu": 0.954,
+            "pos": 0.046
+        },
         "track": "Beat It'",
         "writers": "Michael Jackson",
         "year": 1982
@@ -2041,6 +3151,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 186,
+        "sentiment": {
+            "compound": 0.8486,
+            "neg": 0.027,
+            "neu": 0.877,
+            "pos": 0.096
+        },
         "track": "I'll Take You There'",
         "writers": "Alvertis Isbell",
         "year": 1972
@@ -2052,6 +3168,12 @@
         "genre": "album rock",
         "popularity": 56,
         "ranking": 187,
+        "sentiment": {
+            "compound": 0.0,
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0
+        },
         "track": "Subterranean Homesick Blues'",
         "writers": "Bob Dylan",
         "year": 1965
@@ -2063,6 +3185,12 @@
         "genre": null,
         "popularity": 0,
         "ranking": 188,
+        "sentiment": {
+            "compound": 0.5574,
+            "neg": 0.035,
+            "neu": 0.884,
+            "pos": 0.081
+        },
         "track": "Little Wing'",
         "writers": "Jimi Hendrix",
         "year": 1967
@@ -2074,6 +3202,12 @@
         "genre": "art rock",
         "popularity": 70,
         "ranking": 189,
+        "sentiment": {
+            "compound": 0.6808,
+            "neg": 0.0,
+            "neu": 0.939,
+            "pos": 0.061
+        },
         "track": "Space Oddity'",
         "writers": "David Bowie",
         "year": 1969
@@ -2085,6 +3219,12 @@
         "genre": "conscious hip hop",
         "popularity": 68,
         "ranking": 190,
+        "sentiment": {
+            "compound": -0.9313,
+            "neg": 0.138,
+            "neu": 0.834,
+            "pos": 0.029
+        },
         "track": "Fuck tha Police'",
         "writers": "MC Ren, Ice Cube",
         "year": 1988
@@ -2096,6 +3236,12 @@
         "genre": "brill building pop",
         "popularity": 55,
         "ranking": 191,
+        "sentiment": {
+            "compound": 0.6808,
+            "neg": 0.0,
+            "neu": 0.933,
+            "pos": 0.067
+        },
         "track": "Ode to Billie Joe'",
         "writers": "Bobbie Gentry",
         "year": 1967
@@ -2107,6 +3253,12 @@
         "genre": "conscious hip hop",
         "popularity": 65,
         "ranking": 192,
+        "sentiment": {
+            "compound": 0.3506,
+            "neg": 0.134,
+            "neu": 0.758,
+            "pos": 0.108
+        },
         "track": "Mind Playing Tricks on Me'",
         "writers": "Brad Jordan, J. Prince",
         "year": 1991
@@ -2118,6 +3270,12 @@
         "genre": "british invasion",
         "popularity": 70,
         "ranking": 193,
+        "sentiment": {
+            "compound": 0.5719,
+            "neg": 0.018,
+            "neu": 0.91,
+            "pos": 0.072
+        },
         "track": "Wild Horses'",
         "writers": "Mick Jagger, Keith Richards",
         "year": 1971
@@ -2129,6 +3287,12 @@
         "genre": "alternative rock",
         "popularity": 49,
         "ranking": 194,
+        "sentiment": {
+            "compound": 0.7701,
+            "neg": 0.067,
+            "neu": 0.811,
+            "pos": 0.122
+        },
         "track": "Rid of Me'",
         "writers": "PJ Harvey",
         "year": 1993
@@ -2140,6 +3304,12 @@
         "genre": "adult standards",
         "popularity": 65,
         "ranking": 195,
+        "sentiment": {
+            "compound": 0.1779,
+            "neg": 0.098,
+            "neu": 0.778,
+            "pos": 0.123
+        },
         "track": "Crazy'",
         "writers": "Willie Nelson",
         "year": 1961
@@ -2151,6 +3321,12 @@
         "genre": "funk",
         "popularity": 48,
         "ranking": 196,
+        "sentiment": {
+            "compound": 0.2732,
+            "neg": 0.062,
+            "neu": 0.865,
+            "pos": 0.073
+        },
         "track": "Get Up (I Feel Like Being A) Sex Machine'",
         "writers": "Bobby Byrd, James Brown, Ron Lenhoff",
         "year": 1970
@@ -2162,6 +3338,12 @@
         "genre": "classic soul",
         "popularity": 60,
         "ranking": 197,
+        "sentiment": {
+            "compound": -0.0772,
+            "neg": 0.09,
+            "neu": 0.823,
+            "pos": 0.087
+        },
         "track": "I Can't Stand the Rain'",
         "writers": "Ann Peebles, Don Bryant, Bernard Miller",
         "year": 1973
@@ -2173,6 +3355,12 @@
         "genre": "classic soul",
         "popularity": 70,
         "ranking": 198,
+        "sentiment": {
+            "compound": -0.2261,
+            "neg": 0.062,
+            "neu": 0.893,
+            "pos": 0.045
+        },
         "track": "Sexual Healing'",
         "writers": "Marvin Gaye, Odell Brown",
         "year": 1982
@@ -2184,6 +3372,12 @@
         "genre": "album rock",
         "popularity": 77,
         "ranking": 199,
+        "sentiment": {
+            "compound": 0.7696,
+            "neg": 0.0,
+            "neu": 0.928,
+            "pos": 0.072
+        },
         "track": "Dream On'",
         "writers": "Steven Tyler",
         "year": 1973
@@ -2195,6 +3389,12 @@
         "genre": "art rock",
         "popularity": 66,
         "ranking": 200,
+        "sentiment": {
+            "compound": 0.8381,
+            "neg": 0.053,
+            "neu": 0.84,
+            "pos": 0.107
+        },
         "track": "Changes'",
         "writers": "David Bowie",
         "year": 1971
@@ -2206,6 +3406,12 @@
         "genre": "arkansas country",
         "popularity": 69,
         "ranking": 201,
+        "sentiment": {
+            "compound": -0.7425,
+            "neg": 0.104,
+            "neu": 0.849,
+            "pos": 0.047
+        },
         "track": "Ring of Fire'",
         "writers": "June Carter, Merle Kilgore",
         "year": 1963
@@ -2217,6 +3423,12 @@
         "genre": "glam rock",
         "popularity": 77,
         "ranking": 202,
+        "sentiment": {
+            "compound": 0.0516,
+            "neg": 0.025,
+            "neu": 0.939,
+            "pos": 0.036
+        },
         "track": "Your Song'",
         "writers": "Elton John, Bernie Taupin",
         "year": 1970
@@ -2228,6 +3440,12 @@
         "genre": "funk",
         "popularity": 75,
         "ranking": 203,
+        "sentiment": {
+            "compound": 0.9081,
+            "neg": 0.0,
+            "neu": 0.848,
+            "pos": 0.152
+        },
         "track": "Signed, Sealed, Delivered I'm Yours'",
         "writers": "Stevie Wonder, Lee Garrett, Syreeta Wright, Lula May Hardaway",
         "year": 1970
@@ -2239,6 +3457,12 @@
         "genre": "art rock",
         "popularity": 59,
         "ranking": 204,
+        "sentiment": {
+            "compound": 0.6801,
+            "neg": 0.0,
+            "neu": 0.939,
+            "pos": 0.061
+        },
         "track": "Young Americans'",
         "writers": "David Bowie",
         "year": 1975
@@ -2250,6 +3474,12 @@
         "genre": "dance pop",
         "popularity": 77,
         "ranking": 205,
+        "sentiment": {
+            "compound": -0.1787,
+            "neg": 0.042,
+            "neu": 0.913,
+            "pos": 0.045
+        },
         "track": "...Baby One More Time'",
         "writers": "Karl Sandberg",
         "year": 1998
@@ -2261,6 +3491,12 @@
         "genre": "adult standards",
         "popularity": 61,
         "ranking": 206,
+        "sentiment": {
+            "compound": 0.9277,
+            "neg": 0.07,
+            "neu": 0.766,
+            "pos": 0.164
+        },
         "track": "Wichita Lineman'",
         "writers": "Jimmy Webb",
         "year": 1968
@@ -2272,6 +3508,12 @@
         "genre": "alternative metal",
         "popularity": 77,
         "ranking": 207,
+        "sentiment": {
+            "compound": -0.6249,
+            "neg": 0.057,
+            "neu": 0.923,
+            "pos": 0.019
+        },
         "track": "Killing in the Name'",
         "writers": "Tim Commerford, Zack de la Rocha, Tom Morello, Brad Wilk",
         "year": 1992
@@ -2283,6 +3525,12 @@
         "genre": "alternative rock",
         "popularity": 60,
         "ranking": 208,
+        "sentiment": {
+            "compound": -0.3631,
+            "neg": 0.104,
+            "neu": 0.806,
+            "pos": 0.09
+        },
         "track": "Doll Parts'",
         "writers": "Courtney Love, Eric Erlandson, Kristen Pfaff, Patty Schemel",
         "year": 1994
@@ -2294,6 +3542,12 @@
         "genre": "album rock",
         "popularity": 75,
         "ranking": 209,
+        "sentiment": {
+            "compound": 0.899,
+            "neg": 0.046,
+            "neu": 0.83,
+            "pos": 0.124
+        },
         "track": "Boys of Summer'",
         "writers": "Don Henley, Mike Campbell",
         "year": 1984
@@ -2305,6 +3559,12 @@
         "genre": "funk",
         "popularity": 34,
         "ranking": 210,
+        "sentiment": {
+            "compound": 0.5125,
+            "neg": 0.039,
+            "neu": 0.88,
+            "pos": 0.081
+        },
         "track": "One Nation Under a Groove'",
         "writers": "George Clinton, Garry Shider, Walter Morrison",
         "year": 1978
@@ -2316,6 +3576,12 @@
         "genre": "irish rock",
         "popularity": 77,
         "ranking": 211,
+        "sentiment": {
+            "compound": 0.6597,
+            "neg": 0.028,
+            "neu": 0.884,
+            "pos": 0.088
+        },
         "track": "With or Without You'",
         "writers": "Bono, Larry Mullen Jr., the Edge, Adam Clayton",
         "year": 1987
@@ -2327,6 +3593,12 @@
         "genre": "album rock",
         "popularity": 77,
         "ranking": 212,
+        "sentiment": {
+            "compound": 0.5927,
+            "neg": 0.028,
+            "neu": 0.898,
+            "pos": 0.074
+        },
         "track": "More Than a Feeling'",
         "writers": "Tom Scholz",
         "year": 1976
@@ -2338,6 +3610,12 @@
         "genre": "british invasion",
         "popularity": 78,
         "ranking": 213,
+        "sentiment": {
+            "compound": -0.0129,
+            "neg": 0.033,
+            "neu": 0.945,
+            "pos": 0.022
+        },
         "track": "Paint It, Black'",
         "writers": "Mick Jagger, Keith Richards",
         "year": 1966
@@ -2349,6 +3627,12 @@
         "genre": "album rock",
         "popularity": 57,
         "ranking": 214,
+        "sentiment": {
+            "compound": 0.8176,
+            "neg": 0.038,
+            "neu": 0.806,
+            "pos": 0.156
+        },
         "track": "Deacon Blues'",
         "writers": "Walter Becker, Donald Fagen",
         "year": 1977
@@ -2360,6 +3644,12 @@
         "genre": "east coast hip hop",
         "popularity": 73,
         "ranking": 215,
+        "sentiment": {
+            "compound": -0.1901,
+            "neg": 0.099,
+            "neu": 0.808,
+            "pos": 0.092
+        },
         "track": "Shook Ones, Pt. II'",
         "writers": "Albert Johnson, Kejuan Muchita",
         "year": 1995
@@ -2371,6 +3661,12 @@
         "genre": "rock-and-roll",
         "popularity": 67,
         "ranking": 216,
+        "sentiment": {
+            "compound": -0.3526,
+            "neg": 0.07,
+            "neu": 0.866,
+            "pos": 0.065
+        },
         "track": "Jailhouse Rock'",
         "writers": "Jerry Leiber, Mike Stoller",
         "year": 1957
@@ -2382,6 +3678,12 @@
         "genre": "album rock",
         "popularity": 69,
         "ranking": 217,
+        "sentiment": {
+            "compound": -0.1027,
+            "neg": 0.048,
+            "neu": 0.908,
+            "pos": 0.044
+        },
         "track": "Edge of Seventeen'",
         "writers": "Stevie Nicks",
         "year": 1981
@@ -2393,6 +3695,12 @@
         "genre": "brill building pop",
         "popularity": 62,
         "ranking": 218,
+        "sentiment": {
+            "compound": 0.2263,
+            "neg": 0.026,
+            "neu": 0.942,
+            "pos": 0.033
+        },
         "track": "In the Midnight Hour'",
         "writers": "Wilson Pickett, Steve Cropper",
         "year": 1965
@@ -2404,6 +3712,12 @@
         "genre": "album rock",
         "popularity": 77,
         "ranking": 219,
+        "sentiment": {
+            "compound": -0.2263,
+            "neg": 0.094,
+            "neu": 0.845,
+            "pos": 0.061
+        },
         "track": "Free Fallin''",
         "writers": "Jeff Lynne, Tom Petty, Mike Campbell",
         "year": 1989
@@ -2415,6 +3729,12 @@
         "genre": "art rock",
         "popularity": 64,
         "ranking": 220,
+        "sentiment": {
+            "compound": 0.7985,
+            "neg": 0.078,
+            "neu": 0.788,
+            "pos": 0.134
+        },
         "track": "Bizarre Love Triangle'",
         "writers": "Gillian Gilbert, Peter Hook, Stephen Morris, Bernard Sumner",
         "year": 1986
@@ -2426,6 +3746,12 @@
         "genre": "brill building pop",
         "popularity": 58,
         "ranking": 221,
+        "sentiment": {
+            "compound": 0.5165,
+            "neg": 0.017,
+            "neu": 0.924,
+            "pos": 0.058
+        },
         "track": "River Deep, Mountain High'",
         "writers": "Phil Spector, Jeff Barry, Ellie Greenwich",
         "year": 1966
@@ -2437,6 +3763,12 @@
         "genre": "album rock",
         "popularity": 62,
         "ranking": 222,
+        "sentiment": {
+            "compound": 0.7906,
+            "neg": 0.021,
+            "neu": 0.879,
+            "pos": 0.1
+        },
         "track": "Suite: Judy Blue Eyes'",
         "writers": "Stephen Stills",
         "year": 1969
@@ -2448,6 +3780,12 @@
         "genre": "detroit hip hop",
         "popularity": 78,
         "ranking": 223,
+        "sentiment": {
+            "compound": -0.9118,
+            "neg": 0.213,
+            "neu": 0.69,
+            "pos": 0.097
+        },
         "track": "Stan'",
         "writers": "Marshall Mathers, Dido Armstrong, Paul Herman",
         "year": 2000
@@ -2459,6 +3797,12 @@
         "genre": "album rock",
         "popularity": 73,
         "ranking": 224,
+        "sentiment": {
+            "compound": 0.9246,
+            "neg": 0.034,
+            "neu": 0.802,
+            "pos": 0.165
+        },
         "track": "Layla'",
         "writers": "Eric Clapton, Jim Gordon",
         "year": 1970
@@ -2470,6 +3814,12 @@
         "genre": "canadian singer-songwriter",
         "popularity": 60,
         "ranking": 225,
+        "sentiment": {
+            "compound": 0.34,
+            "neg": 0.03,
+            "neu": 0.925,
+            "pos": 0.045
+        },
         "track": "Both Sides Now'",
         "writers": "Joni Mitchell",
         "year": 1969
@@ -2481,6 +3831,12 @@
         "genre": "madchester",
         "popularity": 72,
         "ranking": 226,
+        "sentiment": {
+            "compound": 0.83,
+            "neg": 0.046,
+            "neu": 0.83,
+            "pos": 0.124
+        },
         "track": "There Is a Light That Never Goes Out'",
         "writers": "Johnny Marr, Morrissey",
         "year": 1986
@@ -2492,6 +3848,12 @@
         "genre": "classic rock",
         "popularity": 80,
         "ranking": 227,
+        "sentiment": {
+            "compound": -0.886,
+            "neg": 0.185,
+            "neu": 0.711,
+            "pos": 0.104
+        },
         "track": "Fortunate Son'",
         "writers": "John Fogerty",
         "year": 1969
@@ -2503,6 +3865,12 @@
         "genre": "dance pop",
         "popularity": 64,
         "ranking": 228,
+        "sentiment": {
+            "compound": 0.7906,
+            "neg": 0.017,
+            "neu": 0.881,
+            "pos": 0.102
+        },
         "track": "Single Ladies (Put a Ring On It)'",
         "writers": "Beyonc\u00e9 Knowles, Christopher Stewart, Terius Nash, Thaddis Harrell",
         "year": 2008
@@ -2514,6 +3882,12 @@
         "genre": "american folk revival",
         "popularity": 46,
         "ranking": 229,
+        "sentiment": {
+            "compound": 0.555,
+            "neg": 0.032,
+            "neu": 0.899,
+            "pos": 0.069
+        },
         "track": "This Land Is Your Land'",
         "writers": "Woody Guthrie",
         "year": 1951
@@ -2525,6 +3899,12 @@
         "genre": "art rock",
         "popularity": 63,
         "ranking": 230,
+        "sentiment": {
+            "compound": 0.5647,
+            "neg": 0.0,
+            "neu": 0.946,
+            "pos": 0.054
+        },
         "track": "Mr. Tambourine Man'",
         "writers": "Bob Dylan",
         "year": 1965
@@ -2536,6 +3916,12 @@
         "genre": "dance pop",
         "popularity": 80,
         "ranking": 231,
+        "sentiment": {
+            "compound": 0.6294,
+            "neg": 0.019,
+            "neu": 0.926,
+            "pos": 0.056
+        },
         "track": "I Wanna Dance With Somebody (Who Loves Me)'",
         "writers": "George Merrill, Shannon Rubicam",
         "year": 1987
@@ -2547,6 +3933,12 @@
         "genre": "album rock",
         "popularity": 66,
         "ranking": 232,
+        "sentiment": {
+            "compound": -0.446,
+            "neg": 0.051,
+            "neu": 0.915,
+            "pos": 0.034
+        },
         "track": "My Generation'",
         "writers": "Pete Townshend",
         "year": 1965
@@ -2558,6 +3950,12 @@
         "genre": "hip house",
         "popularity": 61,
         "ranking": 233,
+        "sentiment": {
+            "compound": 0.926,
+            "neg": 0.0,
+            "neu": 0.851,
+            "pos": 0.149
+        },
         "track": "Groove Is in the Heart'",
         "writers": "Dmitry Brill, Chung Dong-Hwa, Kierin Kirby",
         "year": 1990
@@ -2569,6 +3967,12 @@
         "genre": "brill building pop",
         "popularity": 57,
         "ranking": 234,
+        "sentiment": {
+            "compound": 0.2732,
+            "neg": 0.02,
+            "neu": 0.94,
+            "pos": 0.04
+        },
         "track": "You Keep Me Hangin\u2019 On'",
         "writers": "Lamont Dozier, Brian Holland, Eddie Holland",
         "year": 1966
@@ -2580,6 +3984,12 @@
         "genre": "art rock",
         "popularity": 69,
         "ranking": 235,
+        "sentiment": {
+            "compound": 0.6478,
+            "neg": 0.04,
+            "neu": 0.862,
+            "pos": 0.098
+        },
         "track": "Blue Monday'",
         "writers": "Gillian Gilbert, Peter Hook, Stephen Morris, Bernard Sumner",
         "year": 1983
@@ -2591,6 +4001,12 @@
         "genre": "funk",
         "popularity": 69,
         "ranking": 236,
+        "sentiment": {
+            "compound": 0.967,
+            "neg": 0.0,
+            "neu": 0.804,
+            "pos": 0.196
+        },
         "track": "Lean on Me'",
         "writers": "Bill Withers",
         "year": 1972
@@ -2602,6 +4018,12 @@
         "genre": "folk",
         "popularity": 54,
         "ranking": 237,
+        "sentiment": {
+            "compound": 0.128,
+            "neg": 0.107,
+            "neu": 0.782,
+            "pos": 0.111
+        },
         "track": "Your Cheatin' Heart'",
         "writers": "Hank Williams",
         "year": 1953
@@ -2613,6 +4035,12 @@
         "genre": "dance pop",
         "popularity": 59,
         "ranking": 238,
+        "sentiment": {
+            "compound": -0.3198,
+            "neg": 0.083,
+            "neu": 0.845,
+            "pos": 0.072
+        },
         "track": "Are You That Somebody?'",
         "writers": "Stephen Garrett, Timothy Mosley",
         "year": 1998
@@ -2624,6 +4052,12 @@
         "genre": "alternative rock",
         "popularity": 43,
         "ranking": 239,
+        "sentiment": {
+            "compound": 0.9498,
+            "neg": 0.017,
+            "neu": 0.803,
+            "pos": 0.18
+        },
         "track": "September Gurls'",
         "writers": "Alex Chilton",
         "year": 1974
@@ -2635,6 +4069,12 @@
         "genre": "boy band",
         "popularity": 77,
         "ranking": 240,
+        "sentiment": {
+            "compound": 0.6808,
+            "neg": 0.017,
+            "neu": 0.886,
+            "pos": 0.097
+        },
         "track": "I Want It That Way'",
         "writers": "Andreas Carlsson, Karl Sandberg",
         "year": 1999
@@ -2646,6 +4086,12 @@
         "genre": "conscious hip hop",
         "popularity": 62,
         "ranking": 241,
+        "sentiment": {
+            "compound": -0.3348,
+            "neg": 0.11,
+            "neu": 0.794,
+            "pos": 0.096
+        },
         "track": "The Humpty Dance'",
         "writers": "Earl Humphrey, Gregory Jacobs",
         "year": 1990
@@ -2657,6 +4103,12 @@
         "genre": "adult standards",
         "popularity": 62,
         "ranking": 242,
+        "sentiment": {
+            "compound": 0.0772,
+            "neg": 0.065,
+            "neu": 0.877,
+            "pos": 0.058
+        },
         "track": "Great Balls of Fire'",
         "writers": "Otis Blackwell, Jack Hammer",
         "year": 1957
@@ -2668,6 +4120,12 @@
         "genre": "beatlesque",
         "popularity": 69,
         "ranking": 243,
+        "sentiment": {
+            "compound": 0.4633,
+            "neg": 0.026,
+            "neu": 0.918,
+            "pos": 0.056
+        },
         "track": "Eleanor Rigby'",
         "writers": "John Lennon, Paul McCartney",
         "year": 1966
@@ -2679,6 +4137,12 @@
         "genre": "alternative rock",
         "popularity": 44,
         "ranking": 244,
+        "sentiment": {
+            "compound": -0.7184,
+            "neg": 0.079,
+            "neu": 0.9,
+            "pos": 0.022
+        },
         "track": "Summer Babe (Winter Version)'",
         "writers": "Stephen Malkmus",
         "year": 1992
@@ -2690,6 +4154,12 @@
         "genre": "alternative rock",
         "popularity": 71,
         "ranking": 245,
+        "sentiment": {
+            "compound": -0.891,
+            "neg": 0.157,
+            "neu": 0.788,
+            "pos": 0.055
+        },
         "track": "Sabotage'",
         "writers": "Michael Diamond, Adam Horovitz, Adam Yauch",
         "year": 1994
@@ -2701,6 +4171,12 @@
         "genre": "album rock",
         "popularity": 69,
         "ranking": 246,
+        "sentiment": {
+            "compound": 0.9186,
+            "neg": 0.059,
+            "neu": 0.776,
+            "pos": 0.166
+        },
         "track": "Ooh La La'",
         "writers": "Ronnie Lane, Ronnie Wood",
         "year": 1973
@@ -2712,6 +4188,12 @@
         "genre": "canadian singer-songwriter",
         "popularity": 57,
         "ranking": 247,
+        "sentiment": {
+            "compound": -0.1027,
+            "neg": 0.189,
+            "neu": 0.644,
+            "pos": 0.168
+        },
         "track": "River'",
         "writers": "Joni Mitchell",
         "year": 1971
@@ -2723,6 +4205,12 @@
         "genre": "conscious hip hop",
         "popularity": 69,
         "ranking": 248,
+        "sentiment": {
+            "compound": -0.9551,
+            "neg": 0.189,
+            "neu": 0.767,
+            "pos": 0.044
+        },
         "track": "Straight Outta Compton'",
         "writers": "MC Ren, Ice Cube, Eazy-E",
         "year": 1988
@@ -2734,6 +4222,12 @@
         "genre": "glam punk",
         "popularity": 66,
         "ranking": 249,
+        "sentiment": {
+            "compound": -0.9732,
+            "neg": 0.211,
+            "neu": 0.774,
+            "pos": 0.014
+        },
         "track": "Bad Reputation'",
         "writers": "Joan Jett, Kenny Laguna, Marty Kupersmith, Ritchie Cordell",
         "year": 1980
@@ -2745,6 +4239,12 @@
         "genre": null,
         "popularity": 0,
         "ranking": 250,
+        "sentiment": {
+            "compound": -0.5106,
+            "neg": 0.04,
+            "neu": 0.946,
+            "pos": 0.014
+        },
         "track": "Purple Haze'",
         "writers": "Jimi Hendrix",
         "year": 1967
@@ -2756,6 +4256,12 @@
         "genre": "disco",
         "popularity": 67,
         "ranking": 251,
+        "sentiment": {
+            "compound": 0.8885,
+            "neg": 0.056,
+            "neu": 0.817,
+            "pos": 0.127
+        },
         "track": "I Will Survive'",
         "writers": "Dino Fekaris, Freddie Perren",
         "year": 1978
@@ -2767,6 +4273,12 @@
         "genre": "afrofuturism",
         "popularity": 60,
         "ranking": 252,
+        "sentiment": {
+            "compound": 0.711,
+            "neg": 0.0,
+            "neu": 0.932,
+            "pos": 0.068
+        },
         "track": "Flash Light'",
         "writers": "George Clinton, Bootsy Collins, Bernie Worrel",
         "year": 1977
@@ -2778,6 +4290,12 @@
         "genre": "classic country pop",
         "popularity": 58,
         "ranking": 253,
+        "sentiment": {
+            "compound": 0.9501,
+            "neg": 0.026,
+            "neu": 0.807,
+            "pos": 0.167
+        },
         "track": "Blue Eyes Crying in the Rain'",
         "writers": "Fred Rose",
         "year": 1975
@@ -2789,6 +4307,12 @@
         "genre": "brill building pop",
         "popularity": 62,
         "ranking": 254,
+        "sentiment": {
+            "compound": -0.957,
+            "neg": 0.22,
+            "neu": 0.728,
+            "pos": 0.052
+        },
         "track": "Stop! In the Name of Love'",
         "writers": "Lamont Dozier, Brian Holland, Eddie Holland",
         "year": 1965
@@ -2800,6 +4324,12 @@
         "genre": "country",
         "popularity": 57,
         "ranking": 255,
+        "sentiment": {
+            "compound": 0.3384,
+            "neg": 0.072,
+            "neu": 0.861,
+            "pos": 0.066
+        },
         "track": "Coal Miner\u2019s Daughter'",
         "writers": "Loretta Lynn",
         "year": 1970
@@ -2811,6 +4341,12 @@
         "genre": "hard rock",
         "popularity": 66,
         "ranking": 256,
+        "sentiment": {
+            "compound": 0.7579,
+            "neg": 0.107,
+            "neu": 0.756,
+            "pos": 0.137
+        },
         "track": "Master of Puppets'",
         "writers": "Cliff Burton, Kirk Hammett, James Hetfield, Lars Ulrich",
         "year": 1986
@@ -2822,6 +4358,12 @@
         "genre": "brill building pop",
         "popularity": 61,
         "ranking": 257,
+        "sentiment": {
+            "compound": 0.6625,
+            "neg": 0.057,
+            "neu": 0.846,
+            "pos": 0.096
+        },
         "track": "Heat Wave'",
         "writers": "Brian Holland, Eddie Holland, Lamont Dozier",
         "year": 1963
@@ -2833,6 +4375,12 @@
         "genre": "conscious hip hop",
         "popularity": 55,
         "ranking": 258,
+        "sentiment": {
+            "compound": 0.577,
+            "neg": 0.027,
+            "neu": 0.885,
+            "pos": 0.087
+        },
         "track": "The Revolution Will Not Be Televised'",
         "writers": "Gil-Scott Heron",
         "year": 1971
@@ -2844,6 +4392,12 @@
         "genre": "album rock",
         "popularity": 71,
         "ranking": 259,
+        "sentiment": {
+            "compound": -0.5647,
+            "neg": 0.046,
+            "neu": 0.928,
+            "pos": 0.026
+        },
         "track": "Heart of Gold'",
         "writers": "Neil Young",
         "year": 1972
@@ -2855,6 +4409,12 @@
         "genre": "dub",
         "popularity": 61,
         "ranking": 260,
+        "sentiment": {
+            "compound": -0.4678,
+            "neg": 0.061,
+            "neu": 0.901,
+            "pos": 0.039
+        },
         "track": "Get Up, Stand Up'",
         "writers": "Bob Marley, Peter Tosh",
         "year": 1973
@@ -2866,6 +4426,12 @@
         "genre": "chicago soul",
         "popularity": 56,
         "ranking": 261,
+        "sentiment": {
+            "compound": 0.8047,
+            "neg": 0.097,
+            "neu": 0.76,
+            "pos": 0.143
+        },
         "track": "Pusherman'",
         "writers": "Curtis Mayfield",
         "year": 1972
@@ -2877,6 +4443,12 @@
         "genre": "classic rock",
         "popularity": 46,
         "ranking": 262,
+        "sentiment": {
+            "compound": 0.9501,
+            "neg": 0.022,
+            "neu": 0.766,
+            "pos": 0.212
+        },
         "track": "American Tune'",
         "writers": "Paul Simon",
         "year": 1973
@@ -2888,6 +4460,12 @@
         "genre": "classic country pop",
         "popularity": 56,
         "ranking": 263,
+        "sentiment": {
+            "compound": 0.836,
+            "neg": 0.065,
+            "neu": 0.794,
+            "pos": 0.141
+        },
         "track": "Coat of Many Colors'",
         "writers": "Dolly Parton",
         "year": 1971
@@ -2899,6 +4477,12 @@
         "genre": "classic soul",
         "popularity": 60,
         "ranking": 264,
+        "sentiment": {
+            "compound": 0.875,
+            "neg": 0.0,
+            "neu": 0.86,
+            "pos": 0.14
+        },
         "track": "Let's Get It On'",
         "writers": "Marvin Gaye, Ed Townsend",
         "year": 1973
@@ -2910,6 +4494,12 @@
         "genre": "alternative pop",
         "popularity": 37,
         "ranking": 265,
+        "sentiment": {
+            "compound": 0.8957,
+            "neg": 0.018,
+            "neu": 0.839,
+            "pos": 0.143
+        },
         "track": "Left of the Dial'",
         "writers": "Paul Westerberg",
         "year": 1985
@@ -2921,6 +4511,12 @@
         "genre": "dub",
         "popularity": 43,
         "ranking": 266,
+        "sentiment": {
+            "compound": 0.8658,
+            "neg": 0.0,
+            "neu": 0.887,
+            "pos": 0.113
+        },
         "track": "King Tubby Meets the Rockers Uptown'",
         "writers": "Augustus Pablo",
         "year": 1974
@@ -2932,6 +4528,12 @@
         "genre": "canadian hip hop",
         "popularity": 72,
         "ranking": 267,
+        "sentiment": {
+            "compound": 0.8519,
+            "neg": 0.071,
+            "neu": 0.779,
+            "pos": 0.151
+        },
         "track": "Take Care'",
         "writers": "Brook Benton, James Smith, Aubrey Graham, Noah Shebib, Anthony Palman",
         "year": 2011
@@ -2943,6 +4545,12 @@
         "genre": "classic soul",
         "popularity": 9,
         "ranking": 268,
+        "sentiment": {
+            "compound": 0.8422,
+            "neg": 0.0,
+            "neu": 0.881,
+            "pos": 0.119
+        },
         "track": "Shout (Parts 1 and 2)'",
         "writers": "Rudolph Isley, Ronald Isley, O'Kelly Isley",
         "year": 1959
@@ -2954,6 +4562,12 @@
         "genre": "adult standards",
         "popularity": 72,
         "ranking": 269,
+        "sentiment": {
+            "compound": 0.7248,
+            "neg": 0.036,
+            "neu": 0.864,
+            "pos": 0.099
+        },
         "track": "Unchained Melody'",
         "writers": "Alex North, Hy Zaret",
         "year": 1965
@@ -2965,6 +4579,12 @@
         "genre": "alternative metal",
         "popularity": 65,
         "ranking": 270,
+        "sentiment": {
+            "compound": -0.8926,
+            "neg": 0.15,
+            "neu": 0.817,
+            "pos": 0.033
+        },
         "track": "Closer'",
         "writers": "Trent Reznor",
         "year": 1994
@@ -2976,6 +4596,12 @@
         "genre": "album rock",
         "popularity": 66,
         "ranking": 271,
+        "sentiment": {
+            "compound": 0.2263,
+            "neg": 0.053,
+            "neu": 0.873,
+            "pos": 0.073
+        },
         "track": "A Whiter Shade of Pale'",
         "writers": "Keith Reid, Gary Brooker",
         "year": 1967
@@ -2987,6 +4613,12 @@
         "genre": "album rock",
         "popularity": 73,
         "ranking": 272,
+        "sentiment": {
+            "compound": 0.5789,
+            "neg": 0.02,
+            "neu": 0.912,
+            "pos": 0.067
+        },
         "track": "The Boys Are Back in Town'",
         "writers": "Phil Lynott",
         "year": 1976
@@ -2998,6 +4630,12 @@
         "genre": "adult standards",
         "popularity": 71,
         "ranking": 273,
+        "sentiment": {
+            "compound": 0.7845,
+            "neg": 0.015,
+            "neu": 0.901,
+            "pos": 0.084
+        },
         "track": "Killing Me Softly With His Song'",
         "writers": "Norman Gimbel, Charles Fox",
         "year": 1973
@@ -3009,6 +4647,12 @@
         "genre": "classic soul",
         "popularity": 63,
         "ranking": 274,
+        "sentiment": {
+            "compound": 0.5423,
+            "neg": 0.0,
+            "neu": 0.949,
+            "pos": 0.051
+        },
         "track": "Love and Happiness'",
         "writers": "Al Green, Mabon Hodges",
         "year": 1972
@@ -3020,6 +4664,12 @@
         "genre": "disney",
         "popularity": 34,
         "ranking": 275,
+        "sentiment": {
+            "compound": -0.3818,
+            "neg": 0.03,
+            "neu": 0.957,
+            "pos": 0.013
+        },
         "track": "Sail Away'",
         "writers": "Randy Newman",
         "year": 1972
@@ -3031,6 +4681,12 @@
         "genre": "alternative rock",
         "popularity": 63,
         "ranking": 276,
+        "sentiment": {
+            "compound": 0.6486,
+            "neg": 0.109,
+            "neu": 0.753,
+            "pos": 0.138
+        },
         "track": "Ever Fallen in Love (With Someone You Shouldn't've)'",
         "writers": "Peter Shelley",
         "year": 1978
@@ -3042,6 +4698,12 @@
         "genre": "blues",
         "popularity": 52,
         "ranking": 277,
+        "sentiment": {
+            "compound": -0.2382,
+            "neg": 0.038,
+            "neu": 0.945,
+            "pos": 0.017
+        },
         "track": "Bo Diddley'",
         "writers": "Ellas McDaniel",
         "year": 1955
@@ -3053,6 +4715,12 @@
         "genre": "reggae",
         "popularity": 47,
         "ranking": 278,
+        "sentiment": {
+            "compound": -0.296,
+            "neg": 0.095,
+            "neu": 0.846,
+            "pos": 0.059
+        },
         "track": "Pressure Drop'",
         "writers": "Toots Hibbert",
         "year": 1973
@@ -3064,6 +4732,12 @@
         "genre": "alternative rock",
         "popularity": 73,
         "ranking": 279,
+        "sentiment": {
+            "compound": 0.8567,
+            "neg": 0.022,
+            "neu": 0.845,
+            "pos": 0.132
+        },
         "track": "Karma Police'",
         "writers": "Thom Yorke, Jonny Greenwood, Ed O'Brien, Colin Greenwood, Philip Selway",
         "year": 1997
@@ -3075,6 +4749,12 @@
         "genre": "beatlesque",
         "popularity": 63,
         "ranking": 280,
+        "sentiment": {
+            "compound": 0.5574,
+            "neg": 0.021,
+            "neu": 0.922,
+            "pos": 0.056
+        },
         "track": "Penny Lane'",
         "writers": "John Lennon, Paul McCartney",
         "year": 1967
@@ -3086,6 +4766,12 @@
         "genre": "alternative hip hop",
         "popularity": 54,
         "ranking": 281,
+        "sentiment": {
+            "compound": -0.6369,
+            "neg": 0.085,
+            "neu": 0.864,
+            "pos": 0.051
+        },
         "track": "Grindin''",
         "writers": "Gene Thornton, Terrence Thornton, Pharrell Williams, Chad Hugo",
         "year": 2002
@@ -3097,6 +4783,12 @@
         "genre": "australian rock",
         "popularity": 58,
         "ranking": 282,
+        "sentiment": {
+            "compound": 0.7003,
+            "neg": 0.0,
+            "neu": 0.92,
+            "pos": 0.08
+        },
         "track": "Never Tear Us Apart'",
         "writers": "Andrew Farriss, Michael Hutchence",
         "year": 1988
@@ -3108,6 +4800,12 @@
         "genre": "adult standards",
         "popularity": 61,
         "ranking": 283,
+        "sentiment": {
+            "compound": 0.4404,
+            "neg": 0.0,
+            "neu": 0.968,
+            "pos": 0.032
+        },
         "track": "Georgia on My Mind'",
         "writers": "Hoagy Carmichael, Stuart Gorrell",
         "year": 1960
@@ -3119,6 +4817,12 @@
         "genre": "canadian singer-songwriter",
         "popularity": 62,
         "ranking": 284,
+        "sentiment": {
+            "compound": 0.6249,
+            "neg": 0.0,
+            "neu": 0.936,
+            "pos": 0.064
+        },
         "track": "Suzanne'",
         "writers": "Leonard Cohen",
         "year": 1967
@@ -3130,6 +4834,12 @@
         "genre": "dance pop",
         "popularity": 75,
         "ranking": 285,
+        "sentiment": {
+            "compound": 0.659,
+            "neg": 0.057,
+            "neu": 0.835,
+            "pos": 0.108
+        },
         "track": "Say My Name'",
         "writers": "LaShawn Daniels, Rodney Jerkins, Fred Jerkins III, Beyonc\u00e9 Knowles, LeToya Luckett, LaTavia Roberson, Kelly Rowland",
         "year": 1999
@@ -3141,6 +4851,12 @@
         "genre": "europop",
         "popularity": 80,
         "ranking": 286,
+        "sentiment": {
+            "compound": 0.5994,
+            "neg": 0.02,
+            "neu": 0.906,
+            "pos": 0.073
+        },
         "track": "Dancing Queen'",
         "writers": "Benny Andersson, Bj\u00f6rn Ulvaeus, Stig Anderson",
         "year": 1976
@@ -3152,6 +4868,12 @@
         "genre": "australian rock",
         "popularity": 78,
         "ranking": 287,
+        "sentiment": {
+            "compound": -0.8316,
+            "neg": 0.133,
+            "neu": 0.827,
+            "pos": 0.04
+        },
         "track": "You Shook Me All Night Long'",
         "writers": "Angus Young, Malcolm Young, Brian Johnson",
         "year": 1980
@@ -3163,6 +4885,12 @@
         "genre": null,
         "popularity": 4,
         "ranking": 288,
+        "sentiment": {
+            "compound": 0.4678,
+            "neg": 0.054,
+            "neu": 0.87,
+            "pos": 0.076
+        },
         "track": "That's the Joint'",
         "writers": "Clifton \"Jiggs\" Chase, Sylvia Robinson, Keith Caesar, Sharon Green, Jeffrey Myree, Kevin Smith, Rodney Stone",
         "year": 1980
@@ -3174,6 +4902,12 @@
         "genre": "classic rock",
         "popularity": 53,
         "ranking": 289,
+        "sentiment": {
+            "compound": -0.0376,
+            "neg": 0.166,
+            "neu": 0.697,
+            "pos": 0.137
+        },
         "track": "Atlantic City'",
         "writers": "Bruce Springsteen",
         "year": 1982
@@ -3185,6 +4919,12 @@
         "genre": "atl hip hop",
         "popularity": 80,
         "ranking": 290,
+        "sentiment": {
+            "compound": 0.7835,
+            "neg": 0.0,
+            "neu": 0.884,
+            "pos": 0.116
+        },
         "track": "Yeah!'",
         "writers": "Christopher Bridges, James Phillips, Jonathan Smith, LaMarquis Jefferson, Patrick Smith, Sean Garrett",
         "year": 2004
@@ -3196,6 +4936,12 @@
         "genre": "mellow gold",
         "popularity": 75,
         "ranking": 291,
+        "sentiment": {
+            "compound": -0.9432,
+            "neg": 0.175,
+            "neu": 0.825,
+            "pos": 0.0
+        },
         "track": "In the Air Tonight'",
         "writers": "Phil Collins",
         "year": 1981
@@ -3207,6 +4953,12 @@
         "genre": "alternative hip hop",
         "popularity": 69,
         "ranking": 292,
+        "sentiment": {
+            "compound": 0.9287,
+            "neg": 0.0,
+            "neu": 0.844,
+            "pos": 0.156
+        },
         "track": "Can I Kick It?'",
         "writers": "Lou Reed",
         "year": 1990
@@ -3218,6 +4970,12 @@
         "genre": "album rock",
         "popularity": 66,
         "ranking": 293,
+        "sentiment": {
+            "compound": -0.296,
+            "neg": 0.096,
+            "neu": 0.819,
+            "pos": 0.085
+        },
         "track": "School\u2019s Out'",
         "writers": "Alice Cooper, Michael Bruce, Glen Buxton, Dennis Dunaway, Neal Smith",
         "year": 1972
@@ -3229,6 +4987,12 @@
         "genre": "alternative rock",
         "popularity": 59,
         "ranking": 294,
+        "sentiment": {
+            "compound": -0.5719,
+            "neg": 0.042,
+            "neu": 0.943,
+            "pos": 0.015
+        },
         "track": "Sweet Jane'",
         "writers": "Lou Reed",
         "year": 1970
@@ -3240,6 +5004,12 @@
         "genre": "album rock",
         "popularity": 9,
         "ranking": 295,
+        "sentiment": {
+            "compound": 0.0387,
+            "neg": 0.034,
+            "neu": 0.931,
+            "pos": 0.035
+        },
         "track": "Won't Get Fooled Again'",
         "writers": "Pete Townshend",
         "year": 1971
@@ -3251,6 +5021,12 @@
         "genre": "olympia wa indie",
         "popularity": 59,
         "ranking": 296,
+        "sentiment": {
+            "compound": 0.8687,
+            "neg": 0.059,
+            "neu": 0.792,
+            "pos": 0.149
+        },
         "track": "Rebel Girl'",
         "writers": "Kathleen Hanna, Billy Karren, Tobi Vail, Kathi Wilcox",
         "year": 1993
@@ -3262,6 +5038,12 @@
         "genre": "baroque pop",
         "popularity": 50,
         "ranking": 297,
+        "sentiment": {
+            "compound": 0.9128,
+            "neg": 0.0,
+            "neu": 0.867,
+            "pos": 0.133
+        },
         "track": "Wouldn\u2019t It Be Nice'",
         "writers": "Brian Wilson, Tony Asher, Mike Love",
         "year": 1966
@@ -3273,6 +5055,12 @@
         "genre": "classic rock",
         "popularity": 49,
         "ranking": 298,
+        "sentiment": {
+            "compound": 0.0,
+            "neg": 0.102,
+            "neu": 0.797,
+            "pos": 0.102
+        },
         "track": "Jungleland'",
         "writers": "Bruce Springsteen",
         "year": 1975
@@ -3284,6 +5072,12 @@
         "genre": "blues",
         "popularity": 51,
         "ranking": 299,
+        "sentiment": {
+            "compound": -0.6722,
+            "neg": 0.101,
+            "neu": 0.864,
+            "pos": 0.035
+        },
         "track": "I Put a Spell on You'",
         "writers": "Jalacy Hawkins, Herb Slotkin",
         "year": 1956
@@ -3295,6 +5089,12 @@
         "genre": "art rock",
         "popularity": 57,
         "ranking": 300,
+        "sentiment": {
+            "compound": 0.9501,
+            "neg": 0.0,
+            "neu": 0.816,
+            "pos": 0.184
+        },
         "track": "Rock Lobster'",
         "writers": "Fred Schneider, Ricky Wilson",
         "year": 1978
@@ -3306,6 +5106,12 @@
         "genre": "album rock",
         "popularity": 70,
         "ranking": 301,
+        "sentiment": {
+            "compound": 0.9678,
+            "neg": 0.0,
+            "neu": 0.803,
+            "pos": 0.197
+        },
         "track": "Night Moves'",
         "writers": "Bob Seger",
         "year": 1976
@@ -3317,6 +5123,12 @@
         "genre": "album rock",
         "popularity": 75,
         "ranking": 302,
+        "sentiment": {
+            "compound": 0.1174,
+            "neg": 0.036,
+            "neu": 0.914,
+            "pos": 0.05
+        },
         "track": "Wish You Were Here'",
         "writers": "David Gilmour, Roger Waters",
         "year": 1975
@@ -3328,6 +5140,12 @@
         "genre": "atl hip hop",
         "popularity": 77,
         "ranking": 303,
+        "sentiment": {
+            "compound": 0.5106,
+            "neg": 0.047,
+            "neu": 0.858,
+            "pos": 0.095
+        },
         "track": "No Scrubs'",
         "writers": "Kandi Burruss, Tameka Cottle, Kevin Briggs",
         "year": 1999
@@ -3339,6 +5157,12 @@
         "genre": "dusseldorf electronic",
         "popularity": 38,
         "ranking": 304,
+        "sentiment": {
+            "compound": 0.7269,
+            "neg": 0.0,
+            "neu": 0.914,
+            "pos": 0.086
+        },
         "track": "Trans-Europe Express'",
         "writers": "Ralf H\u00fctter, Emil Schult",
         "year": 1977
@@ -3350,6 +5174,12 @@
         "genre": "album rock",
         "popularity": 83,
         "ranking": 305,
+        "sentiment": {
+            "compound": -0.5187,
+            "neg": 0.064,
+            "neu": 0.9,
+            "pos": 0.036
+        },
         "track": "Every Breath You Take'",
         "writers": "Sting",
         "year": 1983
@@ -3361,6 +5191,12 @@
         "genre": "classic soul",
         "popularity": 61,
         "ranking": 306,
+        "sentiment": {
+            "compound": 0.875,
+            "neg": 0.0,
+            "neu": 0.879,
+            "pos": 0.121
+        },
         "track": "Chain of Fools'",
         "writers": "Don Covay",
         "year": 1967
@@ -3372,6 +5208,12 @@
         "genre": "atl hip hop",
         "popularity": 69,
         "ranking": 307,
+        "sentiment": {
+            "compound": 0.0,
+            "neg": 0.091,
+            "neu": 0.808,
+            "pos": 0.101
+        },
         "track": "Crazy'",
         "writers": "Brian Burton, Thomas Callaway, Gian Franco Reverberi, Gian Piero Reverberi",
         "year": 2006
@@ -3383,6 +5225,12 @@
         "genre": "alternative pop",
         "popularity": 34,
         "ranking": 308,
+        "sentiment": {
+            "compound": -0.1027,
+            "neg": 0.033,
+            "neu": 0.939,
+            "pos": 0.028
+        },
         "track": "Divorce Song'",
         "writers": "Liz Phair",
         "year": 1993
@@ -3394,6 +5242,12 @@
         "genre": "funk",
         "popularity": 46,
         "ranking": 309,
+        "sentiment": {
+            "compound": -0.2263,
+            "neg": 0.044,
+            "neu": 0.937,
+            "pos": 0.019
+        },
         "track": "Ain't No Sunshine'",
         "writers": "Bill Withers",
         "year": 1971
@@ -3405,6 +5259,12 @@
         "genre": "acid rock",
         "popularity": 70,
         "ranking": 310,
+        "sentiment": {
+            "compound": 0.2382,
+            "neg": 0.026,
+            "neu": 0.918,
+            "pos": 0.056
+        },
         "track": "Light My Fire'",
         "writers": "Robby Krieger, John Densmore, Jim Morrison, Ray Manzarek",
         "year": 1967
@@ -3416,6 +5276,12 @@
         "genre": null,
         "popularity": 11,
         "ranking": 311,
+        "sentiment": {
+            "compound": -0.251,
+            "neg": 0.06,
+            "neu": 0.889,
+            "pos": 0.05
+        },
         "track": "Hotel California'",
         "writers": "Don Felder, Glenn Frey, Don Henley",
         "year": 1976
@@ -3427,6 +5293,12 @@
         "genre": "classic soul",
         "popularity": 44,
         "ranking": 312,
+        "sentiment": {
+            "compound": 0.8402,
+            "neg": 0.0,
+            "neu": 0.9,
+            "pos": 0.1
+        },
         "track": "Walk on By'",
         "writers": "Burt Bacharach, Hal David",
         "year": 1969
@@ -3438,6 +5310,12 @@
         "genre": "brill building pop",
         "popularity": 58,
         "ranking": 313,
+        "sentiment": {
+            "compound": -0.8591,
+            "neg": 0.15,
+            "neu": 0.793,
+            "pos": 0.057
+        },
         "track": "The Tears of a Clown'",
         "writers": "Henry Cosby, William Robinson, Stevie Wonder",
         "year": 1967
@@ -3449,6 +5327,12 @@
         "genre": "alternative rock",
         "popularity": 59,
         "ranking": 314,
+        "sentiment": {
+            "compound": 0.743,
+            "neg": 0.0,
+            "neu": 0.918,
+            "pos": 0.082
+        },
         "track": "I Wanna Be Your Dog'",
         "writers": "Dave Alexander, Ron Asheton, Scott Asheton, Iggy Pop",
         "year": 1969
@@ -3460,6 +5344,12 @@
         "genre": "bebop",
         "popularity": 15,
         "ranking": 315,
+        "sentiment": {
+            "compound": 0.8909,
+            "neg": 0.034,
+            "neu": 0.86,
+            "pos": 0.106
+        },
         "track": "Pt. 1-Acknowledgement'",
         "writers": "John Coltrane",
         "year": 1965
@@ -3471,6 +5361,12 @@
         "genre": "brill building pop",
         "popularity": 52,
         "ranking": 316,
+        "sentiment": {
+            "compound": 0.6808,
+            "neg": 0.078,
+            "neu": 0.802,
+            "pos": 0.12
+        },
         "track": "Leader of the Pack'",
         "writers": "George Francis Morton, Jeff Barry, Ellie Greenwich",
         "year": 1964
@@ -3482,6 +5378,12 @@
         "genre": "album rock",
         "popularity": 47,
         "ranking": 317,
+        "sentiment": {
+            "compound": 0.4804,
+            "neg": 0.038,
+            "neu": 0.878,
+            "pos": 0.083
+        },
         "track": "Visions of Johanna'",
         "writers": "Bob Dylan",
         "year": 1966
@@ -3493,6 +5395,12 @@
         "genre": "acoustic blues",
         "popularity": 52,
         "ranking": 318,
+        "sentiment": {
+            "compound": -0.1511,
+            "neg": 0.041,
+            "neu": 0.933,
+            "pos": 0.026
+        },
         "track": "Hound Dog'",
         "writers": "Jerry Leiber, Mike Stoller",
         "year": 1953
@@ -3504,6 +5412,12 @@
         "genre": "new romantic",
         "popularity": 81,
         "ranking": 319,
+        "sentiment": {
+            "compound": -0.0258,
+            "neg": 0.085,
+            "neu": 0.83,
+            "pos": 0.084
+        },
         "track": "Everybody Wants to Rule the World'",
         "writers": "Roland Orzabal, Ian Stanley, Chris Hughes",
         "year": 1985
@@ -3515,6 +5429,12 @@
         "genre": "g funk",
         "popularity": 73,
         "ranking": 320,
+        "sentiment": {
+            "compound": -0.886,
+            "neg": 0.126,
+            "neu": 0.829,
+            "pos": 0.045
+        },
         "track": "California Love'",
         "writers": "Tupac Shakur, Andre Young, Larry Troutman, Mikel Hooks, Norman Durham, Ronnie Hudson, Woody Cunningham",
         "year": 1995
@@ -3526,6 +5446,12 @@
         "genre": "irish rock",
         "popularity": 75,
         "ranking": 321,
+        "sentiment": {
+            "compound": 0.743,
+            "neg": 0.028,
+            "neu": 0.849,
+            "pos": 0.122
+        },
         "track": "I Still Haven\u2019t Found What I\u2019m Looking For'",
         "writers": "Bono, Larry Mullen Jr., the Edge, Adam Clayton",
         "year": 1987
@@ -3537,6 +5463,12 @@
         "genre": "album rock",
         "popularity": 51,
         "ranking": 322,
+        "sentiment": {
+            "compound": 0.8555,
+            "neg": 0.051,
+            "neu": 0.799,
+            "pos": 0.15
+        },
         "track": "After the Gold Rush'",
         "writers": "Neil Young",
         "year": 1970
@@ -3548,6 +5480,12 @@
         "genre": "adult standards",
         "popularity": 66,
         "ranking": 323,
+        "sentiment": {
+            "compound": 0.6652,
+            "neg": 0.0,
+            "neu": 0.908,
+            "pos": 0.092
+        },
         "track": "All I Have to Do Is Dream'",
         "writers": "Boudleaux Bryant, Felice Bryant",
         "year": 1958
@@ -3559,6 +5497,12 @@
         "genre": "classic rock",
         "popularity": 58,
         "ranking": 324,
+        "sentiment": {
+            "compound": 0.6908,
+            "neg": 0.0,
+            "neu": 0.948,
+            "pos": 0.052
+        },
         "track": "Scenes From an Italian Restaurant'",
         "writers": "Billy Joel",
         "year": 1977
@@ -3570,6 +5514,12 @@
         "genre": "alternative rock",
         "popularity": 64,
         "ranking": 325,
+        "sentiment": {
+            "compound": -0.5423,
+            "neg": 0.04,
+            "neu": 0.96,
+            "pos": 0.0
+        },
         "track": "Lust for Life'",
         "writers": "David Bowie, Iggy Pop",
         "year": 1977
@@ -3581,6 +5531,12 @@
         "genre": "anti-folk",
         "popularity": 50,
         "ranking": 326,
+        "sentiment": {
+            "compound": 0.6245,
+            "neg": 0.019,
+            "neu": 0.914,
+            "pos": 0.066
+        },
         "track": "Portions for Foxes'",
         "writers": "Jenny Lewis, Blake Sennett",
         "year": 2004
@@ -3592,6 +5548,12 @@
         "genre": "dance pop",
         "popularity": 62,
         "ranking": 327,
+        "sentiment": {
+            "compound": -0.1901,
+            "neg": 0.035,
+            "neu": 0.948,
+            "pos": 0.017
+        },
         "track": "Real Love'",
         "writers": "Mark Rooney, Mark Morales",
         "year": 1992
@@ -3603,6 +5565,12 @@
         "genre": "alternative rock",
         "popularity": 79,
         "ranking": 328,
+        "sentiment": {
+            "compound": -0.7906,
+            "neg": 0.082,
+            "neu": 0.904,
+            "pos": 0.014
+        },
         "track": "Under the Bridge'",
         "writers": "Anthony Kiedis, Flea, John Frusciante, Chad Smith",
         "year": 1991
@@ -3614,6 +5582,12 @@
         "genre": "latin",
         "popularity": 78,
         "ranking": 329,
+        "sentiment": {
+            "compound": 0.8402,
+            "neg": 0.03,
+            "neu": 0.849,
+            "pos": 0.122
+        },
         "track": "Safaera'",
         "writers": "Sly Dunbar, Benito Mart\u00ednez, Lloyd Willis, Jose Cruz, Freddy Montalvo Alicia, Melissa Elliott, Timothy Mosley, Bob Marley, Ormani Perez, Shaun Pizzonia, Richard Lied, Felix Rodriguez, Marco Masis, Joel Munoz, Randy Ortiz, Edwin Rosa",
         "year": 2020
@@ -3625,6 +5599,12 @@
         "genre": "east coast hip hop",
         "popularity": 76,
         "ranking": 330,
+        "sentiment": {
+            "compound": 0.7845,
+            "neg": 0.059,
+            "neu": 0.822,
+            "pos": 0.119
+        },
         "track": "Big Poppa'",
         "writers": "Christopher Wallace, Rudolph Isley, O'Kelly Isley, Ronald Isley, Ernest Isley, Marvin Isley, Chris Jasper",
         "year": 1994
@@ -3636,6 +5616,12 @@
         "genre": "brill building pop",
         "popularity": 65,
         "ranking": 331,
+        "sentiment": {
+            "compound": 0.7783,
+            "neg": 0.0,
+            "neu": 0.91,
+            "pos": 0.09
+        },
         "track": "Please Mr. Postman'",
         "writers": "Georgia Dobbins, William Garrett, Freddie Gorman, Brian Holland, Robert Bateman",
         "year": 1961
@@ -3647,6 +5633,12 @@
         "genre": "barbadian pop",
         "popularity": 57,
         "ranking": 332,
+        "sentiment": {
+            "compound": 0.722,
+            "neg": 0.0,
+            "neu": 0.926,
+            "pos": 0.074
+        },
         "track": "Umbrella'",
         "writers": "Christopher Stewart, Terius Nash, Kuk Harrell, Shawn Carter",
         "year": 2007
@@ -3658,6 +5650,12 @@
         "genre": "classic soul",
         "popularity": 65,
         "ranking": 333,
+        "sentiment": {
+            "compound": 0.6542,
+            "neg": 0.0,
+            "neu": 0.939,
+            "pos": 0.061
+        },
         "track": "Papa Was a Rollin' Stone'",
         "writers": "Norman Whitfield, Barrett Strong",
         "year": 1972
@@ -3669,6 +5667,12 @@
         "genre": null,
         "popularity": 6,
         "ranking": 334,
+        "sentiment": {
+            "compound": 0.8578,
+            "neg": 0.0,
+            "neu": 0.899,
+            "pos": 0.101
+        },
         "track": "Ripple'",
         "writers": "Jerry Garcia, Robert Hunter",
         "year": 1970
@@ -3680,6 +5684,12 @@
         "genre": "acid house",
         "popularity": 27,
         "ranking": 335,
+        "sentiment": {
+            "compound": 0.7684,
+            "neg": 0.011,
+            "neu": 0.925,
+            "pos": 0.064
+        },
         "track": "Move Your Body (The House Music Anthem)'",
         "writers": "Marshall Jefferson",
         "year": 1986
@@ -3691,6 +5701,12 @@
         "genre": "album rock",
         "popularity": 63,
         "ranking": 336,
+        "sentiment": {
+            "compound": 0.9325,
+            "neg": 0.0,
+            "neu": 0.828,
+            "pos": 0.172
+        },
         "track": "She\u2019s Gone'",
         "writers": "Daryl Hall, John Oates",
         "year": 1973
@@ -3702,6 +5718,12 @@
         "genre": "dance pop",
         "popularity": 75,
         "ranking": 337,
+        "sentiment": {
+            "compound": 0.7629,
+            "neg": 0.037,
+            "neu": 0.857,
+            "pos": 0.107
+        },
         "track": "Believe'",
         "writers": " Brian Higgins, Stuart McLennen, Paul Barry, Steven Torch, Matthew Gray, Timothy Powell, Cher",
         "year": 1998
@@ -3713,6 +5735,12 @@
         "genre": "album rock",
         "popularity": 69,
         "ranking": 338,
+        "sentiment": {
+            "compound": -0.8922,
+            "neg": 0.124,
+            "neu": 0.842,
+            "pos": 0.034
+        },
         "track": "Paranoid'",
         "writers": "Geezer Butler, Tony Iommi, Ozzy Osbourne, William Ward",
         "year": 1970
@@ -3724,6 +5752,12 @@
         "genre": "funk",
         "popularity": 59,
         "ranking": 339,
+        "sentiment": {
+            "compound": 0.8793,
+            "neg": 0.016,
+            "neu": 0.853,
+            "pos": 0.131
+        },
         "track": "1999'",
         "writers": "Prince",
         "year": 1982
@@ -3735,6 +5769,12 @@
         "genre": "classic rock",
         "popularity": 45,
         "ranking": 340,
+        "sentiment": {
+            "compound": 0.6705,
+            "neg": 0.014,
+            "neu": 0.918,
+            "pos": 0.068
+        },
         "track": "(White Man) in Hammersmith Palais'",
         "writers": "Mick Jones, Joe Strummer",
         "year": 1978
@@ -3746,6 +5786,12 @@
         "genre": "beatlesque",
         "popularity": 6,
         "ranking": 341,
+        "sentiment": {
+            "compound": 0.8561,
+            "neg": 0.021,
+            "neu": 0.868,
+            "pos": 0.111
+        },
         "track": "I'm a Believer'",
         "writers": "Neil Diamond",
         "year": 1966
@@ -3757,6 +5803,12 @@
         "genre": "blues rock",
         "popularity": 46,
         "ranking": 342,
+        "sentiment": {
+            "compound": -0.2732,
+            "neg": 0.106,
+            "neu": 0.798,
+            "pos": 0.096
+        },
         "track": "Promised Land'",
         "writers": "Chuck Berry",
         "year": 1964
@@ -3768,6 +5820,12 @@
         "genre": "album rock",
         "popularity": 69,
         "ranking": 343,
+        "sentiment": {
+            "compound": -0.7422,
+            "neg": 0.123,
+            "neu": 0.794,
+            "pos": 0.083
+        },
         "track": "What a Fool Believes'",
         "writers": "Kenny Loggins, Michael McDonald",
         "year": 1979
@@ -3779,6 +5837,12 @@
         "genre": "album rock",
         "popularity": 64,
         "ranking": 344,
+        "sentiment": {
+            "compound": 0.9545,
+            "neg": 0.0,
+            "neu": 0.813,
+            "pos": 0.187
+        },
         "track": "Iron Man'",
         "writers": "Bill Ward, Geezer Butler, Ozzy Osbourne, Tony Iommi",
         "year": 1971
@@ -3790,6 +5854,12 @@
         "genre": "adult standards",
         "popularity": 67,
         "ranking": 345,
+        "sentiment": {
+            "compound": 0.9477,
+            "neg": 0.0,
+            "neu": 0.834,
+            "pos": 0.166
+        },
         "track": "It\u2019s Too Late'",
         "writers": "Carole King, Toni Stern",
         "year": 1971
@@ -3801,6 +5871,12 @@
         "genre": "k-pop",
         "popularity": 86,
         "ranking": 346,
+        "sentiment": {
+            "compound": 0.8658,
+            "neg": 0.0,
+            "neu": 0.864,
+            "pos": 0.136
+        },
         "track": "Dynamite'",
         "writers": "David Stewart, Jessica Agombar",
         "year": 2020
@@ -3812,6 +5888,12 @@
         "genre": "rock-and-roll",
         "popularity": 59,
         "ranking": 347,
+        "sentiment": {
+            "compound": -0.0736,
+            "neg": 0.068,
+            "neu": 0.856,
+            "pos": 0.076
+        },
         "track": "Heartbreak Hotel'",
         "writers": "Mae Boren Axton, Thomas Durden, Elvis Presley",
         "year": 1958
@@ -3823,6 +5905,12 @@
         "genre": "album rock",
         "popularity": 50,
         "ranking": 348,
+        "sentiment": {
+            "compound": 0.7869,
+            "neg": 0.02,
+            "neu": 0.9,
+            "pos": 0.08
+        },
         "track": "Virginia Plain'",
         "writers": "Bryan Ferry",
         "year": 1972
@@ -3834,6 +5922,12 @@
         "genre": "baroque pop",
         "popularity": 66,
         "ranking": 349,
+        "sentiment": {
+            "compound": 0.8338,
+            "neg": 0.068,
+            "neu": 0.799,
+            "pos": 0.133
+        },
         "track": "Time of the Season'",
         "writers": "Rod Argent",
         "year": 1968
@@ -3845,6 +5939,12 @@
         "genre": "alternative country",
         "popularity": 55,
         "ranking": 350,
+        "sentiment": {
+            "compound": 0.2617,
+            "neg": 0.03,
+            "neu": 0.93,
+            "pos": 0.04
+        },
         "track": "Angel From Montgomery'",
         "writers": "John Prine",
         "year": 1971
@@ -3856,6 +5956,12 @@
         "genre": "bossa nova",
         "popularity": 20,
         "ranking": 351,
+        "sentiment": {
+            "compound": 0.8658,
+            "neg": 0.034,
+            "neu": 0.855,
+            "pos": 0.111
+        },
         "track": "Ponta de Lan\u00e7a Africano (Umbabarauma)'",
         "writers": "Jorge Ben",
         "year": 1976
@@ -3867,6 +5973,12 @@
         "genre": "conscious hip hop",
         "popularity": 76,
         "ranking": 352,
+        "sentiment": {
+            "compound": -0.059,
+            "neg": 0.164,
+            "neu": 0.675,
+            "pos": 0.162
+        },
         "track": "It Was a Good Day'",
         "writers": "O'Shea Jackson",
         "year": 1992
@@ -3878,6 +5990,12 @@
         "genre": "dance rock",
         "popularity": 80,
         "ranking": 353,
+        "sentiment": {
+            "compound": 0.7942,
+            "neg": 0.031,
+            "neu": 0.858,
+            "pos": 0.111
+        },
         "track": "Sweet Dreams (Are Made of This)'",
         "writers": "Annie Lennox, Dave Stewart",
         "year": 1983
@@ -3889,6 +6007,12 @@
         "genre": "pop",
         "popularity": 73,
         "ranking": 354,
+        "sentiment": {
+            "compound": 0.8779,
+            "neg": 0.0,
+            "neu": 0.878,
+            "pos": 0.122
+        },
         "track": "Rock With You'",
         "writers": "Rod Temperton",
         "year": 1979
@@ -3900,6 +6024,12 @@
         "genre": "disco",
         "popularity": 11,
         "ranking": 355,
+        "sentiment": {
+            "compound": 0.8834,
+            "neg": 0.059,
+            "neu": 0.767,
+            "pos": 0.175
+        },
         "track": "Don't Leave Me This Way'",
         "writers": "Cary Gilbert, Kenneth Gamble, Leon Huff",
         "year": 1976
@@ -3911,6 +6041,12 @@
         "genre": "album rock",
         "popularity": 68,
         "ranking": 356,
+        "sentiment": {
+            "compound": 0.4019,
+            "neg": 0.026,
+            "neu": 0.929,
+            "pos": 0.045
+        },
         "track": "Surrender'",
         "writers": "Rick Nielsen",
         "year": 1978
@@ -3922,6 +6058,12 @@
         "genre": "pop",
         "popularity": 71,
         "ranking": 357,
+        "sentiment": {
+            "compound": -0.0258,
+            "neg": 0.025,
+            "neu": 0.939,
+            "pos": 0.036
+        },
         "track": "Blank Space'",
         "writers": "Taylor Swift, Karl Sandberg, Karl Schuster",
         "year": 2014
@@ -3933,6 +6075,12 @@
         "genre": "art punk",
         "popularity": 66,
         "ranking": 358,
+        "sentiment": {
+            "compound": 0.6908,
+            "neg": 0.054,
+            "neu": 0.845,
+            "pos": 0.101
+        },
         "track": "Because the Night'",
         "writers": "Patti Smith, Bruce Springsteen",
         "year": 1978
@@ -3944,6 +6092,12 @@
         "genre": "east coast hip hop",
         "popularity": 75,
         "ranking": 359,
+        "sentiment": {
+            "compound": 0.8641,
+            "neg": 0.0,
+            "neu": 0.894,
+            "pos": 0.106
+        },
         "track": "Killing Me Softly With His Song'",
         "writers": "Norman Gamble, Charles Fox",
         "year": 1996
@@ -3955,6 +6109,12 @@
         "genre": "funk",
         "popularity": 55,
         "ranking": 360,
+        "sentiment": {
+            "compound": 0.3825,
+            "neg": 0.0,
+            "neu": 0.963,
+            "pos": 0.037
+        },
         "track": "Little Red Corvette'",
         "writers": "Prince",
         "year": 1982
@@ -3966,6 +6126,12 @@
         "genre": "dub",
         "popularity": 60,
         "ranking": 361,
+        "sentiment": {
+            "compound": 0.7003,
+            "neg": 0.037,
+            "neu": 0.871,
+            "pos": 0.092
+        },
         "track": "The Harder They Come'",
         "writers": "Jimmy Cliff",
         "year": 1972
@@ -3977,6 +6143,12 @@
         "genre": "contemporary country",
         "popularity": 61,
         "ranking": 362,
+        "sentiment": {
+            "compound": 0.9568,
+            "neg": 0.0,
+            "neu": 0.811,
+            "pos": 0.189
+        },
         "track": "Merry Go 'Round'",
         "writers": "Kacey Musgraves, Luke Laird, Shane McAnally",
         "year": 2013
@@ -3988,6 +6160,12 @@
         "genre": "reggae",
         "popularity": 76,
         "ranking": 363,
+        "sentiment": {
+            "compound": 0.0516,
+            "neg": 0.074,
+            "neu": 0.841,
+            "pos": 0.085
+        },
         "track": "Could You Be Loved'",
         "writers": "Bob Marley",
         "year": 1980
@@ -3999,6 +6177,12 @@
         "genre": null,
         "popularity": 0,
         "ranking": 364,
+        "sentiment": {
+            "compound": 0.7269,
+            "neg": 0.044,
+            "neu": 0.852,
+            "pos": 0.104
+        },
         "track": "Box of Rain'",
         "writers": "Phil Lesh, Robert Hunter",
         "year": 1970
@@ -4010,6 +6194,12 @@
         "genre": "punk",
         "popularity": 50,
         "ranking": 365,
+        "sentiment": {
+            "compound": -0.875,
+            "neg": 0.171,
+            "neu": 0.769,
+            "pos": 0.06
+        },
         "track": "God Save the Queen'",
         "writers": "Glen Matlock, Johnny Rotten, Paul Thomas Cook, Stephen Philip Jones",
         "year": 1977
@@ -4021,6 +6211,12 @@
         "genre": "adult standards",
         "popularity": 54,
         "ranking": 366,
+        "sentiment": {
+            "compound": 0.5023,
+            "neg": 0.0,
+            "neu": 0.942,
+            "pos": 0.058
+        },
         "track": "Da Doo Ron Ron'",
         "writers": "Ellie Greenwich, Jeff Barry, Phil Spector",
         "year": 1963
@@ -4032,6 +6228,12 @@
         "genre": "alternative r&b",
         "popularity": 70,
         "ranking": 367,
+        "sentiment": {
+            "compound": -0.1531,
+            "neg": 0.087,
+            "neu": 0.864,
+            "pos": 0.049
+        },
         "track": "Thinkin Bout You'",
         "writers": "Shea Taylor, Lonnie Breaux",
         "year": 2012
@@ -4043,6 +6245,12 @@
         "genre": "alternative metal",
         "popularity": 74,
         "ranking": 368,
+        "sentiment": {
+            "compound": 0.8625,
+            "neg": 0.065,
+            "neu": 0.799,
+            "pos": 0.136
+        },
         "track": "Black Hole Sun'",
         "writers": "Chris Cornell",
         "year": 1994
@@ -4054,6 +6262,12 @@
         "genre": "album rock",
         "popularity": 68,
         "ranking": 369,
+        "sentiment": {
+            "compound": 0.6124,
+            "neg": 0.058,
+            "neu": 0.849,
+            "pos": 0.093
+        },
         "track": "Just What I Needed'",
         "writers": "Ric Ocasek",
         "year": 1978
@@ -4065,6 +6279,12 @@
         "genre": "adult standards",
         "popularity": 60,
         "ranking": 370,
+        "sentiment": {
+            "compound": 0.4019,
+            "neg": 0.022,
+            "neu": 0.923,
+            "pos": 0.055
+        },
         "track": "Peggy Sue'",
         "writers": "Buddy Holly, Jerry Allison, Norman Petty",
         "year": 1958
@@ -4076,6 +6296,12 @@
         "genre": "glam rock",
         "popularity": 73,
         "ranking": 371,
+        "sentiment": {
+            "compound": 0.9424,
+            "neg": 0.031,
+            "neu": 0.777,
+            "pos": 0.192
+        },
         "track": "Bennie and the Jets'",
         "writers": "Bernie Taupin, Elton John",
         "year": 1973
@@ -4087,6 +6313,12 @@
         "genre": "classic rock",
         "popularity": 65,
         "ranking": 372,
+        "sentiment": {
+            "compound": 0.7666,
+            "neg": 0.096,
+            "neu": 0.77,
+            "pos": 0.134
+        },
         "track": "I Can't Make You Love Me'",
         "writers": "Michael Reid, Allen Shamblin",
         "year": 1991
@@ -4098,6 +6330,12 @@
         "genre": "canadian hip hop",
         "popularity": 76,
         "ranking": 373,
+        "sentiment": {
+            "compound": 0.6486,
+            "neg": 0.0,
+            "neu": 0.955,
+            "pos": 0.045
+        },
         "track": "Hotline Bling'",
         "writers": "Aubrey Graham, Paul Jefferies, Timmy Thomas",
         "year": 2015
@@ -4109,6 +6347,12 @@
         "genre": "classic soul",
         "popularity": 48,
         "ranking": 374,
+        "sentiment": {
+            "compound": 0.9217,
+            "neg": 0.0,
+            "neu": 0.852,
+            "pos": 0.148
+        },
         "track": "Be Thankful for What You Got'",
         "writers": "William DeVaughn",
         "year": 1974
@@ -4120,6 +6364,12 @@
         "genre": "adult standards",
         "popularity": 56,
         "ranking": 375,
+        "sentiment": {
+            "compound": 0.7717,
+            "neg": 0.042,
+            "neu": 0.861,
+            "pos": 0.097
+        },
         "track": "Up on the Roof'",
         "writers": "Carole King, Gerry Goffin",
         "year": 1964
@@ -4131,6 +6381,12 @@
         "genre": "bakersfield sound",
         "popularity": 59,
         "ranking": 376,
+        "sentiment": {
+            "compound": 0.9209,
+            "neg": 0.0,
+            "neu": 0.893,
+            "pos": 0.107
+        },
         "track": "Mama Tried'",
         "writers": "Merle Haggard",
         "year": 1968
@@ -4142,6 +6398,12 @@
         "genre": "new wave",
         "popularity": 55,
         "ranking": 377,
+        "sentiment": {
+            "compound": 0.8532,
+            "neg": 0.103,
+            "neu": 0.696,
+            "pos": 0.201
+        },
         "track": "Pictures of You'",
         "writers": "Boris Williams, Lol Tolhurst, Porl Thompson, Robert Smith, Roger O\u2019Donnell, Simon Gallup",
         "year": 1989
@@ -4153,6 +6415,12 @@
         "genre": "dance rock",
         "popularity": 74,
         "ranking": 378,
+        "sentiment": {
+            "compound": -0.6597,
+            "neg": 0.129,
+            "neu": 0.793,
+            "pos": 0.078
+        },
         "track": "Mr. Brightside'",
         "writers": "Brandon Flowers, Dave Keuning",
         "year": 2003
@@ -4164,6 +6432,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 379,
+        "sentiment": {
+            "compound": 0.7007,
+            "neg": 0.021,
+            "neu": 0.872,
+            "pos": 0.107
+        },
         "track": "Untitled (How Does It Feel)'",
         "writers": "D\u2019Angelo, Raphael Saadiq",
         "year": 2000
@@ -4175,6 +6449,12 @@
         "genre": "alternative rock",
         "popularity": 40,
         "ranking": 380,
+        "sentiment": {
+            "compound": 0.8439,
+            "neg": 0.035,
+            "neu": 0.841,
+            "pos": 0.124
+        },
         "track": "Radiation Vibe'",
         "writers": "Chris Collingwood, Adam Schlesinger",
         "year": 1996
@@ -4186,6 +6466,12 @@
         "genre": "experimental",
         "popularity": 42,
         "ranking": 381,
+        "sentiment": {
+            "compound": 0.8279,
+            "neg": 0.0,
+            "neu": 0.917,
+            "pos": 0.083
+        },
         "track": "Typical Girls'",
         "writers": "Ariane Forster, Paloma Romero, Tessa Pollitt, Viviane Albertine",
         "year": 1979
@@ -4197,6 +6483,12 @@
         "genre": "art pop",
         "popularity": 56,
         "ranking": 382,
+        "sentiment": {
+            "compound": 0.8555,
+            "neg": 0.0,
+            "neu": 0.88,
+            "pos": 0.12
+        },
         "track": "Paper Bag'",
         "writers": "Fiona Apple",
         "year": 1999
@@ -4208,6 +6500,12 @@
         "genre": "atl hip hop",
         "popularity": 80,
         "ranking": 383,
+        "sentiment": {
+            "compound": -0.1779,
+            "neg": 0.044,
+            "neu": 0.93,
+            "pos": 0.025
+        },
         "track": "Redbone'",
         "writers": "Ludwig G\u00f6ransson, Donald Glover",
         "year": 2016
@@ -4219,6 +6517,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 384,
+        "sentiment": {
+            "compound": 0.5267,
+            "neg": 0.037,
+            "neu": 0.883,
+            "pos": 0.08
+        },
         "track": "I Like It'",
         "writers": "Tainy, Anthony Germaine White, Belcalis Almanzar, Benito Antonio Ocasio Matinez, Benny Bonilla, Edgar Machuca, Edgar Wilmer Semper Vargas, Jordan Thorpe, Jose Alvaro Balvin Osorio, Luian Malav\u00e9, Manny Rodriguez, Marcos E. Masis, Noah Assad, Tony Pabon, Vincent Watson, Xavier Semer Vargas",
         "year": 2018
@@ -4230,6 +6534,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 385,
+        "sentiment": {
+            "compound": -0.4404,
+            "neg": 0.035,
+            "neu": 0.965,
+            "pos": 0.0
+        },
         "track": "I'm Coming Out'",
         "writers": "Bernard Edwards, Nile Rodgers",
         "year": 1980
@@ -4241,6 +6551,12 @@
         "genre": "album rock",
         "popularity": 69,
         "ranking": 386,
+        "sentiment": {
+            "compound": 0.722,
+            "neg": 0.0,
+            "neu": 0.92,
+            "pos": 0.08
+        },
         "track": "Lola'",
         "writers": "Ray Davies",
         "year": 1970
@@ -4252,6 +6568,12 @@
         "genre": "early us punk",
         "popularity": 51,
         "ranking": 387,
+        "sentiment": {
+            "compound": -0.8651,
+            "neg": 0.15,
+            "neu": 0.818,
+            "pos": 0.032
+        },
         "track": "Personality Crisis'",
         "writers": "David Johansen, Johnny Thunders",
         "year": 1973
@@ -4263,6 +6585,12 @@
         "genre": "east coast hip hop",
         "popularity": 46,
         "ranking": 388,
+        "sentiment": {
+            "compound": -0.4678,
+            "neg": 0.099,
+            "neu": 0.832,
+            "pos": 0.069
+        },
         "track": "Party Up (Up in Here)'",
         "writers": "Earl Simmons, Kasseem Dean",
         "year": 1999
@@ -4274,6 +6602,12 @@
         "genre": "album rock",
         "popularity": 58,
         "ranking": 389,
+        "sentiment": {
+            "compound": -0.7311,
+            "neg": 0.103,
+            "neu": 0.805,
+            "pos": 0.093
+        },
         "track": "Brass in Pocket'",
         "writers": "Chrissie Hynde, James Honeyman-Scott",
         "year": 1979
@@ -4285,6 +6619,12 @@
         "genre": "hard rock",
         "popularity": 73,
         "ranking": 390,
+        "sentiment": {
+            "compound": 0.34,
+            "neg": 0.022,
+            "neu": 0.942,
+            "pos": 0.037
+        },
         "track": "Enter Sandman'",
         "writers": "James Hetfield, Kirk Hammett, Lars Ulrich",
         "year": 1991
@@ -4296,6 +6636,12 @@
         "genre": "contemporary country",
         "popularity": 72,
         "ranking": 391,
+        "sentiment": {
+            "compound": 0.9438,
+            "neg": 0.017,
+            "neu": 0.843,
+            "pos": 0.14
+        },
         "track": "Springsteen'",
         "writers": "Eric Church, Jeff Hyde, Ryan Tyndell",
         "year": 2011
@@ -4307,6 +6653,12 @@
         "genre": "permanent wave",
         "popularity": 79,
         "ranking": 392,
+        "sentiment": {
+            "compound": 0.6597,
+            "neg": 0.028,
+            "neu": 0.879,
+            "pos": 0.093
+        },
         "track": "Fix You'",
         "writers": "Chris Martin, Guy Berryman, Jonny Buckland, Will Champion",
         "year": 2005
@@ -4318,6 +6670,12 @@
         "genre": "funk",
         "popularity": 40,
         "ranking": 393,
+        "sentiment": {
+            "compound": -0.9517,
+            "neg": 0.191,
+            "neu": 0.757,
+            "pos": 0.052
+        },
         "track": "Say It Loud (I\u2019m Black and I\u2019m Proud)'",
         "writers": "Alfred Ellis, James Brown",
         "year": 1968
@@ -4329,6 +6687,12 @@
         "genre": "melancholia",
         "popularity": 55,
         "ranking": 394,
+        "sentiment": {
+            "compound": 0.7964,
+            "neg": 0.056,
+            "neu": 0.8,
+            "pos": 0.144
+        },
         "track": "Grace'",
         "writers": "Gary Lucas, Jeff Buckley",
         "year": 1994
@@ -4340,6 +6704,12 @@
         "genre": "bronx hip hop",
         "popularity": 34,
         "ranking": 395,
+        "sentiment": {
+            "compound": 0.7269,
+            "neg": 0.0,
+            "neu": 0.931,
+            "pos": 0.069
+        },
         "track": "Planet Rock'",
         "writers": "Arthur Baker, Afrika Bambaataa, Ellis Williams, John Robie, John Miller, Robert Allen, The Soulsonic Force",
         "year": 1982
@@ -4351,6 +6721,12 @@
         "genre": "art rock",
         "popularity": 58,
         "ranking": 396,
+        "sentiment": {
+            "compound": 0.8762,
+            "neg": 0.071,
+            "neu": 0.766,
+            "pos": 0.163
+        },
         "track": "Alison'",
         "writers": "Elvis Costello",
         "year": 1977
@@ -4362,6 +6738,12 @@
         "genre": "conscious hip hop",
         "popularity": 46,
         "ranking": 397,
+        "sentiment": {
+            "compound": 0.7645,
+            "neg": 0.02,
+            "neu": 0.893,
+            "pos": 0.087
+        },
         "track": "Bring the Noise'",
         "writers": "Carlton Ridenhour, Charlie Benante, Daniel Alan Spitz, Eric Sadler, Frank Joseph Bello, Hank Shocklee, Joseph Bellardini, Scott Ian Rosenfeld",
         "year": 1987
@@ -4373,6 +6755,12 @@
         "genre": "dance rock",
         "popularity": 71,
         "ranking": 398,
+        "sentiment": {
+            "compound": 0.8225,
+            "neg": 0.0,
+            "neu": 0.913,
+            "pos": 0.087
+        },
         "track": "Hungry Like the Wolf'",
         "writers": "Andy Taylor, John Taylor, Nick Rhodes, Roger Taylor, Simon Le Bon",
         "year": 1982
@@ -4384,6 +6772,12 @@
         "genre": "disco",
         "popularity": 61,
         "ranking": 399,
+        "sentiment": {
+            "compound": 0.34,
+            "neg": 0.0,
+            "neu": 0.972,
+            "pos": 0.028
+        },
         "track": "You Make Me Feel (Mighty Real)'",
         "writers": "Sylvester, James Wirrick",
         "year": 1978
@@ -4395,6 +6789,12 @@
         "genre": "art rock",
         "popularity": 44,
         "ranking": 400,
+        "sentiment": {
+            "compound": -0.3802,
+            "neg": 0.03,
+            "neu": 0.97,
+            "pos": 0.0
+        },
         "track": "Station to Station'",
         "writers": "David Bowie",
         "year": 1976
@@ -4406,6 +6806,12 @@
         "genre": "album rock",
         "popularity": 72,
         "ranking": 401,
+        "sentiment": {
+            "compound": -0.8271,
+            "neg": 0.103,
+            "neu": 0.86,
+            "pos": 0.037
+        },
         "track": "Go Your Own Way'",
         "writers": "Lindsey Buckingham",
         "year": 1977
@@ -4417,6 +6823,12 @@
         "genre": "funk",
         "popularity": 74,
         "ranking": 402,
+        "sentiment": {
+            "compound": -0.1097,
+            "neg": 0.081,
+            "neu": 0.861,
+            "pos": 0.058
+        },
         "track": "Lovely Day'",
         "writers": "Bill Withers, Skip Scarborough",
         "year": 1977
@@ -4428,6 +6840,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 403,
+        "sentiment": {
+            "compound": 0.7096,
+            "neg": 0.0,
+            "neu": 0.925,
+            "pos": 0.075
+        },
         "track": "Ain\u2019t Nobody'",
         "writers": "David Wolinski",
         "year": 1983
@@ -4439,6 +6857,12 @@
         "genre": "album rock",
         "popularity": 74,
         "ranking": 404,
+        "sentiment": {
+            "compound": -0.5574,
+            "neg": 0.116,
+            "neu": 0.804,
+            "pos": 0.08
+        },
         "track": "Rock and Roll All Nite'",
         "writers": "Gene Simmons, Paul Stanley",
         "year": 1975
@@ -4450,6 +6874,12 @@
         "genre": "mexican pop",
         "popularity": 71,
         "ranking": 405,
+        "sentiment": {
+            "compound": 0.9545,
+            "neg": 0.035,
+            "neu": 0.783,
+            "pos": 0.182
+        },
         "track": "Amor Prohibido'",
         "writers": "A.B. Quintanilla III, Pete Astudillo, Selena",
         "year": 1994
@@ -4461,6 +6891,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 406,
+        "sentiment": {
+            "compound": 0.9148,
+            "neg": 0.019,
+            "neu": 0.837,
+            "pos": 0.144
+        },
         "track": "Sucker MC's'",
         "writers": "Darryl McDaniels, Joseph Ward Simmons, Lawrence Smith",
         "year": 1984
@@ -4472,6 +6908,12 @@
         "genre": "album rock",
         "popularity": 73,
         "ranking": 407,
+        "sentiment": {
+            "compound": 0.836,
+            "neg": 0.055,
+            "neu": 0.808,
+            "pos": 0.137
+        },
         "track": "Free Bird'",
         "writers": "Allen Collins, Ronnie Van Zant",
         "year": 1973
@@ -4483,6 +6925,12 @@
         "genre": "british folk",
         "popularity": 72,
         "ranking": 408,
+        "sentiment": {
+            "compound": 0.0516,
+            "neg": 0.068,
+            "neu": 0.861,
+            "pos": 0.071
+        },
         "track": "Father and Son'",
         "writers": "Cat Stevens/Yusuf",
         "year": 1970
@@ -4494,6 +6942,12 @@
         "genre": "alternative metal",
         "popularity": 77,
         "ranking": 409,
+        "sentiment": {
+            "compound": 0.6249,
+            "neg": 0.036,
+            "neu": 0.885,
+            "pos": 0.079
+        },
         "track": "Everlong'",
         "writers": "Dave Grohl",
         "year": 1997
@@ -4505,6 +6959,12 @@
         "genre": "album rock",
         "popularity": 55,
         "ranking": 410,
+        "sentiment": {
+            "compound": -0.34,
+            "neg": 0.026,
+            "neu": 0.974,
+            "pos": 0.0
+        },
         "track": "Whipping Post'",
         "writers": "Gregg Allman",
         "year": 1969
@@ -4516,6 +6976,12 @@
         "genre": "alternative country",
         "popularity": 54,
         "ranking": 411,
+        "sentiment": {
+            "compound": -0.4482,
+            "neg": 0.098,
+            "neu": 0.861,
+            "pos": 0.041
+        },
         "track": "Heavy Metal Drummer'",
         "writers": "Jeff Tweedy",
         "year": 2002
@@ -4527,6 +6993,12 @@
         "genre": "new wave pop",
         "popularity": 53,
         "ranking": 412,
+        "sentiment": {
+            "compound": 0.2732,
+            "neg": 0.0,
+            "neu": 0.979,
+            "pos": 0.021
+        },
         "track": "Buffalo Stance'",
         "writers": "Cameron McVey, Jamie Morgan, Neneh Cherry, Phil Ramacon",
         "year": 1988
@@ -4538,6 +7010,12 @@
         "genre": "blues rock",
         "popularity": 61,
         "ranking": 413,
+        "sentiment": {
+            "compound": -0.5704,
+            "neg": 0.079,
+            "neu": 0.888,
+            "pos": 0.032
+        },
         "track": "Gloria'",
         "writers": "Van Morrison",
         "year": 1965
@@ -4549,6 +7027,12 @@
         "genre": "candy pop",
         "popularity": 46,
         "ranking": 414,
+        "sentiment": {
+            "compound": 0.9413,
+            "neg": 0.019,
+            "neu": 0.822,
+            "pos": 0.159
+        },
         "track": "Dreaming'",
         "writers": "Debbie Harry, Jimmy Destri",
         "year": 1979
@@ -4560,6 +7044,12 @@
         "genre": "dance rock",
         "popularity": 64,
         "ranking": 415,
+        "sentiment": {
+            "compound": 0.0972,
+            "neg": 0.039,
+            "neu": 0.907,
+            "pos": 0.054
+        },
         "track": "Enjoy the Silence'",
         "writers": "Martin Gore",
         "year": 1990
@@ -4571,6 +7061,12 @@
         "genre": "alternative rock",
         "popularity": 74,
         "ranking": 416,
+        "sentiment": {
+            "compound": 0.0,
+            "neg": 0.024,
+            "neu": 0.952,
+            "pos": 0.024
+        },
         "track": "Alive'",
         "writers": "Stone Gossard, Eddie Vedder",
         "year": 1991
@@ -4582,6 +7078,12 @@
         "genre": "dance pop",
         "popularity": 81,
         "ranking": 417,
+        "sentiment": {
+            "compound": 0.8316,
+            "neg": 0.04,
+            "neu": 0.847,
+            "pos": 0.113
+        },
         "track": "Uptown Funk'",
         "writers": "Charles Wilson, Devon Gallaspy, Jeff Bhasker, Lonnie Simmons, Nicholaus Williams, Peter Hernandez, Philip Lawrence, Robert Wilson, Ronnie Wilson, Rudolph Taylor",
         "year": 2015
@@ -4593,6 +7095,12 @@
         "genre": "classic soul",
         "popularity": 68,
         "ranking": 418,
+        "sentiment": {
+            "compound": 0.6652,
+            "neg": 0.03,
+            "neu": 0.895,
+            "pos": 0.075
+        },
         "track": "Green Onions'",
         "writers": "Al Jackson Jr., Booker T. Jones, Lewie Steinberg, Steve Cropper",
         "year": 1962
@@ -4604,6 +7112,12 @@
         "genre": "dance pop",
         "popularity": 73,
         "ranking": 419,
+        "sentiment": {
+            "compound": 0.9022,
+            "neg": 0.088,
+            "neu": 0.763,
+            "pos": 0.148
+        },
         "track": "Fantasy'",
         "writers": "Adrian Belew, Christopher Frantz, Dave Hall, Mariah Carey, Steven Stanley, Tina Weymouth",
         "year": 1995
@@ -4615,6 +7129,12 @@
         "genre": "brill building pop",
         "popularity": 1,
         "ranking": 420,
+        "sentiment": {
+            "compound": 0.7096,
+            "neg": 0.05,
+            "neu": 0.861,
+            "pos": 0.089
+        },
         "track": "California Dreamin' '",
         "writers": "John Phillips, Michelle Phillips",
         "year": 1965
@@ -4626,6 +7146,12 @@
         "genre": "madchester",
         "popularity": 68,
         "ranking": 421,
+        "sentiment": {
+            "compound": 0.5423,
+            "neg": 0.0,
+            "neu": 0.954,
+            "pos": 0.046
+        },
         "track": "How Soon Is Now?'",
         "writers": "Johnny Marr, Morrissey",
         "year": 1984
@@ -4637,6 +7163,12 @@
         "genre": "gangster rap",
         "popularity": 57,
         "ranking": 422,
+        "sentiment": {
+            "compound": -0.8201,
+            "neg": 0.135,
+            "neu": 0.791,
+            "pos": 0.074
+        },
         "track": "Flava in Ya Ear (Remix)'",
         "writers": "Craig Mack, Roger Nichols, Paul Williams",
         "year": 1994
@@ -4648,6 +7180,12 @@
         "genre": "art pop",
         "popularity": 61,
         "ranking": 423,
+        "sentiment": {
+            "compound": -0.5836,
+            "neg": 0.131,
+            "neu": 0.802,
+            "pos": 0.067
+        },
         "track": "Criminal'",
         "writers": "Fiona Apple",
         "year": 1996
@@ -4659,6 +7197,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 424,
+        "sentiment": {
+            "compound": 0.3612,
+            "neg": 0.06,
+            "neu": 0.852,
+            "pos": 0.087
+        },
         "track": "No Diggity'",
         "writers": "Bill Withers, Chauncey Hannibal, Edward Theodore Riley, Lynise Walters, Richard Vick, William Stewart",
         "year": 1996
@@ -4670,6 +7214,12 @@
         "genre": "blues",
         "popularity": 62,
         "ranking": 425,
+        "sentiment": {
+            "compound": 0.8591,
+            "neg": 0.0,
+            "neu": 0.879,
+            "pos": 0.121
+        },
         "track": "Mannish Boy'",
         "writers": "Ellas McDaniel, McKinley Morganfield, Melvin London",
         "year": 1955
@@ -4681,6 +7231,12 @@
         "genre": "dance pop",
         "popularity": 78,
         "ranking": 426,
+        "sentiment": {
+            "compound": 0.6712,
+            "neg": 0.026,
+            "neu": 0.894,
+            "pos": 0.081
+        },
         "track": "Super Bass'",
         "writers": "Daniel Johnson, Esther Renay Dean, Jeremy Coleman, Onika Maraj, Roahn Hylton, Ester Dean",
         "year": 2010
@@ -4692,6 +7248,12 @@
         "genre": "east coast hip hop",
         "popularity": 29,
         "ranking": 427,
+        "sentiment": {
+            "compound": 0.296,
+            "neg": 0.042,
+            "neu": 0.903,
+            "pos": 0.056
+        },
         "track": "Rapper's Delight'",
         "writers": "Bernard Edwards, Gregory Rodgers, Nile Rodgers, The Sugarhill Gang",
         "year": 1979
@@ -4703,6 +7265,12 @@
         "genre": "pop",
         "popularity": 79,
         "ranking": 428,
+        "sentiment": {
+            "compound": 0.1406,
+            "neg": 0.016,
+            "neu": 0.951,
+            "pos": 0.033
+        },
         "track": "Sign of the Times'",
         "writers": "Alex Salibian, Harry Styles, Mitch Rowland, Ryan Nasci, Tyler Johnson, Jeff Bhasker",
         "year": 2017
@@ -4714,6 +7282,12 @@
         "genre": "classic rock",
         "popularity": 29,
         "ranking": 429,
+        "sentiment": {
+            "compound": -0.8591,
+            "neg": 0.107,
+            "neu": 0.881,
+            "pos": 0.011
+        },
         "track": "Under Pressure'",
         "writers": "Brian May, David Bowie, Freddie Mercury, John Deacon, Roger Taylor",
         "year": 1981
@@ -4725,6 +7299,12 @@
         "genre": "alternative hip hop",
         "popularity": 59,
         "ranking": 430,
+        "sentiment": {
+            "compound": 0.9682,
+            "neg": 0.032,
+            "neu": 0.736,
+            "pos": 0.233
+        },
         "track": "They Reminisce Over You'",
         "writers": "Maxwell Dixon, Peter Phillips",
         "year": 1992
@@ -4736,6 +7316,12 @@
         "genre": "funk",
         "popularity": 45,
         "ranking": 431,
+        "sentiment": {
+            "compound": 0.3612,
+            "neg": 0.072,
+            "neu": 0.829,
+            "pos": 0.099
+        },
         "track": "Adore'",
         "writers": "Prince",
         "year": 1987
@@ -4747,6 +7333,12 @@
         "genre": "adult standards",
         "popularity": 62,
         "ranking": 432,
+        "sentiment": {
+            "compound": 0.9442,
+            "neg": 0.015,
+            "neu": 0.851,
+            "pos": 0.134
+        },
         "track": "Summertime Blues'",
         "writers": "Eddie Cochran, Jerry Capehart",
         "year": 1958
@@ -4758,6 +7350,12 @@
         "genre": "art pop",
         "popularity": 68,
         "ranking": 433,
+        "sentiment": {
+            "compound": -0.0129,
+            "neg": 0.036,
+            "neu": 0.94,
+            "pos": 0.024
+        },
         "track": "West End Girls'",
         "writers": "Chris Lowe, Neil Tennant",
         "year": 1984
@@ -4769,6 +7367,12 @@
         "genre": "classic rock",
         "popularity": 58,
         "ranking": 434,
+        "sentiment": {
+            "compound": 0.4939,
+            "neg": 0.022,
+            "neu": 0.903,
+            "pos": 0.075
+        },
         "track": "Sheena Is a Punk Rocker'",
         "writers": "Dee Dee Ramone, Joey Ramone, Johnny Ramone, Tommy Ramone",
         "year": 1977
@@ -4780,6 +7384,12 @@
         "genre": "album rock",
         "popularity": 63,
         "ranking": 435,
+        "sentiment": {
+            "compound": 0.2477,
+            "neg": 0.07,
+            "neu": 0.839,
+            "pos": 0.091
+        },
         "track": "Limelight'",
         "writers": "Alex Lifeson, Geddy Lee, Neil Peart",
         "year": 1981
@@ -4791,6 +7401,12 @@
         "genre": "canadian pop",
         "popularity": 69,
         "ranking": 436,
+        "sentiment": {
+            "compound": 0.4325,
+            "neg": 0.018,
+            "neu": 0.93,
+            "pos": 0.051
+        },
         "track": "Call Me Maybe'",
         "writers": "Carly Rae Jepsen, Josh Ramsay, Tavish Crowe",
         "year": 2012
@@ -4802,6 +7418,12 @@
         "genre": "alternative country",
         "popularity": 34,
         "ranking": 437,
+        "sentiment": {
+            "compound": 0.8047,
+            "neg": 0.045,
+            "neu": 0.872,
+            "pos": 0.084
+        },
         "track": "Passionate Kisses'",
         "writers": "Lucinda Williams",
         "year": 1988
@@ -4813,6 +7435,12 @@
         "genre": "houston rap",
         "popularity": 64,
         "ranking": 438,
+        "sentiment": {
+            "compound": 0.882,
+            "neg": 0.018,
+            "neu": 0.85,
+            "pos": 0.132
+        },
         "track": "Savage (Remix)'",
         "writers": "Megan Pete, Anthony White, Beyonc\u00e9 Knowles, Bobby Session Jr., Terius Nash, Brittany Starrah Hazzard, Derrick Milano, Jorden Kyle Lanier Thorpe, Shaun Carter,",
         "year": 2020
@@ -4824,6 +7452,12 @@
         "genre": "cha-cha-cha",
         "popularity": 66,
         "ranking": 439,
+        "sentiment": {
+            "compound": 0.9112,
+            "neg": 0.029,
+            "neu": 0.815,
+            "pos": 0.156
+        },
         "track": "La Vida Es un Carnaval'",
         "writers": "Victor Daniel",
         "year": 1998
@@ -4835,6 +7469,12 @@
         "genre": "hip pop",
         "popularity": 78,
         "ranking": 440,
+        "sentiment": {
+            "compound": -0.4927,
+            "neg": 0.125,
+            "neu": 0.772,
+            "pos": 0.103
+        },
         "track": "If I Ain't Got You'",
         "writers": "Alicia Keys",
         "year": 2003
@@ -4846,6 +7486,12 @@
         "genre": "contemporary country",
         "popularity": 66,
         "ranking": 441,
+        "sentiment": {
+            "compound": -0.4543,
+            "neg": 0.036,
+            "neu": 0.964,
+            "pos": 0.0
+        },
         "track": "The House That Built Me'",
         "writers": "Allen Shamblin, Tom Douglas",
         "year": 2010
@@ -4857,6 +7503,12 @@
         "genre": "album rock",
         "popularity": 72,
         "ranking": 442,
+        "sentiment": {
+            "compound": -0.2815,
+            "neg": 0.097,
+            "neu": 0.817,
+            "pos": 0.086
+        },
         "track": "Ace of Spades'",
         "writers": "Eddie Clarke, Ian Kilmister, Phil Taylor",
         "year": 1980
@@ -4868,6 +7520,12 @@
         "genre": "emo",
         "popularity": 77,
         "ranking": 443,
+        "sentiment": {
+            "compound": 0.3612,
+            "neg": 0.0,
+            "neu": 0.964,
+            "pos": 0.036
+        },
         "track": "Sugar, We\u2019re Goin Down'",
         "writers": "Andy Hurley, Joe Trohman, Patrick Stump, Pete Wentz",
         "year": 2005
@@ -4879,6 +7537,12 @@
         "genre": "east coast hip hop",
         "popularity": 70,
         "ranking": 444,
+        "sentiment": {
+            "compound": -0.5574,
+            "neg": 0.04,
+            "neu": 0.96,
+            "pos": 0.0
+        },
         "track": "In Da Club'",
         "writers": "Andre R. Young, Curtis Jackson, Mike Elizondo",
         "year": 2003
@@ -4890,6 +7554,12 @@
         "genre": "album rock",
         "popularity": 46,
         "ranking": 445,
+        "sentiment": {
+            "compound": 0.6124,
+            "neg": 0.06,
+            "neu": 0.847,
+            "pos": 0.094
+        },
         "track": "Cosmic Dancer'",
         "writers": "Marc Bolan",
         "year": 1971
@@ -4901,6 +7571,12 @@
         "genre": "classic rock",
         "popularity": 52,
         "ranking": 446,
+        "sentiment": {
+            "compound": 0.7845,
+            "neg": 0.03,
+            "neu": 0.858,
+            "pos": 0.112
+        },
         "track": "Rosalita (Come Out Tonight)'",
         "writers": "Bruce Springsteen",
         "year": 1973
@@ -4912,6 +7588,12 @@
         "genre": "beatlesque",
         "popularity": 70,
         "ranking": 447,
+        "sentiment": {
+            "compound": -0.0,
+            "neg": 0.057,
+            "neu": 0.876,
+            "pos": 0.068
+        },
         "track": "Help!'",
         "writers": "John Lennon, Paul McCartney",
         "year": 1965
@@ -4923,6 +7605,12 @@
         "genre": "afrofuturism",
         "popularity": 51,
         "ranking": 448,
+        "sentiment": {
+            "compound": 0.8591,
+            "neg": 0.038,
+            "neu": 0.852,
+            "pos": 0.11
+        },
         "track": "Tyrone'",
         "writers": "Erica Wright, Erykah Badu, Norman Hurt",
         "year": 1997
@@ -4934,6 +7622,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 449,
+        "sentiment": {
+            "compound": 0.774,
+            "neg": 0.042,
+            "neu": 0.869,
+            "pos": 0.088
+        },
         "track": "(Don\u2019t Fear) The Reaper'",
         "writers": "Donald Roeser",
         "year": 1976
@@ -4945,6 +7639,12 @@
         "genre": "album rock",
         "popularity": 47,
         "ranking": 450,
+        "sentiment": {
+            "compound": -0.7269,
+            "neg": 0.132,
+            "neu": 0.778,
+            "pos": 0.09
+        },
         "track": "Powderfinger'",
         "writers": "Neil Young",
         "year": 1979
@@ -4956,6 +7656,12 @@
         "genre": "atl hip hop",
         "popularity": 72,
         "ranking": 451,
+        "sentiment": {
+            "compound": 0.34,
+            "neg": 0.053,
+            "neu": 0.882,
+            "pos": 0.066
+        },
         "track": "Bad and Boujee'",
         "writers": "Robert Mandell, Kiari Cephus, Kirsnick Ball, Leland Wayne, Quavious Marshall, Symere Woods",
         "year": 2016
@@ -4967,6 +7673,12 @@
         "genre": "album rock",
         "popularity": 81,
         "ranking": 452,
+        "sentiment": {
+            "compound": 0.9493,
+            "neg": 0.026,
+            "neu": 0.762,
+            "pos": 0.212
+        },
         "track": "Africa'",
         "writers": "David Paich, Jeffrey Porcaro",
         "year": 1982
@@ -4978,6 +7690,12 @@
         "genre": "dance pop",
         "popularity": 58,
         "ranking": 453,
+        "sentiment": {
+            "compound": -0.4215,
+            "neg": 0.033,
+            "neu": 0.967,
+            "pos": 0.0
+        },
         "track": "The Rain (Supa Dupa Fly)'",
         "writers": "Melissa Elliott, Ann Peebles, Bernard Miller, Don Bryant, Timothy Mosley, William Hart",
         "year": 1997
@@ -4989,6 +7707,12 @@
         "genre": "dub",
         "popularity": 63,
         "ranking": 454,
+        "sentiment": {
+            "compound": 0.8956,
+            "neg": 0.021,
+            "neu": 0.832,
+            "pos": 0.147
+        },
         "track": "Bam Bam'",
         "writers": "Ophlin Russell",
         "year": 1982
@@ -5000,6 +7724,12 @@
         "genre": "acid rock",
         "popularity": 69,
         "ranking": 455,
+        "sentiment": {
+            "compound": 0.8398,
+            "neg": 0.0,
+            "neu": 0.916,
+            "pos": 0.084
+        },
         "track": "White Rabbit'",
         "writers": "Grace Slick",
         "year": 1967
@@ -5011,6 +7741,12 @@
         "genre": "art pop",
         "popularity": 73,
         "ranking": 456,
+        "sentiment": {
+            "compound": 0.8555,
+            "neg": 0.03,
+            "neu": 0.832,
+            "pos": 0.139
+        },
         "track": "Summertime Sadness'",
         "writers": "Elizabeth Grant, Rick Nowels",
         "year": 2012
@@ -5022,6 +7758,12 @@
         "genre": "glam metal",
         "popularity": 82,
         "ranking": 457,
+        "sentiment": {
+            "compound": 0.9274,
+            "neg": 0.025,
+            "neu": 0.815,
+            "pos": 0.16
+        },
         "track": "Livin' on a Prayer'",
         "writers": "Desmond Child, Jon Bon Jovi, Richie Sambora",
         "year": 1986
@@ -5033,6 +7775,12 @@
         "genre": "alternative rock",
         "popularity": 69,
         "ranking": 458,
+        "sentiment": {
+            "compound": 0.5994,
+            "neg": 0.059,
+            "neu": 0.842,
+            "pos": 0.098
+        },
         "track": "Loser'",
         "writers": "Beck Hansen, Karl F. Stephenson",
         "year": 1993
@@ -5044,6 +7792,12 @@
         "genre": "british soul",
         "popularity": 64,
         "ranking": 459,
+        "sentiment": {
+            "compound": 0.7876,
+            "neg": 0.09,
+            "neu": 0.757,
+            "pos": 0.152
+        },
         "track": "No Ordinary Love'",
         "writers": "Helen Adu, Stuart Matthewman",
         "year": 1992
@@ -5055,6 +7809,12 @@
         "genre": "dub",
         "popularity": 38,
         "ranking": 460,
+        "sentiment": {
+            "compound": -0.4767,
+            "neg": 0.066,
+            "neu": 0.908,
+            "pos": 0.025
+        },
         "track": "Ku Klux Klan'",
         "writers": "David Hinds",
         "year": 1978
@@ -5066,6 +7826,12 @@
         "genre": "adult standards",
         "popularity": 58,
         "ranking": 461,
+        "sentiment": {
+            "compound": -0.5911,
+            "neg": 0.097,
+            "neu": 0.824,
+            "pos": 0.079
+        },
         "track": "Crying'",
         "writers": "Joe Melson, Roy Orbison",
         "year": 1962
@@ -5077,6 +7843,12 @@
         "genre": "classic rock",
         "popularity": 71,
         "ranking": 462,
+        "sentiment": {
+            "compound": 0.9001,
+            "neg": 0.0,
+            "neu": 0.866,
+            "pos": 0.134
+        },
         "track": "Into the Mystic'",
         "writers": "Van Morrison",
         "year": 1970
@@ -5088,6 +7860,12 @@
         "genre": "blues",
         "popularity": 59,
         "ranking": 463,
+        "sentiment": {
+            "compound": 0.8625,
+            "neg": 0.031,
+            "neu": 0.872,
+            "pos": 0.097
+        },
         "track": "Boom Boom'",
         "writers": "John Lee Hooker",
         "year": 1962
@@ -5099,6 +7877,12 @@
         "genre": "canadian singer-songwriter",
         "popularity": 52,
         "ranking": 464,
+        "sentiment": {
+            "compound": 0.9093,
+            "neg": 0.012,
+            "neu": 0.861,
+            "pos": 0.127
+        },
         "track": "Help Me'",
         "writers": "Joni Mitchell",
         "year": 1974
@@ -5110,6 +7894,12 @@
         "genre": "electro",
         "popularity": 77,
         "ranking": 465,
+        "sentiment": {
+            "compound": 0.8979,
+            "neg": 0.0,
+            "neu": 0.861,
+            "pos": 0.139
+        },
         "track": "Get Lucky'",
         "writers": "Thomas Bangalter, Guy-Manuel de Homem-Christo, Nile Rodgers, Pharrell Williams",
         "year": 2013
@@ -5121,6 +7911,12 @@
         "genre": "funk",
         "popularity": 70,
         "ranking": 466,
+        "sentiment": {
+            "compound": 0.9095,
+            "neg": 0.0,
+            "neu": 0.87,
+            "pos": 0.13
+        },
         "track": "Never Too Much'",
         "writers": "Luther Vandross",
         "year": 1981
@@ -5132,6 +7928,12 @@
         "genre": "grunge",
         "popularity": 73,
         "ranking": 467,
+        "sentiment": {
+            "compound": -0.9183,
+            "neg": 0.148,
+            "neu": 0.83,
+            "pos": 0.021
+        },
         "track": "Come as You Are'",
         "writers": "Kurt Cobain",
         "year": 1991
@@ -5143,6 +7945,12 @@
         "genre": "alternative rock",
         "popularity": 72,
         "ranking": 468,
+        "sentiment": {
+            "compound": 0.836,
+            "neg": 0.016,
+            "neu": 0.865,
+            "pos": 0.119
+        },
         "track": "Fade Into You'",
         "writers": "David Roback, Hope Sandoval",
         "year": 1993
@@ -5154,6 +7962,12 @@
         "genre": null,
         "popularity": 6,
         "ranking": 469,
+        "sentiment": {
+            "compound": -0.875,
+            "neg": 0.172,
+            "neu": 0.73,
+            "pos": 0.097
+        },
         "track": "Goodbye Earl'",
         "writers": "Dennis Linde",
         "year": 2000
@@ -5165,6 +7979,12 @@
         "genre": "brill building pop",
         "popularity": 70,
         "ranking": 470,
+        "sentiment": {
+            "compound": -0.34,
+            "neg": 0.037,
+            "neu": 0.921,
+            "pos": 0.042
+        },
         "track": "Midnight Train to Georgia'",
         "writers": "Jim Weatherly",
         "year": 1973
@@ -5176,6 +7996,12 @@
         "genre": "album rock",
         "popularity": 69,
         "ranking": 471,
+        "sentiment": {
+            "compound": -0.6883,
+            "neg": 0.099,
+            "neu": 0.849,
+            "pos": 0.052
+        },
         "track": "The House of the Rising Sun'",
         "writers": "Alan Price",
         "year": 1964
@@ -5187,6 +8013,12 @@
         "genre": "album rock",
         "popularity": 60,
         "ranking": 472,
+        "sentiment": {
+            "compound": 0.6597,
+            "neg": 0.0,
+            "neu": 0.933,
+            "pos": 0.067
+        },
         "track": "Solsbury Hill'",
         "writers": "Peter Gabriel",
         "year": 1977
@@ -5198,6 +8030,12 @@
         "genre": "country",
         "popularity": 57,
         "ranking": 473,
+        "sentiment": {
+            "compound": 0.25,
+            "neg": 0.0,
+            "neu": 0.975,
+            "pos": 0.025
+        },
         "track": "Stand by Your Man'",
         "writers": "Billy Sherrill, Tammy Wynette",
         "year": 1968
@@ -5209,6 +8047,12 @@
         "genre": "chicago soul",
         "popularity": 68,
         "ranking": 474,
+        "sentiment": {
+            "compound": 0.8555,
+            "neg": 0.021,
+            "neu": 0.843,
+            "pos": 0.136
+        },
         "track": "Move On Up'",
         "writers": "Curtis Mayfield",
         "year": 1970
@@ -5220,6 +8064,12 @@
         "genre": "dance pop",
         "popularity": 51,
         "ranking": 475,
+        "sentiment": {
+            "compound": 0.3818,
+            "neg": 0.0,
+            "neu": 0.962,
+            "pos": 0.038
+        },
         "track": "Rhythm Nation'",
         "writers": "James Harris, Janet Jackson, Sly Stone, Terry Lewis",
         "year": 1989
@@ -5231,6 +8081,12 @@
         "genre": "country rock",
         "popularity": 47,
         "ranking": 476,
+        "sentiment": {
+            "compound": -0.5724,
+            "neg": 0.132,
+            "neu": 0.79,
+            "pos": 0.079
+        },
         "track": "Sunday Mornin' Comin' Down'",
         "writers": "Kris Kristofferson",
         "year": 1970
@@ -5242,6 +8098,12 @@
         "genre": "album rock",
         "popularity": 60,
         "ranking": 477,
+        "sentiment": {
+            "compound": 0.8519,
+            "neg": 0.0,
+            "neu": 0.878,
+            "pos": 0.122
+        },
         "track": "Our Lips Are Sealed'",
         "writers": "Jane Wiedlin, Terence Edward Hall",
         "year": 1981
@@ -5253,6 +8115,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 478,
+        "sentiment": {
+            "compound": 0.7269,
+            "neg": 0.03,
+            "neu": 0.881,
+            "pos": 0.089
+        },
         "track": "Back That Azz Up'",
         "writers": "Byron Thomas, Terius Gray",
         "year": 1998
@@ -5264,6 +8132,12 @@
         "genre": "blues rock",
         "popularity": 65,
         "ranking": 479,
+        "sentiment": {
+            "compound": 0.3919,
+            "neg": 0.0,
+            "neu": 0.949,
+            "pos": 0.051
+        },
         "track": "Oye Como Va'",
         "writers": "Tito Puente",
         "year": 1970
@@ -5275,6 +8149,12 @@
         "genre": "east coast hip hop",
         "popularity": 61,
         "ranking": 480,
+        "sentiment": {
+            "compound": 0.5574,
+            "neg": 0.06,
+            "neu": 0.849,
+            "pos": 0.091
+        },
         "track": "Just a Friend'",
         "writers": "Marcell Hall, Marley Marl",
         "year": 1989
@@ -5286,6 +8166,12 @@
         "genre": "acoustic blues",
         "popularity": 50,
         "ranking": 481,
+        "sentiment": {
+            "compound": -0.9451,
+            "neg": 0.146,
+            "neu": 0.838,
+            "pos": 0.016
+        },
         "track": "Cross Road Blues'",
         "writers": "Robert Johnson",
         "year": 1937
@@ -5297,6 +8183,12 @@
         "genre": "dance pop",
         "popularity": 80,
         "ranking": 482,
+        "sentiment": {
+            "compound": 0.3818,
+            "neg": 0.058,
+            "neu": 0.854,
+            "pos": 0.088
+        },
         "track": "Bad Romance'",
         "writers": "Stefani Germanotta, Nadir Khayat",
         "year": 2009
@@ -5308,6 +8200,12 @@
         "genre": null,
         "popularity": 0,
         "ranking": 483,
+        "sentiment": {
+            "compound": 0.9176,
+            "neg": 0.0,
+            "neu": 0.845,
+            "pos": 0.155
+        },
         "track": "I Can't Help Myself (Sugar Pie, Honey Bunch)'",
         "writers": "Brian Holland, Eddie Holland, Lamont Dozier",
         "year": 1965
@@ -5319,6 +8217,12 @@
         "genre": "alternative rock",
         "popularity": 72,
         "ranking": 484,
+        "sentiment": {
+            "compound": 0.7495,
+            "neg": 0.012,
+            "neu": 0.909,
+            "pos": 0.078
+        },
         "track": "Buddy Holly'",
         "writers": "Rivers Cuomo",
         "year": 1994
@@ -5330,6 +8234,12 @@
         "genre": "bmore",
         "popularity": 68,
         "ranking": 485,
+        "sentiment": {
+            "compound": -0.4129,
+            "neg": 0.058,
+            "neu": 0.891,
+            "pos": 0.051
+        },
         "track": "212'",
         "writers": "Azealia Banks, Jef Martens",
         "year": 2011
@@ -5341,6 +8251,12 @@
         "genre": "hip hop",
         "popularity": 69,
         "ranking": 486,
+        "sentiment": {
+            "compound": 0.8481,
+            "neg": 0.023,
+            "neu": 0.863,
+            "pos": 0.114
+        },
         "track": "A Milli'",
         "writers": "Ali Shaheed Jones-Muhammad, Dwayne Carter, Kamaal Fareed, Shondrae Crawford",
         "year": 2009
@@ -5352,6 +8268,12 @@
         "genre": "afrofuturism",
         "popularity": 63,
         "ranking": 487,
+        "sentiment": {
+            "compound": 0.6486,
+            "neg": 0.0,
+            "neu": 0.947,
+            "pos": 0.053
+        },
         "track": "Cranes in the Sky'",
         "writers": "Raphael Saadiq, Solange Knowles",
         "year": 2016
@@ -5363,6 +8285,12 @@
         "genre": "canadian contemporary r&b",
         "popularity": 67,
         "ranking": 488,
+        "sentiment": {
+            "compound": -0.81,
+            "neg": 0.076,
+            "neu": 0.924,
+            "pos": 0.0
+        },
         "track": "House of Balloons'",
         "writers": "Abel Tesfaye, Carlo Montagnese, Dom McKinney, John Martin, Peter Clarke, Steven Severin, Susan Ballion",
         "year": 2011
@@ -5374,6 +8302,12 @@
         "genre": "alternative pop",
         "popularity": 64,
         "ranking": 489,
+        "sentiment": {
+            "compound": 0.8225,
+            "neg": 0.015,
+            "neu": 0.891,
+            "pos": 0.095
+        },
         "track": "Cannonball'",
         "writers": "Kim Deal",
         "year": 1993
@@ -5385,6 +8319,12 @@
         "genre": "lgbtq+ hip hop",
         "popularity": 80,
         "ranking": 490,
+        "sentiment": {
+            "compound": 0.8176,
+            "neg": 0.025,
+            "neu": 0.858,
+            "pos": 0.117
+        },
         "track": "Old Town Road'",
         "writers": "Atticus Matthew Ross, Kiowa Roukema, Michael Trent Reznor, Montero Lamar Hill",
         "year": 2019
@@ -5396,6 +8336,12 @@
         "genre": "glam metal",
         "popularity": 71,
         "ranking": 491,
+        "sentiment": {
+            "compound": -0.2304,
+            "neg": 0.111,
+            "neu": 0.789,
+            "pos": 0.101
+        },
         "track": "Welcome to the Jungle'",
         "writers": "Duff McKagan, Jeffrey Isbell, Saul Hudson, Steven Adler, W. Axl Rose",
         "year": 1987
@@ -5407,6 +8353,12 @@
         "genre": "cool jazz",
         "popularity": 59,
         "ranking": 492,
+        "sentiment": {
+            "compound": 0.8515,
+            "neg": 0.014,
+            "neu": 0.883,
+            "pos": 0.103
+        },
         "track": "So What'",
         "writers": "Miles Davis",
         "year": 1959
@@ -5418,6 +8370,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 493,
+        "sentiment": {
+            "compound": 0.723,
+            "neg": 0.08,
+            "neu": 0.796,
+            "pos": 0.123
+        },
         "track": "Where Is My Mind?'",
         "writers": "Black Francis",
         "year": 1988
@@ -5429,6 +8387,12 @@
         "genre": "mellow gold",
         "popularity": 72,
         "ranking": 494,
+        "sentiment": {
+            "compound": -0.1813,
+            "neg": 0.112,
+            "neu": 0.773,
+            "pos": 0.115
+        },
         "track": "Time After Time'",
         "writers": "Cyndi Lauper, Rob Hyman",
         "year": 1983
@@ -5440,6 +8404,12 @@
         "genre": null,
         "popularity": null,
         "ranking": 495,
+        "sentiment": {
+            "compound": -0.5119,
+            "neg": 0.057,
+            "neu": 0.921,
+            "pos": 0.022
+        },
         "track": "You're So Vain'",
         "writers": "Carly Simon",
         "year": 1972
@@ -5451,6 +8421,12 @@
         "genre": "art rock",
         "popularity": 66,
         "ranking": 496,
+        "sentiment": {
+            "compound": 0.0258,
+            "neg": 0.025,
+            "neu": 0.938,
+            "pos": 0.037
+        },
         "track": "Without You'",
         "writers": "Peter Ham, Tom Evans",
         "year": 1971
@@ -5462,6 +8438,12 @@
         "genre": "dance pop",
         "popularity": 76,
         "ranking": 497,
+        "sentiment": {
+            "compound": 0.9001,
+            "neg": 0.0,
+            "neu": 0.894,
+            "pos": 0.106
+        },
         "track": "Truth Hurts'",
         "writers": "Eric Frederic, Amina Patrice, Bogle-Barriteau, Melissa Jefferson, Steven Cheungjesse Saint John",
         "year": 2017
@@ -5473,6 +8455,12 @@
         "genre": "alternative country",
         "popularity": 32,
         "ranking": 498,
+        "sentiment": {
+            "compound": 0.9542,
+            "neg": 0.081,
+            "neu": 0.727,
+            "pos": 0.192
+        },
         "track": "Pancho and Lefty'",
         "writers": "Townes Van Zandt",
         "year": 1972
@@ -5484,6 +8472,12 @@
         "genre": "brill building pop",
         "popularity": 66,
         "ranking": 499,
+        "sentiment": {
+            "compound": 0.7814,
+            "neg": 0.028,
+            "neu": 0.867,
+            "pos": 0.105
+        },
         "track": "Baby Love'",
         "writers": "Brian Holland, Lamont Dozier, Eddie Holland",
         "year": 1964
@@ -5495,6 +8489,12 @@
         "genre": "chicago rap",
         "popularity": 81,
         "ranking": 500,
+        "sentiment": {
+            "compound": 0.9273,
+            "neg": 0.0,
+            "neu": 0.846,
+            "pos": 0.154
+        },
         "track": "Stronger'",
         "writers": "Mike Dean, Edwin Birdsong, Guy-Manuel de Homem-Christo, Kanye West, Thomas Banghalter",
         "year": 2007
