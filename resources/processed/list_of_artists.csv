@@ -1,0 +1,371 @@
+﻿artist,black,female
+Aretha Franklin,TRUE,TRUE
+Public Enemy,TRUE,FALSE
+Sam Cooke,TRUE,FALSE
+Bob Dylan,FALSE,FALSE
+Nirvana,FALSE,FALSE
+Marvin Gaye,TRUE,FALSE
+The Beatles,FALSE,FALSE
+Missy Elliott,TRUE,TRUE
+Fleetwood Mac,FALSE,FALSE
+Outkast,TRUE,FALSE
+The Beach Boys,FALSE,FALSE
+Stevie Wonder,TRUE,FALSE
+The Rolling Stones,FALSE,FALSE
+The Kinks,FALSE,FALSE
+Beyoncé feat. Jay-Z,TRUE,TRUE
+Queen,FALSE,FALSE
+Prince and the Revolution,TRUE,FALSE
+John Lennon,FALSE,FALSE
+Robyn,FALSE,TRUE
+Billie Holiday,TRUE,TRUE
+The Ronettes,TRUE,TRUE
+David Bowie,FALSE,FALSE
+Kanye West feat. Pusha T,TRUE,FALSE
+Joni Mitchell,FALSE,TRUE
+Bruce Springsteen,FALSE,FALSE
+Talking Heads,FALSE,FALSE
+Dr. Dre feat. Snoop Doggy Dogg,TRUE,FALSE
+Lorde,FALSE,TRUE
+Notorious B.I.G.,TRUE,FALSE
+Chuck Berry,TRUE,FALSE
+James Brown,TRUE,FALSE
+Little Richard,TRUE,FALSE
+The White Stripes,FALSE,TRUE
+Otis Redding,TRUE,FALSE
+The Jimi Hendrix Experience,TRUE,FALSE
+Joy Division,FALSE,FALSE
+Bob Marley and the Wailers,TRUE,FALSE
+The Temptations,TRUE,FALSE
+Michael Jackson,FALSE,FALSE
+Kendrick Lamar,TRUE,FALSE
+M.I.A.,FALSE,TRUE
+Elton John,FALSE,FALSE
+Radiohead,FALSE,FALSE
+Lauryn Hill,TRUE,TRUE
+Daddy Yankee feat. Glory,FALSE,FALSE
+Dionne Warwick,TRUE,TRUE
+Donna Summer,TRUE,TRUE
+Smokey Robinson and the Miracles,TRUE,FALSE
+Madonna,FALSE,TRUE
+Sly and the Family Stone,TRUE,FALSE
+The Band,FALSE,FALSE
+Grandmaster Flash and the Furious Five,TRUE,FALSE
+Kate Bush,FALSE,TRUE
+Led Zeppelin,FALSE,FALSE
+U2,FALSE,FALSE
+Dolly Parton,FALSE,TRUE
+Ramones,FALSE,FALSE
+"Earth, Wind, and Fire",TRUE,FALSE
+Simon and Garfunkel,FALSE,FALSE
+Chic,TRUE,TRUE
+Taylor Swift,FALSE,TRUE
+Elvis Presley,FALSE,FALSE
+Tracy Chapman,TRUE,TRUE
+Beyoncé,TRUE,TRUE
+Leonard Cohen,FALSE,FALSE
+Pulp,FALSE,FALSE
+Johnny Cash,FALSE,FALSE
+The Modern Lovers,FALSE,FALSE
+The Four Tops,TRUE,FALSE
+Amy Winehouse,FALSE,TRUE
+Ray Charles,TRUE,FALSE
+The Velvet Underground,FALSE,FALSE
+Adele,FALSE,TRUE
+Al Green,TRUE,FALSE
+Prince,TRUE,FALSE
+LCD Soundsystem,FALSE,FALSE
+Guns N' Roses,FALSE,FALSE
+UGK feat. Outkast,TRUE,FALSE
+Kelly Clarkson,FALSE,TRUE
+Whitney Houston,TRUE,TRUE
+Oasis,FALSE,FALSE
+Jay-Z,TRUE,FALSE
+Patti Smith,FALSE,TRUE
+Bee Gees,FALSE,FALSE
+Yeah Yeah Yeahs,FALSE,FALSE
+Alanis Morissette,FALSE,TRUE
+The Jackson 5,TRUE,FALSE
+Wu-Tang Clan,TRUE,FALSE
+The Cure,FALSE,FALSE
+R.E.M.,FALSE,FALSE
+Britney Spears,FALSE,TRUE
+Etta James,TRUE,TRUE
+Rob Base and DJ E-Z Rock,TRUE,FALSE
+X-Ray Spex,FALSE,FALSE
+The Impressions,TRUE,FALSE
+Buddy Holly,FALSE,FALSE
+Sex Pistols,FALSE,FALSE
+George Michael,FALSE,FALSE
+TLC,TRUE,FALSE
+Drake feat. Majid Jordan,TRUE,FALSE
+Martha and the Vandellas,TRUE,TRUE
+Ben E. King,TRUE,FALSE
+Eric B. and Rakim,TRUE,FALSE
+Journey,FALSE,FALSE
+Tina Turner,TRUE,TRUE
+Ariana Grande,FALSE,TRUE
+Blondie,FALSE,FALSE
+Rod Stewart,FALSE,FALSE
+George Jones,FALSE,FALSE
+The Clash,FALSE,FALSE
+James Taylor,FALSE,FALSE
+Fats Domino,TRUE,FALSE
+Green Day,FALSE,FALSE
+The Shirelles,TRUE,TRUE
+Creedence Clearwater Revival,FALSE,FALSE
+Rick James,TRUE,FALSE
+Howlin’ Wolf,TRUE,FALSE
+The Strokes,FALSE,FALSE
+The Kingsmen,FALSE,FALSE
+Sonic Youth,FALSE,FALSE
+The Meters,TRUE,FALSE
+The Who,FALSE,FALSE
+Nick Drake,FALSE,FALSE
+Hank Williams,FALSE,FALSE
+Mott the Hoople,FALSE,FALSE
+Eminem,FALSE,FALSE
+Dusty Springfield,FALSE,TRUE
+Tom Petty and the Heartbreakers,FALSE,FALSE
+The Five Satins,TRUE,FALSE
+Louis Armstrong,TRUE,FALSE
+Nina Simone,TRUE,TRUE
+Television,FALSE,FALSE
+The Flamingos,TRUE,FALSE
+Van Halen,FALSE,FALSE
+Billie Eilish,FALSE,TRUE
+Pink Floyd,FALSE,FALSE
+Lou Reed,FALSE,FALSE
+The Byrds,FALSE,FALSE
+Sinéad O’Connor,FALSE,TRUE
+The Staple Singers,TRUE,FALSE
+N.W.A,TRUE,FALSE
+Bobbie Gentry,FALSE,TRUE
+Geto Boys,TRUE,FALSE
+PJ Harvey,FALSE,TRUE
+Patsy Cline,FALSE,TRUE
+Ann Peebles,TRUE,TRUE
+Aerosmith,FALSE,FALSE
+Glen Campbell,FALSE,FALSE
+Rage Against the Machine,FALSE,FALSE
+Hole,FALSE,FALSE
+Don Henley,FALSE,FALSE
+Funkadelic,TRUE,FALSE
+Boston,FALSE,FALSE
+Steely Dan,FALSE,FALSE
+Mobb Deep,TRUE,FALSE
+Stevie Nicks,FALSE,TRUE
+Wilson Pickett,TRUE,FALSE
+Tom Petty,FALSE,FALSE
+New Order,FALSE,FALSE
+Ike and Tina Turner,TRUE,TRUE
+"Crosby, Stills, and Nash",FALSE,FALSE
+Eminem feat. Dido,FALSE,FALSE
+Derek and the Dominos,FALSE,FALSE
+The Smiths,FALSE,FALSE
+Woody Guthrie,FALSE,FALSE
+Deee-Lite,FALSE,FALSE
+The Supremes,TRUE,TRUE
+Bill Withers,TRUE,FALSE
+Aaliyah,TRUE,TRUE
+Big Star,FALSE,FALSE
+Backstreet Boys,FALSE,FALSE
+Digital Underground,TRUE,FALSE
+Jerry Lee Lewis,FALSE,FALSE
+Pavement,FALSE,FALSE
+Beastie Boys,FALSE,FALSE
+Faces,FALSE,FALSE
+Joan Jett,FALSE,TRUE
+Gloria Gaynor,TRUE,TRUE
+Parliament,TRUE,FALSE
+Willie Nelson,FALSE,FALSE
+Loretta Lynn,FALSE,TRUE
+Metallica,FALSE,FALSE
+Martha Reeves and the Vandellas,TRUE,TRUE
+Gil-Scott Heron,TRUE,FALSE
+Neil Young,FALSE,FALSE
+The Wailers,TRUE,FALSE
+Curtis Mayfield,TRUE,FALSE
+Paul Simon,FALSE,FALSE
+The Replacements,FALSE,FALSE
+Augustus Pablo,TRUE,FALSE
+Drake feat. Rihanna,TRUE,FALSE
+The Isley Brothers,TRUE,FALSE
+The Righteous Brothers,FALSE,FALSE
+Nine Inch Nails,FALSE,FALSE
+Procol Harum,FALSE,FALSE
+Thin Lizzy,FALSE,FALSE
+Roberta Flack,TRUE,TRUE
+Randy Newman,FALSE,FALSE
+Buzzcocks,FALSE,FALSE
+Bo Diddley,TRUE,FALSE
+Toots and the Maytals,TRUE,FALSE
+Clipse,TRUE,FALSE
+INXS,FALSE,FALSE
+Destiny’s Child,TRUE,TRUE
+ABBA,FALSE,TRUE
+AC/DC,FALSE,FALSE
+The Funky 4 + 1,TRUE,FALSE
+Usher feat. Lil Jon and Ludacris,TRUE,FALSE
+Phil Collins,FALSE,FALSE
+A Tribe Called Quest,TRUE,FALSE
+Alice Cooper,FALSE,FALSE
+Bikini Kill,FALSE,TRUE
+Beach Boys,FALSE,FALSE
+Screamin’ Jay Hawkins,TRUE,FALSE
+The B-52's,FALSE,TRUE
+Bob Seger,FALSE,FALSE
+Kraftwerk,FALSE,FALSE
+The Police,FALSE,FALSE
+Gnarls Barkley,TRUE,FALSE
+Liz Phair,FALSE,TRUE
+The Doors,FALSE,FALSE
+The Eagles,FALSE,FALSE
+Isaac Hayes,TRUE,FALSE
+The Stooges,FALSE,FALSE
+John Coltrane,TRUE,FALSE
+The Shangri-Las,FALSE,TRUE
+Big Mama Thornton,TRUE,TRUE
+Tears for Fears,FALSE,FALSE
+2Pac,TRUE,FALSE
+Everly Brothers,FALSE,FALSE
+Billy Joel,FALSE,FALSE
+Iggy Pop,FALSE,FALSE
+Rilo Kiley,FALSE,TRUE
+Mary J. Blige,TRUE,TRUE
+Red Hot Chili Peppers,FALSE,FALSE
+Bad Bunny,FALSE,FALSE
+The Notorious B.I.G.,TRUE,FALSE
+The Marvelettes,TRUE,TRUE
+Rihanna feat. Jay-Z,TRUE,TRUE
+The Grateful Dead,FALSE,FALSE
+Marshall Jefferson,TRUE,FALSE
+Hall and Oates,FALSE,FALSE
+Cher,FALSE,TRUE
+Black Sabbath,FALSE,FALSE
+The Monkees,FALSE,FALSE
+The Doobie Brothers,FALSE,FALSE
+Carole King,FALSE,TRUE
+BTS,FALSE,FALSE
+Roxy Music,FALSE,FALSE
+The Zombies,FALSE,FALSE
+John Prine,FALSE,FALSE
+Jorge Ben,TRUE,FALSE
+Ice Cube,TRUE,FALSE
+Eurythmics,FALSE,FALSE
+Thelma Houston,TRUE,TRUE
+Cheap Trick,FALSE,FALSE
+Fugees,TRUE,FALSE
+Jimmy Cliff,TRUE,FALSE
+Kacey Musgraves,FALSE,TRUE
+The Crystals,TRUE,TRUE
+Frank Ocean,TRUE,FALSE
+Soundgarden,FALSE,FALSE
+The Cars,FALSE,FALSE
+Bonnie Raitt,FALSE,TRUE
+Drake,TRUE,FALSE
+William DeVaughn,TRUE,FALSE
+The Drifters,TRUE,FALSE
+Merle Haggard,FALSE,FALSE
+The Killers,FALSE,FALSE
+D’Angelo,TRUE,FALSE
+Fountains of Wayne,FALSE,FALSE
+The Slits,FALSE,TRUE
+Fiona Apple,FALSE,TRUE
+Childish Gambino,TRUE,FALSE
+"Cardi B, J Balvin, and Bad Bunny",TRUE,TRUE
+Diana Ross,TRUE,TRUE
+New York Dolls,FALSE,FALSE
+DMX,TRUE,FALSE
+Pretenders,FALSE,FALSE
+Eric Church,FALSE,FALSE
+Coldplay,FALSE,FALSE
+Jeff Buckley,FALSE,FALSE
+Afrika Bambaataa and the Soulsonic Force,TRUE,FALSE
+Elvis Costello,FALSE,FALSE
+Duran Duran,FALSE,FALSE
+Sylvester,TRUE,FALSE
+Rufus and Chaka Khan,FALSE,FALSE
+Kiss,FALSE,FALSE
+Selena,FALSE,TRUE
+Run-DMC,TRUE,FALSE
+Lynyrd Skynyrd,FALSE,FALSE
+Cat Stevens/Yusuf,TRUE,FALSE
+Foo Fighters,FALSE,FALSE
+Allman Brothers Band,FALSE,FALSE
+Wilco,FALSE,FALSE
+Neneh Cherry,TRUE,TRUE
+Them,FALSE,FALSE
+Depeche Mode,FALSE,FALSE
+Pearl Jam,FALSE,FALSE
+Mark Ronson feat. Bruno Mars,FALSE,FALSE
+Booker T. and the MGs,TRUE,FALSE
+Mariah Carey,FALSE,TRUE
+The Mamas and the Papas,FALSE,TRUE
+"Craig Mack feat. Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage",TRUE,FALSE
+Blackstreet feat. Dr. Dre and Queen Pen,TRUE,FALSE
+Muddy Waters,TRUE,FALSE
+Nicki Minaj,TRUE,TRUE
+Sugar Hill Gang,TRUE,FALSE
+Harry Styles,FALSE,FALSE
+Queen and David Bowie,FALSE,FALSE
+Pete Rock and CL Smooth,TRUE,FALSE
+Eddie Cochran,FALSE,FALSE
+Pet Shop Boys,FALSE,FALSE
+Rush,FALSE,FALSE
+Carly Rae Jepsen,FALSE,TRUE
+Lucinda Williams,FALSE,TRUE
+Megan Thee Stallion feat. Beyoncé,TRUE,TRUE
+Celia Cruz,TRUE,TRUE
+Alicia Keys,TRUE,TRUE
+Miranda Lambert,FALSE,TRUE
+Motörhead,FALSE,FALSE
+Fall Out Boy,FALSE,FALSE
+50 Cent,TRUE,FALSE
+T. Rex,FALSE,FALSE
+Erykah Badu,TRUE,TRUE
+Blue Öyster Cult,FALSE,FALSE
+Migos feat. Lil Uzi Vert,TRUE,FALSE
+Toto,FALSE,FALSE
+Missy Elliot,TRUE,TRUE
+Sister Nancy,TRUE,TRUE
+Jefferson Airplane,FALSE,FALSE
+Lana Del Rey,FALSE,TRUE
+Bon Jovi,FALSE,FALSE
+Beck,FALSE,FALSE
+Sade,TRUE,TRUE
+Steel Pulse,TRUE,FALSE
+Roy Orbison,FALSE,FALSE
+Van Morrison,FALSE,FALSE
+John Lee Hooker,TRUE,FALSE
+Daft Punk feat. Pharrell Williams,FALSE,FALSE
+Luther Vandross,TRUE,FALSE
+Mazzy Star,FALSE,TRUE
+Dixie Chicks,FALSE,TRUE
+Gladys Knight and the Pips,TRUE,TRUE
+The Animals,FALSE,FALSE
+Peter Gabriel,FALSE,FALSE
+Tammy Wynette,FALSE,TRUE
+Janet Jackson,TRUE,TRUE
+Kris Kristofferson,FALSE,FALSE
+The Go-Gos,FALSE,TRUE
+Juvenile feat. Lil Wayne and Mannie Fresh,TRUE,FALSE
+Santana,FALSE,FALSE
+Biz Markie,TRUE,FALSE
+Robert Johnson,TRUE,FALSE
+Lady Gaga,FALSE,TRUE
+Weezer,FALSE,FALSE
+Azealia Banks,TRUE,TRUE
+Lil Wayne,TRUE,FALSE
+Solange,TRUE,TRUE
+The Weeknd,TRUE,FALSE
+The Breeders,FALSE,TRUE
+Lil Nas X,TRUE,FALSE
+Miles Davis,TRUE,FALSE
+The Pixies,FALSE,FALSE
+Cyndi Lauper,FALSE,TRUE
+Carly Simon,FALSE,TRUE
+Harry Nilsson,FALSE,FALSE
+Lizzo,TRUE,TRUE
+Townes Van Zandt,FALSE,FALSE
+Kanye West,TRUE,FALSE

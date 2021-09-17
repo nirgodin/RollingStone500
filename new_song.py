@@ -28,7 +28,7 @@ class NewSong:
         return self._sp.get_popularity()
 
     def get_genre(self):
-        return self._sp.get_genre()
+        return self._sp.get_genres()
 
     def set_spotify(self):
         self._sp = Spotify(artist=self.artist, track=self.track)
@@ -74,10 +74,13 @@ class NewSongs:
 
     @staticmethod
     def _get_spotify_features(song: NewSong) -> NewSong:
-        song.set_spotify()
-        song.genre = song.get_genre()
-        song.popularity = song.get_populartiy()
-        song.duration = song.get_duration()
+        try:
+            song.set_spotify()
+            song.genre = song.get_genre()
+            song.popularity = song.get_populartiy()
+            song.duration = song.get_duration()
+        except (IndexError, AttributeError, TypeError) as e:
+            return song
 
         return song
 
