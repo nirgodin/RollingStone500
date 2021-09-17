@@ -78,9 +78,3 @@ class TextParser:
     def _read_text(path: str) -> List[str]:
         with open(path, encoding='utf8') as f:
             return f.readlines()
-
-
-parser = TextParser('old_list.txt')
-text = parser._drop_newlines()
-text = parser._drop_apple_music()
-text = parser._drop_bullets()

@@ -1821,9 +1821,9 @@
     "108": {
         "artist": "The Cure",
         "description": "Robert Smith wrote the Cure\u2019s 1987 single \u201cJust Like Heaven\u201d after a romantic getaway to Beachy Head in East Sussex, England, with his future wife, Mary Poole. \u201cThe song is about hyperventilating \u2014 kissing and fainting to the floor,\u201d Smith said in 2003. \u201cMary dances with me in the video because she was the girl, so it had to be her. The idea is that one night like that is worth 1,000 hours of drudgery.\u201d Millions of people connected to that sentiment, and \u201cJust Like Heaven\u201d became the Cure\u2019s first Top 40 hit in America.",
-        "duration": null,
-        "genre": null,
-        "popularity": null,
+        "duration": 212000,
+        "genre": "new wave",
+        "popularity": 65,
         "ranking": 108,
         "sentiment": {
             "compound": 0.9393,
