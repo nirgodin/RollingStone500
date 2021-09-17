@@ -1,3 +1,4 @@
+from functools import lru_cache
 from typing import Union, List
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
@@ -14,10 +15,15 @@ ITEMS = 'items'
 URI = 'uri'
 
 
+@lru_cache(maxsize=1)
+def get_spotipy():
+    return spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
+
+
 class Spotify:
 
     def __init__(self, artist: str, track: str):
-        self.sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
+        self.sp = get_spotipy()
         self._track = self._get_track(artist, track)
         self._artist = self._get_artist()
 

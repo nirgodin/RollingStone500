@@ -1,6 +1,5 @@
 import json
-from new_song import NewSongs
-from old_song import OldSongs
+from songs import Songs
 from text_parser import TextParser
 
 OLD_PATH = 'resources/raw/old_list.txt'
@@ -9,7 +8,7 @@ NEW_PATH = 'resources/raw/rolling_stone_text.txt'
 
 # Create new songs objects and modify to json
 old_text = TextParser(OLD_PATH).parse_old_text()
-old_songs = OldSongs()
+old_songs = Songs(song_type='old')
 old_rs = old_songs.get_songs(old_text)
 old_data = old_songs.get_json()
 
@@ -19,7 +18,7 @@ with open('resources/processed/old_data.txt', 'w', encoding='utf8') as outfile:
 
 # Create new songs objects and modify to json
 new_text = TextParser(NEW_PATH).parse_new_text()
-new_songs = NewSongs()
+new_songs = Songs(song_type='new')
 new_rs = new_songs.get_songs(new_text)
 new_data = new_songs.get_json()
 

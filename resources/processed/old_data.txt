@@ -8822,7 +8822,7 @@
             "psychedelic rock",
             "rock"
         ],
-        "popularity": 0,
+        "popularity": 59,
         "producer": "Producer: Paul Rothchild",
         "ranking": 336,
         "released": "Released: March '67, Elektra",
