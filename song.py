@@ -4,7 +4,7 @@ from spotify import Spotify
 
 
 @dataclass(unsafe_hash=True)
-class Song:
+class BaseSong:
 
     artist: str = None
     track: str = None
@@ -32,7 +32,7 @@ class Song:
 
 
 @dataclass
-class OldSong(Song):
+class OldSong(BaseSong):
     ranking: int = None
     writers: str = None
     producer: str = None
@@ -49,7 +49,7 @@ class OldSong(Song):
 
 
 @dataclass
-class NewSong(Song):
+class NewSong(BaseSong):
     ranking: int = None
     year: int = None
     writers: str = None

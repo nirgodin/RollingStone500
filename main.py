@@ -6,15 +6,15 @@ OLD_PATH = 'resources/raw/old_list.txt'
 NEW_PATH = 'resources/raw/rolling_stone_text.txt'
 
 
-# Create new songs objects and modify to json
-old_text = TextParser(OLD_PATH).parse_old_text()
-old_songs = Songs(song_type='old')
-old_rs = old_songs.get_songs(old_text)
-old_data = old_songs.get_json()
-
-# Export data
-with open('resources/processed/old_data.txt', 'w', encoding='utf8') as outfile:
-    json.dump(old_data, outfile, indent=4, sort_keys=True)
+# # Create old songs objects and modify to json
+# old_text = TextParser(OLD_PATH).parse_old_text()
+# old_songs = Songs(song_type='old')
+# old_rs = old_songs.get_songs(old_text)
+# old_data = old_songs.get_json()
+#
+# # Export data
+# with open('resources/processed/old_data.txt', 'w', encoding='utf8') as outfile:
+#     json.dump(old_data, outfile, indent=4, sort_keys=True)
 
 # Create new songs objects and modify to json
 new_text = TextParser(NEW_PATH).parse_new_text()

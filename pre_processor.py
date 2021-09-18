@@ -6,6 +6,33 @@ import pandas as pd
 from pandas import DataFrame
 
 
+main_genres = [
+    'rock',
+    'pop',
+    'hip',
+    'soul',
+    'blues',
+    'funk',
+    'jazz',
+    'reggae',
+    'folk',
+    'singer-songwriter'
+]
+
+genres_dict = {
+    'punk': 'rock',
+    'rock-and-roll': 'rock',
+    'k-pop': 'pop',
+    'rap': 'hip',
+    'r&b': 'soul',
+    'mexican': 'world',
+    'cha-cha-cha': 'world',
+    'bossa': 'world',
+    'latin': 'world',
+    'country': 'folk'
+}
+
+
 class PreProcessor:
 
     def __init__(self, rolling_stone_path: str, artists_info_path: str):
@@ -22,12 +49,23 @@ class PreProcessor:
                                     how='left',
                                     on='artist')
 
+    def _get_main_genre(self, genres: List[str]):
+        for genre in self.yield_genre(genres):
+            if genre in main_genres:
+                return genre
+            elif genre in genres_dict:
+                return genres_dict[genre]
+            else:
+                pass
+
+        return 'other'
+
     @staticmethod
-    def _get_main_genre(genres: List[str]):
+    def yield_genre(genres: List[str]):
         if genres and genres != []:
             genre_concat = ' '.join(genres)
             genre_tokens = genre_concat.split(' ')
-            return Counter(genre_tokens).most_common(1)[0][0]
+            return (genre[0] for genre in Counter(genre_tokens).most_common())
 
         return ''
 
@@ -46,26 +84,10 @@ class PreProcessor:
         with open(path, encoding='utf8') as f:
             return json.loads(f.read())
 
-#
-# processor = PreProcessor('new_data.txt', 'list_of_artists.csv')
-# processor.add_artists_info()
-# processor.add_single_genre()
-# data = processor.df_data
-# genres_dict = {'grunge': 'rock',
-#                'rap': 'hip hop',
-#                'punk': 'rock',
-#                'rock-and-roll': 'rock',
-#                'beatlesque': 'rock',
-#                'europop': 'pop',
-#                'electropop': 'pop',
-#                'synthpop': 'pop',
-#                'k-pop': 'pop',
-#                'mexican': 'world',
-#                'cha-cha-cha': 'world',
-#                'bossa': 'world',
-#                'latin': 'world',
-#                'house': 'electro'}
-# data['single_genre'] = [genres_dict[g] if g in genres_dict.keys() else g
-#                         for g in data['single_genre']]
-# # a = pd.DataFrame(data['single_genre'].unique())[0].tolist()
-# data.to_csv(r'new_df_data.csv', index=False)
+
+processor = PreProcessor('resources/processed/new_data.txt', 'resources/processed/list_of_artists.csv')
+processor._add_artists_info()
+processor.add_single_genre()
+data = processor.data
+da = data[data['single_genre'] == 'other']
+data.to_csv(r'resources/processed/new_df_data.csv', index=False)

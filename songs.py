@@ -1,5 +1,6 @@
 from dataclasses import dataclass
 from typing import List, Union, Dict
+from spotipy import SpotifyException
 from song import OldSong, NewSong
 
 
@@ -8,7 +9,7 @@ class Songs:
     songs: List[Union[OldSong, NewSong]] = None
 
     def __init__(self, song_type: str):
-        assert song_type in ['old', 'new'], 'song type must be of the following kinds: ["old", "new"]'
+        assert song_type in ['old', 'new'], 'song type must be one of the following kinds: ["old", "new"]'
         self.song_type = song_type
 
     def get_json(self) -> Dict[str, dict]:
@@ -17,7 +18,10 @@ class Songs:
         return {i: d for i, d in zip(rankings, songs)}
 
     def get_songs(self, text: List[str]) -> List[Union[OldSong, NewSong]]:
-        self.songs = [self._get_single_song(text, index) for index in range(0, len(text), 9)]
+        if self.song_type == 'old':
+            self.songs = [self._get_single_song(text, index) for index in range(0, len(text), 9)]
+        else:
+            self.songs = [self._get_single_song(text, index) for index in range(0, len(text), 6)]
         return self.songs
 
     def _get_single_song(self, text: List[str], starting_index: int) -> Union[OldSong, NewSong]:
@@ -67,7 +71,7 @@ class Songs:
             song.genre = song.get_genre()
             song.popularity = song.get_populartiy()
             song.duration = song.get_duration()
-        except (IndexError, AttributeError, TypeError) as e:
+        except (IndexError, AttributeError, TypeError, SpotifyException) as e:
             return song
 
         return song
