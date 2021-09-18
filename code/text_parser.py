@@ -1,5 +1,6 @@
 import re
 from typing import List
+from code.consts import IRRELEVANT_ROWS, IRRELEVANT_STRINGS_REGEX
 
 
 class TextParser:
@@ -8,21 +9,18 @@ class TextParser:
         self.text: List[str] = self._read_text(path)
 
     def parse_old_text(self) -> List[str]:
-        self._drop_newlines()
-        self._drop_apple_music()
-        self._drop_bullets()
+        self._drop_irrelevant_rows()
         self._split_song_from_artist()
-        self._drop_writers()
+        self._drop_irrelevant_strings()
         self._drop_backslash_from_name()
         self._organize_list()
 
         return self.text
 
     def parse_new_text(self) -> List[str]:
-        self._drop_newlines()
-        self._drop_apple_music()
+        self._drop_irrelevant_rows()
         self._split_song_from_artist()
-        self._drop_writers()
+        self._drop_irrelevant_strings()
         self._drop_backslash_from_name()
 
         return self.text
@@ -35,7 +33,7 @@ class TextParser:
             else:
                 self.text[i-2] += self.text[i-1]
                 self.text.pop(i-1)
-                i += 9
+                i = 0
                 return self._organize_list()
 
     def _drop_backslash_from_name(self):
@@ -55,23 +53,13 @@ class TextParser:
         self.text = formatted_text
         return self.text
 
-    def _drop_bullets(self) -> List[str]:
-        self.text = [e for e in self.text if not e.__contains__('•')]
-        return self.text
-
-    def _drop_apple_music(self) -> List[str]:
+    def _drop_irrelevant_rows(self) -> List[str]:
         self.text = [e for e in self.text
-                     if e not in {'Powered byApple Music', 'Play the Full Song', 'RELATED:'}]
+                     if e not in IRRELEVANT_ROWS and not e.__contains__('•')]
         return self.text
 
-    def _drop_writers(self) -> List[str]:
-        self.text = [re.sub("WRITER\(S\):", "", line) for line in self.text]
-        return self.text
-
-    def _drop_newlines(self) -> List[str]:
-        self.text = [e for e in self.text if e != '\n']
-        self.text = [re.sub("\n", "", line) for line in self.text]
-
+    def _drop_irrelevant_strings(self) -> List[str]:
+        self.text = [re.sub(IRRELEVANT_STRINGS_REGEX, "", line) for line in self.text]
         return self.text
 
     @staticmethod

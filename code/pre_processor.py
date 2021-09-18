@@ -36,12 +36,12 @@ genres_dict = {
 class PreProcessor:
 
     def __init__(self, rolling_stone_path: str, artists_info_path: str):
-        self.data = self._to_dataframe(self._read_data(rolling_stone_path))
+        self.data = self._to_dataframe(self._read_json_data(rolling_stone_path))
         self.artists_info = pd.read_csv(artists_info_path)
 
-    def add_single_genre(self):
-        self.data['single_genre'] = self.data['genre'].apply(lambda g: self._get_main_genre(g))
-        self.data['single_genre'] = [re.sub('hip', 'hip hop', g) for g in self.data['single_genre']]
+    def _add_main_genre(self):
+        self.data['main_genre'] = self.data['genres'].apply(lambda g: self._get_main_genre(g))
+        self.data['main_genre'] = [re.sub('hip', 'hip hop', g) for g in self.data['main_genre']]
         return self.data
 
     def _add_artists_info(self):
@@ -50,7 +50,7 @@ class PreProcessor:
                                     on='artist')
 
     def _get_main_genre(self, genres: List[str]):
-        for genre in self.yield_genre(genres):
+        for genre in self._yield_most_common_genre(genres):
             if genre in main_genres:
                 return genre
             elif genre in genres_dict:
@@ -61,7 +61,7 @@ class PreProcessor:
         return 'other'
 
     @staticmethod
-    def yield_genre(genres: List[str]):
+    def _yield_most_common_genre(genres: List[str]):
         if genres and genres != []:
             genre_concat = ' '.join(genres)
             genre_tokens = genre_concat.split(' ')
@@ -80,14 +80,7 @@ class PreProcessor:
         return pd.DataFrame.from_dict(data=d, orient='index').transpose()
 
     @staticmethod
-    def _read_data(path: str) -> dict:
+    def _read_json_data(path: str) -> dict:
         with open(path, encoding='utf8') as f:
             return json.loads(f.read())
 
-
-processor = PreProcessor('resources/processed/new_data.txt', 'resources/processed/list_of_artists.csv')
-processor._add_artists_info()
-processor.add_single_genre()
-data = processor.data
-da = data[data['single_genre'] == 'other']
-data.to_csv(r'resources/processed/new_df_data.csv', index=False)

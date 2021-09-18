@@ -18,7 +18,7 @@ class BaseSong:
     def get_populartiy(self):
         return self._sp.get_popularity()
 
-    def get_genre(self):
+    def get_genres(self):
         return self._sp.get_genres()
 
     def set_spotify(self):
