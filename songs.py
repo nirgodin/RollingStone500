@@ -50,6 +50,8 @@ class Songs:
         song.charts = text[starting_index + 6]
         song.description = text[starting_index + 7]
         song.album = text[starting_index + 8]
+        song.year = song.get_year_from_released()
+        song.records_company = song.get_records_company_from_released()
 
         return song
 
@@ -68,7 +70,7 @@ class Songs:
     def _get_spotify_features(song: Union[OldSong, NewSong]) -> Union[OldSong, NewSong]:
         try:
             song.set_spotify()
-            song.genre = song.get_genres()
+            song.genres = song.get_genres()
             song.popularity = song.get_populartiy()
             song.duration = song.get_duration()
         except (IndexError, AttributeError, TypeError, SpotifyException) as e:

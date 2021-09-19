@@ -5,6 +5,7 @@ from typing import Generator, List
 import pandas as pd
 from pandas import DataFrame
 
+ARTISTS_INFO_PATH = 'resources/raw/artists_info.csv'
 
 main_genres = [
     'rock',
@@ -35,9 +36,19 @@ genres_dict = {
 
 class PreProcessor:
 
-    def __init__(self, rolling_stone_path: str, artists_info_path: str):
-        self.data = self._to_dataframe(self._read_json_data(rolling_stone_path))
-        self.artists_info = pd.read_csv(artists_info_path)
+    def __init__(self, json_data_path: str, data_type: str):
+        self.data = self._to_dataframe(self._read_json_data(json_data_path))
+        self.data_type = data_type
+
+    def pre_process(self):
+        self._add_artists_info()
+        self._add_main_genre()
+        self._add_data_type()
+
+        return self.data
+
+    def _add_data_type(self):
+        self.data['data_type'] = self.data_type
 
     def _add_main_genre(self):
         self.data['main_genre'] = self.data['genres'].apply(lambda g: self._get_main_genre(g))
@@ -45,7 +56,8 @@ class PreProcessor:
         return self.data
 
     def _add_artists_info(self):
-        self.data = self.data.merge(right=self.artists_info,
+        artists_info = pd.read_csv(ARTISTS_INFO_PATH)
+        self.data = self.data.merge(right=artists_info,
                                     how='left',
                                     on='artist')
 

@@ -1,4 +1,6 @@
 from dataclasses import dataclass, asdict
+from typing import Union
+
 from nltk.sentiment import SentimentIntensityAnalyzer
 from spotify import Spotify
 
@@ -39,13 +41,34 @@ class OldSong(BaseSong):
     released: str = None
     charts: str = None
     album: str = None
-    genre: str = None
+    genres: str = None
     popularity: str = None
     duration: str = None
     sentiment: dict = None
+    year: int = None
+    records_company: str = None
 
     def __init__(self):
         super(OldSong).__init__()
+
+    def get_records_company_from_released(self) -> Union[int, None]:
+        try:
+            year, records_company = self.released.split(', ')
+            return records_company
+
+        except ValueError:
+            pass
+
+    def get_year_from_released(self) -> Union[int, None]:
+        try:
+            year, records_company = self.released.split(', ')
+            if year[-2] == '0':
+                return int('20' + year[-2:])
+            elif year[-2].isdigit():
+                return int('19' + year[-2:])
+
+        except ValueError:
+            pass
 
 
 @dataclass
@@ -53,7 +76,7 @@ class NewSong(BaseSong):
     ranking: int = None
     year: int = None
     writers: str = None
-    genre: str = None
+    genres: str = None
     popularity: str = None
     duration: str = None
     sentiment: dict = None

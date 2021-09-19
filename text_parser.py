@@ -1,27 +1,42 @@
 import re
 from typing import List
-from code.consts import IRRELEVANT_ROWS, IRRELEVANT_STRINGS_REGEX
+
+IRRELEVANT_STRINGS = {
+    '\n',
+    '\\',
+    'Producer:',
+    'Producerspyt:'
+    'Released:',
+    'WRITER(S):',
+    'Writer:',
+    'Writers:',
+    'Appears on:'
+}
+IRRELEVANT_STRINGS_REGEX = re.compile('|'.join(map(re.escape, IRRELEVANT_STRINGS)))
+
+IRRELEVANT_ROWS = {
+    'Powered byApple Music',
+    'Play the Full Song',
+    'RELATED:',
+    '"',
+    '',
+    '\n'
+}
 
 
 class TextParser:
 
-    def __init__(self, path: str):
+    def __init__(self, path: str, text_type: str):
         self.text: List[str] = self._read_text(path)
+        self.text_type = text_type
 
-    def parse_old_text(self) -> List[str]:
+    def parse_text(self) -> List[str]:
+        self._drop_irrelevant_strings()
         self._drop_irrelevant_rows()
         self._split_song_from_artist()
-        self._drop_irrelevant_strings()
         self._drop_backslash_from_name()
-        self._organize_list()
-
-        return self.text
-
-    def parse_new_text(self) -> List[str]:
-        self._drop_irrelevant_rows()
-        self._split_song_from_artist()
-        self._drop_irrelevant_strings()
-        self._drop_backslash_from_name()
+        if self.text_type == 'old':
+            self._organize_list()
 
         return self.text
 
@@ -33,7 +48,6 @@ class TextParser:
             else:
                 self.text[i-2] += self.text[i-1]
                 self.text.pop(i-1)
-                i = 0
                 return self._organize_list()
 
     def _drop_backslash_from_name(self):
@@ -54,8 +68,8 @@ class TextParser:
         return self.text
 
     def _drop_irrelevant_rows(self) -> List[str]:
-        self.text = [e for e in self.text
-                     if e not in IRRELEVANT_ROWS and not e.__contains__('•')]
+        self.text = [e for e in self.text if e not in IRRELEVANT_ROWS]
+        self.text = [e for e in self.text if not e.__contains__('•')]
         return self.text
 
     def _drop_irrelevant_strings(self) -> List[str]:

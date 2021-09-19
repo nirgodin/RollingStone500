@@ -1,36 +1,47 @@
 import json
-from code.pre_processor import PreProcessor
-from code.songs import Songs
-from code.text_parser import TextParser
 
-OLD_PATH = 'resources/raw/2004_rolling_stone_list.txt'
-NEW_PATH = 'resources/raw/2021_rolling_stone_list.txt'
+import pandas as pd
+
+from pre_processor import PreProcessor
+from songs import Songs
+from text_parser import TextParser
+
+IMPORT_PATHS = [
+    'resources/raw/2004_rolling_stone_list.txt',
+    'resources/raw/2021_rolling_stone_list.txt'
+]
+
+DATA_TYPES = [
+    'old',
+    'new'
+]
+
+EXPORT_PATHS = [
+    'resources/processed/old_data.txt',
+    'resources/processed/new_data.txt'
+]
+
+dataframes = []
+for import_path, data_type, export_path in zip(IMPORT_PATHS, DATA_TYPES, EXPORT_PATHS):
+
+    # Parse text
+    text = TextParser(import_path, data_type).parse_text()
+
+    # Extract songs information from text
+    songs = Songs(song_type=data_type)
+    songs.get_songs(text)
+
+    # Pass data to json format and export
+    json_data = songs.get_json()
+    with open(export_path, 'w', encoding='utf8') as outfile:
+        json.dump(json_data, outfile, indent=4, sort_keys=True)
+
+    # Pre process json data to pandas dataframe
+    pandas_data = PreProcessor(export_path, data_type).pre_process()
+    dataframes.append(pandas_data)
 
 
-# Create old songs objects and modify to json
-old_text = TextParser(OLD_PATH).parse_old_text()
-old_songs = Songs(song_type='old')
-old_rs = old_songs.get_songs(old_text)
-old_data = old_songs.get_json()
-
-# Export data
-with open('resources/processed/old_data.txt', 'w', encoding='utf8') as outfile:
-    json.dump(old_data, outfile, indent=4, sort_keys=True)
-
-# Create new songs objects and modify to json
-new_text = TextParser(NEW_PATH).parse_new_text()
-new_songs = Songs(song_type='new')
-new_rs = new_songs.get_songs(new_text)
-new_data = new_songs.get_json()
-
-# Export data
-with open('resources/processed/new_data.txt', 'w', encoding='utf8') as outfile:
-    json.dump(new_data, outfile, indent=4, sort_keys=True)
-
-
-processor = PreProcessor('resources/processed/new_data.txt', 'resources/raw/artists_info.csv')
-processor._add_artists_info()
-processor._add_main_genre()
-data = processor.data
-da = data[data['single_genre'] == 'other']
-data.to_csv(r'resources/processed/new_df_data.csv', index=False)
+# Concatenate two data objects results to one final dataframe and export
+data = pd.concat(dataframes,
+                 join='outer')
+data.to_csv(r'data.csv', index=False)
