@@ -1,7 +1,8 @@
 import json
 import re
 from collections import Counter
-from typing import Generator, List
+from difflib import SequenceMatcher
+from typing import Generator, List, Dict, Tuple
 import pandas as pd
 from pandas import DataFrame
 
@@ -72,6 +73,25 @@ class PreProcessor:
 
         return 'other'
 
+    def get_artists_number_of_songs(self, artists: List[str]) -> Dict[str, int]:
+        counter = {}
+        for new_artist in artists:
+            does_artist_exist, counted_artist = self._does_artist_exist(new_artist, counter)
+            if does_artist_exist:
+                counter[counted_artist] += 1
+            else:
+                counter[new_artist] = 1
+
+        return counter
+
+    @staticmethod
+    def _does_artist_exist(new_artist: str, counter: Dict[str, int]) -> Tuple[bool, str]:
+        for counted_artist in counter.keys():
+            if SequenceMatcher(None, new_artist, counted_artist).ratio() > 0.7:
+                return True, counted_artist
+
+        return False, ''
+        
     @staticmethod
     def _yield_most_common_genre(genres: List[str]):
         if genres and genres != []:

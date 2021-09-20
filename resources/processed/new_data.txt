@@ -104,6 +104,7 @@
         "description": "Producer Butch Vig first heard \u201cSmells Like Teen Spirit\u201d in early 1991, on a boombox cassette recorded by bassist Krist Novoselic, drummer Dave Grohl, and singer-guitarist-songwriter Kurt Cobain in a barn in Tacoma, Washington. The fidelity was abysmal. Vig \u2014 about to work with Nirvana on their major-label debut, Nevermind \u2014 could not tell that the song would soon make underground Seattle rock the new mainstream and catapult Cobain, a troubled young man with strict indie-culture ethics, into mega-celebrity. \u201cI could sort of hear the \u2018Hello, hello\u2019 part and the chords,\u201d Vig said years later. \u201cBut it was so indecipherable that I had no idea what to expect.\u201d \u201cTeen Spirit\u201d was Cobain\u2019s attempt to \u201cwrite the ultimate pop song,\u201d he said, using the soft-loud dynamic of his favorite band, the Pixies. The insidious hooks also showed his admiration for John Lennon. Cobain \u201chad that dichotomy of punk rage and alienation,\u201d Vig said, \u201cbut also this vulnerable pop sensibility. In \u2018Teen Spirit,\u2019 a lot of that vulnerability is in the tone of his voice.\u201d Sadly, by the time of Nirvana\u2019s last U.S. tour, in late 1993, Cobain was tortured by the obligation to play \u201cTeen Spirit\u201d every night. \u201cThere are many other songs that I have written that are as good, if not better,\u201d he claimed. But few songs by any artist have reshaped rock and roll so immediately, and permanently.",
         "duration": 301920,
         "genres": [
+            "alternative rock",
             "grunge",
             "permanent wave",
             "rock"
@@ -439,8 +440,7 @@
             "classic rock",
             "folk rock",
             "mellow gold",
-            "rock",
-            "soft rock"
+            "rock"
         ],
         "popularity": 76,
         "ranking": 19,
@@ -583,7 +583,7 @@
             "chicago rap",
             "rap"
         ],
-        "popularity": 75,
+        "popularity": 74,
         "ranking": 25,
         "sentiment": {
             "compound": 0.976,
@@ -1309,7 +1309,6 @@
         "genres": [
             "classic rock",
             "classic soul",
-            "disco",
             "folk rock",
             "funk",
             "funk rock",
@@ -2204,7 +2203,6 @@
         "genres": [
             "east coast hip hop",
             "hip hop",
-            "pop rap",
             "rap"
         ],
         "popularity": 64,
@@ -2504,7 +2502,6 @@
         "genres": [
             "classic rock",
             "classic soul",
-            "disco",
             "folk rock",
             "funk",
             "funk rock",
@@ -3050,7 +3047,6 @@
             "alternative hip hop",
             "bboy",
             "east coast hip hop",
-            "electro",
             "gangster rap",
             "golden age hip hop",
             "hardcore hip hop",
@@ -3249,6 +3245,7 @@
         "genres": [
             "classic rock",
             "mellow gold",
+            "rock",
             "soft rock"
         ],
         "popularity": 71,
@@ -3355,6 +3352,7 @@
         "description": "Writing \u201cFire and Rain\u201d was like a therapy session for Taylor. \u201cIt\u2019s like three samplings of what I went through,\u201d he recalled. The first verse was written in his London apartment, after learning about the suicide of his friend Suzanne Schnerr. The second verse is about his drug addiction, while the final verse refers to his stay in a Massachusetts psychiatric facility. \u201cThat song relieved a lot of tension,\u201d he said. \u201cThere were things that I needed to get rid of.\u201d In a key decision, drummer Russ Kunkel switched from sticks to brushes, helping further set the sensitive mood.",
         "duration": 203613,
         "genres": [
+            "adult standards",
             "classic rock",
             "folk",
             "folk rock",
@@ -3731,7 +3729,6 @@
             "british folk",
             "folk",
             "folk rock",
-            "freak folk",
             "melancholia",
             "rock",
             "singer-songwriter"
@@ -4010,7 +4007,7 @@
             "punk",
             "punk blues"
         ],
-        "popularity": 56,
+        "popularity": 55,
         "ranking": 173,
         "sentiment": {
             "compound": 0.5994,
@@ -4769,10 +4766,12 @@
             "adult standards",
             "arkansas country",
             "brill building pop",
+            "bubblegum pop",
             "classic country pop",
             "classic uk pop",
             "folk",
             "folk rock",
+            "lounge",
             "mellow gold",
             "nashville sound",
             "soft rock"
@@ -4823,7 +4822,6 @@
         "genres": [
             "alternative rock",
             "grunge",
-            "lilith",
             "pop rock",
             "rock"
         ],
@@ -5347,7 +5345,6 @@
             "american folk revival",
             "appalachian folk",
             "folk",
-            "old-time",
             "protest folk",
             "singer-songwriter",
             "traditional blues",
@@ -5545,7 +5542,6 @@
         "description": "No country singer could write an alone-and-forsaken lament like Williams. He recorded \u201cYour Cheatin\u2019 Heart\u201d at his final session, on September 23rd, 1952. He told a friend, \u201cIt\u2019s the best heart song I ever wrote.\u201d But Williams didn\u2019t live to hear it become one of the greatest country standards of all time. A few weeks before it was released, he died in the back seat of his car, on New Years Day 1953, during an all-night drive from one gig to the next. He was only 29, but you can hear a lonesome lifetime in \u201cYour Cheatin\u2019 Heart.\u201d",
         "duration": 161640,
         "genres": [
-            "folk",
             "honky tonk",
             "rock-and-roll",
             "rockabilly",
@@ -6665,6 +6661,7 @@
             "new romantic",
             "new wave",
             "new wave pop",
+            "pop rock",
             "rock",
             "soft rock"
         ],
@@ -6693,7 +6690,7 @@
             "soul blues",
             "vocal jazz"
         ],
-        "popularity": 61,
+        "popularity": 60,
         "ranking": 283,
         "sentiment": {
             "compound": 0.4404,
@@ -7293,7 +7290,7 @@
             "permanent wave",
             "pop rock"
         ],
-        "popularity": 34,
+        "popularity": 35,
         "ranking": 308,
         "sentiment": {
             "compound": -0.1027,
@@ -7354,7 +7351,7 @@
         "description": "\u201cHotel California\u201d was rumored to be about heroin addiction or Satan worship, but Don Henley had more prosaic things on his mind: \u201cWe were all middle-class kids from the Midwest,\u201d he said. \u201c\u2018Hotel California\u2019 was our interpretation of the high life in Los Angeles.\u201d Working in Miami, the Eagles were initially unable to re-create guitarist and co-writer Don Felder\u2019s 12-string intro and elaborate twin-guitar coda. Panicked, Felder called his housekeeper in L.A. and sent her digging through a pile of tapes in his home studio so she could play his demo back over the phone.",
         "duration": 636933,
         "genres": [],
-        "popularity": 11,
+        "popularity": 12,
         "ranking": 311,
         "sentiment": {
             "compound": -0.251,
@@ -7627,7 +7624,7 @@
             "roots rock",
             "singer-songwriter"
         ],
-        "popularity": 51,
+        "popularity": 52,
         "ranking": 322,
         "sentiment": {
             "compound": 0.8555,
@@ -8116,6 +8113,7 @@
         "duration": 223866,
         "genres": [
             "album rock",
+            "art rock",
             "blues rock",
             "classic rock",
             "country rock",
@@ -8240,7 +8238,6 @@
             "album rock",
             "art rock",
             "classic rock",
-            "classic uk pop",
             "glam rock",
             "melancholia",
             "mellow gold",
@@ -8269,6 +8266,7 @@
         "duration": 214026,
         "genres": [
             "baroque pop",
+            "brill building pop",
             "british invasion",
             "bubblegum pop",
             "classic rock",
@@ -8769,6 +8767,7 @@
         "genres": [
             "adult standards",
             "brill building pop",
+            "bubblegum pop",
             "folk rock",
             "rock-and-roll",
             "rockabilly"
@@ -9018,12 +9017,12 @@
         "description": "Inspired by the first flash of U.K. punk but uninterested in any of its clich\u00e9s, London\u2019s the Slits laid out their feminist vision on \u201cTypical Girls,\u201d a salvo against received gender tropes that caroms between peppy pop, punk, reggae, and even a bit of boogie-woogie jazz; \u201cI used to say to the girls, \u2018Sing in the same register of voice that you would use if you were shouting across a playground at school to someone,\u2019\u201d recalled guitarist Viv Albertine, whose boyfriend at the time, Mick Jones of the Clash, urged her to make the song more straightforward. Thankfully, the Slits didn\u2019t listen.",
         "duration": 235653,
         "genres": [
+            "alternative rock",
             "experimental",
             "no wave",
             "post-punk",
             "punk",
-            "riot grrrl",
-            "uk post-punk"
+            "riot grrrl"
         ],
         "popularity": 42,
         "ranking": 381,
@@ -9156,6 +9155,7 @@
             "glam punk",
             "glam rock",
             "post-punk",
+            "power pop",
             "protopunk",
             "pub rock",
             "punk",
@@ -9781,7 +9781,7 @@
             "rock-and-roll",
             "roots rock"
         ],
-        "popularity": 61,
+        "popularity": 62,
         "ranking": 413,
         "sentiment": {
             "compound": -0.5704,
@@ -9944,7 +9944,7 @@
             "rock",
             "sunshine pop"
         ],
-        "popularity": 1,
+        "popularity": 2,
         "ranking": 420,
         "sentiment": {
             "compound": 0.7096,
@@ -10789,7 +10789,7 @@
             "art pop",
             "pop"
         ],
-        "popularity": 74,
+        "popularity": 73,
         "ranking": 456,
         "sentiment": {
             "compound": 0.8555,
@@ -10895,6 +10895,7 @@
         "genres": [
             "adult standards",
             "brill building pop",
+            "bubblegum pop",
             "mellow gold",
             "rock-and-roll",
             "rockabilly"
@@ -11040,6 +11041,7 @@
         "description": "\u201cIt\u2019s just about people and what they\u2019re expected to act like,\u201d Kurt Cobain said. \u201cThe lines in the song are really contradictory. They\u2019re kind of a rebuttal to each other.\u201d The song is driven by a simple riff that Butch Vig goosed with a flanged, subaquatic guitar effect. Cobain apparently lifted it from a 1984 song by U.K. art-metal band Killing Joke, who Dave Grohl paid back 12 years later by drumming on their 2003 album. In the wake of Cobain\u2019s suicide, though, the most haunting lyric would become, \u201cAnd I swear that I don\u2019t have a gun.\u201d",
         "duration": 218920,
         "genres": [
+            "alternative rock",
             "grunge",
             "permanent wave",
             "rock"
@@ -11282,6 +11284,7 @@
             "new wave",
             "new wave pop",
             "permanent wave",
+            "pop rock",
             "power pop",
             "rock",
             "soft rock",
@@ -11557,6 +11560,7 @@
             "dream pop",
             "indie rock",
             "lilith",
+            "lo-fi",
             "post-punk",
             "rock"
         ],

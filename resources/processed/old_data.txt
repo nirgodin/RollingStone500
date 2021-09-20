@@ -70,8 +70,7 @@
             "classic rock",
             "folk rock",
             "mellow gold",
-            "rock",
-            "soft rock"
+            "rock"
         ],
         "popularity": 76,
         "producer": "Producers: Lennon, Phil Spector, Yoko Ono",
@@ -239,6 +238,7 @@
         "description": "20 weeks; No. 6Producer Butch Vig first heard \"Smells Like Teen Spirit\" in early 1991, on a boombox cassette recorded by bassist Krist Novoselic, drummer Dave Grohl and singer-guitarist-songwriter Kurt Cobain in a barn in Tacoma, Washington. The fidelity was abysmal. Vig \u2014 about to work with Nirvana on their major-label debut, Nevermind \u2014 could not tell that the song would soon make underground Seattle rock the new mainstream and catapult Cobain, a troubled young man with strict indie-culture ethics, into megacelebrity. \"I could sort of hear the 'Hello, hello' part and the chords,\" Vig said years later. \"But it was so indecipherable that I had no idea what to expect.\"Nor did anyone else. A shock wave of big-amp purity, \"Teen Spirit\" wiped the lingering jive of the Eighties off the pop map overnight. \"The song was a call to consciousness,\" Novoselic said in 2000 \u2014 Cobain's avenging grenade against the corporate invasion of youth culture, spiked with the demanding venom of the sneering chorus: \"Here we are now/Entertain us.\" The phrase was something Cobain used to say at parties \u2014 \"to break the ice,\" he said. \"That could have been him watching TV,\" said Novoselic, \"aghast at popular culture.\"\"Teen Spirit,\" named after a brand of deodorant for girls, was Cobain's attempt to \"write the ultimate pop song,\" he said, using the soft-loud dynamic of his favorite band, the Pixies. The insidious hooks also showed his admiration for John Lennon. Cobain \"had that dichotomy of punk rage and alienation,\" Vig said, \"but also this vulnerable pop sensibility. In 'Teen Spirit,' a lot of that vulnerability is in the tone of his voice.\"Sadly, by the time of Nirvana's last U.S. tour, in late '93, Cobain was tortured by the obligation to play \"Teen Spirit\" every night. \"There are many other songs that I have written that are as good, if not better,\" he claimed. He finally stopped playing \"Teen Spirit\" for good \u2014 taking his own life on April 5th, 1994.",
         "duration": 301920,
         "genres": [
+            "alternative rock",
             "grunge",
             "permanent wave",
             "rock"
@@ -1072,9 +1072,31 @@
     },
     "39": {
         "album": "100 Greatest Singers of All Time: Buddy Holly",
+        "artist": "Buddy Holly and the Crickets",
+        "charts": "1 week; No. 1",
+        "description": "Recorded in Clovis, New Mexico, in February 1957, the song took its title from a recurring line in the John Wayne movie The Searchers. \"We were cutting 'That'll Be the Day' just as a demo to send to New York, just to see if they liked the sound of the group \u2014 not for a master record,\" recalled Crickets drummer Allison. \"So we just went in and set up and sort of shucked through the song.\" Allison credits Holly's guitar-picking on \"That'll Be the Day\" to the influence of New Orleans bluesman Lonnie Johnson. Greatest Hits (MCA) 100 Greatest Artists of All Time: Buddy Holly",
+        "duration": null,
+        "genres": null,
+        "popularity": null,
+        "producer": " Petty",
+        "ranking": 39,
+        "records_company": "Brunswick",
+        "released": "Released: May '57, Brunswick",
+        "sentiment": {
+            "compound": 0.9217,
+            "neg": 0.013,
+            "neu": 0.863,
+            "pos": 0.123
+        },
+        "track": "That'll Be the Day'",
+        "writers": " Jerry Allison, Holly, Norman Petty",
+        "year": 1957
+    },
+    "40": {
+        "album": " The Ultimate Collection (Motown)",
         "artist": "Martha Reeves and the Vandellas",
-        "charts": "Gordy Stevenson, who gave Martha Reeves her first job, as his secretary, approached the group with this song after it was turned down by Motown labelmate (and future Mrs. Stevenson) Kim Weston. The trio agreed to record \"Dancing in the Street\" as a demo with its songwriters singing background. \"When Martha got into the song,\" Stevenson said, \"that was the end of the conversation!\" Against a backbeat that cracks like a gunshot, Reeves reinvents the world as a giant block party.",
-        "description": " The Ultimate Collection (Motown)39Buddy Holly and the CricketsThat'll Be the Day' Jerry Allison, Holly, Norman Petty PettyReleased: May '57, Brunswick1 week; No. 1Recorded in Clovis, New Mexico, in February 1957, the song took its title from a recurring line in the John Wayne movie The Searchers. \"We were cutting 'That'll Be the Day' just as a demo to send to New York, just to see if they liked the sound of the group \u2014 not for a master record,\" recalled Crickets drummer Allison. \"So we just went in and set up and sort of shucked through the song.\" Allison credits Holly's guitar-picking on \"That'll Be the Day\" to the influence of New Orleans bluesman Lonnie Johnson. Greatest Hits (MCA) 100 Greatest Artists of All Time: Buddy Holly",
+        "charts": "14 weeks; No. 2",
+        "description": "Gordy Stevenson, who gave Martha Reeves her first job, as his secretary, approached the group with this song after it was turned down by Motown labelmate (and future Mrs. Stevenson) Kim Weston. The trio agreed to record \"Dancing in the Street\" as a demo with its songwriters singing background. \"When Martha got into the song,\" Stevenson said, \"that was the end of the conversation!\" Against a backbeat that cracks like a gunshot, Reeves reinvents the world as a giant block party.",
         "duration": 165226,
         "genres": [
             "brill building pop",
@@ -1088,21 +1110,21 @@
             "soul"
         ],
         "popularity": 67,
-        "producer": " Stevenson Released: Sept. '64",
+        "producer": " Stevenson",
         "ranking": 40,
         "records_company": null,
-        "released": "14 weeks; No. 2",
+        "released": "Released: Sept. '64",
         "sentiment": {
-            "compound": 0.8807,
-            "neg": 0.041,
-            "neu": 0.858,
-            "pos": 0.101
+            "compound": 0.5707,
+            "neg": 0.035,
+            "neu": 0.874,
+            "pos": 0.091
         },
         "track": "Dancing in the Street'",
         "writers": " Marvin Gaye, Ivy Hunter, William \"Mickey\" Stevenson",
         "year": null
     },
-    "40": {
+    "41": {
         "album": " Music From Big Pink (Capitol)",
         "artist": "The Band",
         "charts": "7 weeks; No. 63",
@@ -1140,7 +1162,7 @@
         "writers": " Robbie Robertson",
         "year": 1968
     },
-    "41": {
+    "42": {
         "album": " Something Else by the Kinks (Warner Bros.)",
         "artist": "The Kinks",
         "charts": "Did not chart",
@@ -1173,7 +1195,7 @@
         "writers": " Ray Davies",
         "year": 1968
     },
-    "42": {
+    "43": {
         "album": " The Georgia Peach (Specialty)",
         "artist": "Little Richard",
         "charts": "12 weeks; No. 17",
@@ -1201,7 +1223,7 @@
         "writers": " Dorothy La Bostrie, Richard Penniman, Joe Lubin",
         "year": 1955
     },
-    "43": {
+    "44": {
         "album": " ",
         "artist": "Ray Charles",
         "charts": "13 weeks; No. 1 ",
@@ -1216,7 +1238,7 @@
             "soul blues",
             "vocal jazz"
         ],
-        "popularity": 61,
+        "popularity": 60,
         "producer": " Sid Feller",
         "ranking": 44,
         "records_company": "ABC-Paramount",
@@ -1231,7 +1253,7 @@
         "writers": " Hoagy Carmichael, Stuart Gorrell",
         "year": 1960
     },
-    "44": {
+    "45": {
         "album": " Elvis 30 #1 Hits (RCA) ",
         "artist": "Elvis Presley",
         "charts": "27 weeks; No. 1 ",
@@ -1256,7 +1278,7 @@
         "writers": " Mae Boren Axton, Tommy Durden, Presley",
         "year": 1956
     },
-    "45": {
+    "46": {
         "album": " Heroes (Virgin) ",
         "artist": "David Bowie",
         "charts": "Did not chart",
@@ -1284,7 +1306,7 @@
         "writers": " Bowie, Brian Eno",
         "year": 1977
     },
-    "46": {
+    "47": {
         "album": "500 Greatest Albums of All Time: Electric Ladyland",
         "artist": "The Jimi Hendrix Experience",
         "charts": "9 weeks; No. 20 ",
@@ -1306,7 +1328,7 @@
         "writers": " Bob Dylan",
         "year": 1968
     },
-    "47": {
+    "48": {
         "album": " Bridge Over Troubled Water (Columbia/Legacy) ",
         "artist": "Simon and Garfunkel",
         "charts": "14 weeks; No. 1 ",
@@ -1335,14 +1357,14 @@
         "writers": " Paul Simon",
         "year": 1970
     },
-    "48": {
+    "49": {
         "album": " Hotel California (Elektra) ",
         "artist": "The Eagles",
         "charts": "19 weeks; No. 1",
         "description": "\"Hotel California\" was rumored to be about heroin addiction or Satan worship, but Henley had more prosaic things on his mind: \"We were all middle-class kids from the Midwest,\" he said. \"'Hotel California' was our interpretation of the high life in Los Angeles.\" (That doesn't preclude heroin or Satan, of course.) Recording the six-and-a-half-minute song posed its share of problems: Working in Miami, the Eagles were initially unable to re-create Felder's 12-string intro and elaborate twin-guitar coda. Panicked, Felder called his housekeeper in L.A. and sent her digging through a pile of tapes in his home studio so she could play his demo back over the phone.",
         "duration": 636933,
         "genres": [],
-        "popularity": 11,
+        "popularity": 12,
         "producer": " Bill Szymczyk",
         "ranking": 49,
         "records_company": "Asylum",
@@ -1357,7 +1379,7 @@
         "writers": " Don Felder, Glenn Frey, Don Henley",
         "year": 1976
     },
-    "49": {
+    "50": {
         "album": "Smokey Robinson Photos",
         "artist": "Smokey Robinson and the Miracles",
         "charts": "12 weeks; No. 16 ",
@@ -1388,7 +1410,7 @@
         "writers": " Pete Moore, Robinson, Marv Tamplin",
         "year": 1965
     },
-    "50": {
+    "51": {
         "album": " The Best of Sugar Hill Records (Rhino)",
         "artist": "Grandmaster Flash and the Furious Five",
         "charts": "7 weeks; No. 62 ",
@@ -1414,7 +1436,7 @@
         "writers": " Duke Bootee, Melle Mel",
         "year": 1982
     },
-    "51": {
+    "52": {
         "album": " Purple Rain (Warner Bros.) ",
         "artist": "Prince",
         "charts": "21 weeks; No. 1 ",
@@ -1441,7 +1463,7 @@
         "writers": " Prince",
         "year": 1984
     },
-    "52": {
+    "53": {
         "album": " It Tears Me Up: The Best of Percy Sledge (Rhino)",
         "artist": "Percy Sledge",
         "charts": "13 weeks; No. 1 ",
@@ -1468,7 +1490,7 @@
         "writers": " Calvin Lewis, Andrew Wright",
         "year": 1966
     },
-    "53": {
+    "54": {
         "album": " The Best of the Kingsmen (Rhino) ",
         "artist": "The Kingsmen",
         "charts": "16 weeks; No. 2 ",
@@ -1492,7 +1514,7 @@
         "writers": " Richard Berry",
         "year": 1963
     },
-    "54": {
+    "55": {
         "album": " The Georgia Peach (Specialty)",
         "artist": "Little Richard",
         "charts": "19 weeks; No. 6 ",
@@ -1520,7 +1542,7 @@
         "writers": " Robert \"Bumps\" Blackwell, Enotris Johnson, Little Richard",
         "year": 1956
     },
-    "55": {
+    "56": {
         "album": " Never Mind the Bollocks, Here's the Sex Pistols (Warner Bros.) ",
         "artist": "The Sex Pistols",
         "charts": "Non-single",
@@ -1542,7 +1564,7 @@
         "writers": " Paul Cook, Steve Jones, Glen Matlock, Johnny Rotten",
         "year": 1977
     },
-    "56": {
+    "57": {
         "album": " Greatest Hits (A&M)",
         "artist": "Procol Harum",
         "charts": "12 weeks; No. 5",
@@ -1575,7 +1597,7 @@
         "writers": " Keith Reid, Gary Brooker",
         "year": 1967
     },
-    "57": {
+    "58": {
         "album": " Thriller (Sony)",
         "artist": "Michael Jackson",
         "charts": "7 weeks; No. 1",
@@ -1601,7 +1623,7 @@
         "writers": " Jackson",
         "year": 1983
     },
-    "58": {
+    "59": {
         "album": " The Times They Are A-Changin' (Columbia)",
         "artist": "Bob Dylan",
         "charts": "Did not chart ",
@@ -1633,7 +1655,7 @@
         "writers": " Dylan",
         "year": 1964
     },
-    "59": {
+    "60": {
         "album": " Let's Stay Together (The Right Stuff)",
         "artist": "Al Green",
         "charts": "16 weeks; No. 1",
@@ -1663,7 +1685,7 @@
         "writers": " Al Green, Al Jackson Jr., Willie Mitchell",
         "year": 1971
     },
-    "60": {
+    "61": {
         "album": " Original Sun Greatest Hits (Rhino) ",
         "artist": "Jerry Lee Lewis",
         "charts": "29 weeks; No. 3",
@@ -1691,7 +1713,7 @@
         "writers": " Dave Williams, Roy Hall",
         "year": 1957
     },
-    "61": {
+    "62": {
         "album": " His Best: The Chess 50th Anniversary Collection (Chess) ",
         "artist": "Bo Diddley",
         "charts": "Did not chart",
@@ -1725,7 +1747,7 @@
         "writers": " Ellas McDaniel",
         "year": 1955
     },
-    "62": {
+    "63": {
         "album": " Buffalo Springfield (Elektra) ",
         "artist": "Buffalo Springfield",
         "charts": "15 weeks, No. 7",
@@ -1758,7 +1780,7 @@
         "writers": " Stephen Stills",
         "year": 1967
     },
-    "63": {
+    "64": {
         "album": " The Beatles 1 (Capitol/Apple) ",
         "artist": "The Beatles",
         "charts": "15 weeks; No. 1",
@@ -1787,7 +1809,7 @@
         "writers": " John Lennon, Paul McCartney ",
         "year": 1963
     },
-    "64": {
+    "65": {
         "album": " Disraeli Gears (Polydor) ",
         "artist": "Cream",
         "charts": "26 weeks; No. 5 ",
@@ -1820,7 +1842,7 @@
         "writers": " Jack Bruce, Pete Brown, Eric Clapton",
         "year": 1968
     },
-    "65": {
+    "66": {
         "album": " Uprising (Island) ",
         "artist": "Bob Marley and the Wailers",
         "charts": "Did not chart",
@@ -1845,7 +1867,7 @@
         "writers": " Marley",
         "year": 1980
     },
-    "66": {
+    "67": {
         "album": " Elvis 30 #1 Hits (RCA) ",
         "artist": "Elvis Presley",
         "charts": "27 weeks, No. 1",
@@ -1870,7 +1892,7 @@
         "writers": " Jerry Leiber, Mike Stoller",
         "year": 1957
     },
-    "67": {
+    "68": {
         "album": " Blood on the Tracks (Columbia) ",
         "artist": "Bob Dylan",
         "charts": "7 weeks, No. 31",
@@ -1902,7 +1924,7 @@
         "writers": " Dylan",
         "year": 1975
     },
-    "68": {
+    "69": {
         "album": " For the Lonely: 18 Greatest Hits (Rhino)",
         "artist": "Roy Orbison",
         "charts": "16 weeks; No. 2",
@@ -1911,6 +1933,7 @@
         "genres": [
             "adult standards",
             "brill building pop",
+            "bubblegum pop",
             "mellow gold",
             "rock-and-roll",
             "rockabilly"
@@ -1930,7 +1953,7 @@
         "writers": " Joe Melson, Orbison",
         "year": 1961
     },
-    "69": {
+    "70": {
         "album": " The Dionne Warwick Collection: Her All-Time Greatest Hits ",
         "artist": "Dionne Warwick",
         "charts": "13 weeks, No. 6",
@@ -1962,7 +1985,7 @@
         "writers": " Burt Bacharach, Hal David",
         "year": 1964
     },
-    "70": {
+    "71": {
         "album": " 50th Anniversary Collection (UTV/Polydor) ",
         "artist": "James Brown",
         "charts": "13 weeks; No. 8",
@@ -1988,7 +2011,7 @@
         "writers": " Brown",
         "year": 1966
     },
-    "71": {
+    "72": {
         "album": " Sounds of Summer: The Very Best of the Beach Boys (Capitol)",
         "artist": "The Beach Boys",
         "charts": "11 weeks; No. 3",
@@ -2017,7 +2040,7 @@
         "writers": " Brian Wilson, Mike Love",
         "year": 1965
     },
-    "72": {
+    "73": {
         "album": " Talking Book (Motown)",
         "artist": "Stevie Wonder",
         "charts": "16 weeks; No. 1",
@@ -2045,7 +2068,7 @@
         "writers": " Wonder",
         "year": 1972
     },
-    "73": {
+    "74": {
         "album": " Somethin' Else (Razor and Tie) ",
         "artist": "Eddie Cochran",
         "charts": "16 weeks; No. 8",
@@ -2072,7 +2095,7 @@
         "writers": " Cochran, Jerry Capehart",
         "year": 1958
     },
-    "74": {
+    "75": {
         "album": " Led Zeppelin II (Atlantic) ",
         "artist": "Led Zeppelin",
         "charts": "15 weeks; No. 4",
@@ -2099,7 +2122,7 @@
         "writers": " Willie Dixon, Led Zeppelin",
         "year": 1969
     },
-    "75": {
+    "76": {
         "album": " Magical Mystery Tour (Capitol)  ",
         "artist": "The Beatles",
         "charts": "9 weeks; No. 8",
@@ -2128,7 +2151,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1967
     },
-    "76": {
+    "77": {
         "album": " Sunrise (RCA) ",
         "artist": "Elvis Presley",
         "charts": "Did not chart",
@@ -2153,7 +2176,7 @@
         "writers": " Junior Parker, Sam Phillips",
         "year": 1955
     },
-    "77": {
+    "78": {
         "album": " James Brown 50th Anniversary Collection (UTV/Polydor) ",
         "artist": "James Brown",
         "charts": "12 weeks; No. 3",
@@ -2178,7 +2201,7 @@
         "writers": " Brown",
         "year": 1965
     },
-    "78": {
+    "79": {
         "album": " Mr. Tambourine Man (Columbia/Legacy)",
         "artist": "The Byrds",
         "charts": "13 weeks; No. 1",
@@ -2216,7 +2239,7 @@
         "writers": " Bob Dylan",
         "year": 1965
     },
-    "79": {
+    "80": {
         "album": " Kinks (Castle) ",
         "artist": "The Kinks",
         "charts": "15 weeks; No. 7",
@@ -2249,7 +2272,7 @@
         "writers": " Ray Davies",
         "year": 1964
     },
-    "80": {
+    "81": {
         "album": " Every Motown Hit (Motown) ",
         "artist": "Marvin Gaye",
         "charts": "15 weeks; No. 1",
@@ -2279,7 +2302,7 @@
         "writers": " Barrett Strong, Norman Whitfield",
         "year": 1968
     },
-    "81": {
+    "82": {
         "album": " The Fats Domino Jukebox (Capitol) ",
         "artist": "Fats Domino",
         "charts": "27 weeks; No. 2",
@@ -2311,7 +2334,7 @@
         "writers": " Al Lewis, Larry Stock, Vincent Rose",
         "year": 1956
     },
-    "82": {
+    "83": {
         "album": " Rubber Soul (Capitol)",
         "artist": "The Beatles",
         "charts": "Non-single",
@@ -2340,7 +2363,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1965
     },
-    "83": {
+    "84": {
         "album": " Synchronicity (Interscope) ",
         "artist": "The Police",
         "charts": "22 weeks; No 1",
@@ -2371,7 +2394,7 @@
         "writers": " Sting",
         "year": 1983
     },
-    "84": {
+    "85": {
         "album": " Patsy Cline's Greatest Hits (MCA) ",
         "artist": "Patsy Cline",
         "charts": "11 weeks; No. 9",
@@ -2397,7 +2420,7 @@
         "writers": " Willie Nelson",
         "year": 1961
     },
-    "85": {
+    "86": {
         "album": " Born to Run (Columbia) ",
         "artist": "Bruce Springsteen",
         "charts": "Non-single",
@@ -2426,7 +2449,7 @@
         "writers": " Springsteen",
         "year": 1975
     },
-    "86": {
+    "87": {
         "album": " The Man in Black: His Greatest Hits (Columbia) ",
         "artist": "Johnny Cash",
         "charts": "13 weeks; No. 17",
@@ -2451,7 +2474,7 @@
         "writers": " June Carter, Merle Kilgore",
         "year": 1963
     },
-    "87": {
+    "88": {
         "album": " The Temptations Sing Smokey (Motown) ",
         "artist": "The Temptations",
         "charts": "13 weeks; No. 1",
@@ -2479,7 +2502,7 @@
         "writers": " Smokey Robinson, Ronald White",
         "year": 1965
     },
-    "88": {
+    "89": {
         "album": " If You Can Believe Your Eyes and Ears (MCA) ",
         "artist": "The Mamas and the Papas",
         "charts": "17 weeks; No. 4",
@@ -2510,7 +2533,7 @@
         "writers": " John and Michelle Phillips",
         "year": 1965
     },
-    "89": {
+    "90": {
         "album": " The Five Satins: Their Greatest Hits (Collectables) ",
         "artist": "The Five Satins",
         "charts": "19 weeks; No. 24",
@@ -2537,7 +2560,7 @@
         "writers": " Fred Parris",
         "year": 1956
     },
-    "90": {
+    "91": {
         "album": " Elvis 30 #1 Hits (RCA) ",
         "artist": "Elvis Presley",
         "charts": "15 weeks; No. 1",
@@ -2562,7 +2585,7 @@
         "writers": " Mark James",
         "year": 1969
     },
-    "91": {
+    "92": {
         "album": "The Ramones Photos",
         "artist": "Ramones",
         "charts": "Did not chart",
@@ -2591,7 +2614,7 @@
         "writers": " The Ramones",
         "year": 1976
     },
-    "92": {
+    "93": {
         "album": " The Joshua Tree (Island) ",
         "artist": "U2",
         "charts": "17 weeks; No. 1",
@@ -2617,7 +2640,7 @@
         "writers": " Bono",
         "year": 1987
     },
-    "93": {
+    "94": {
         "album": " The Georgia Peach (Specialty)",
         "artist": "Little Richard",
         "charts": "15 weeks; No. 10",
@@ -2645,7 +2668,7 @@
         "writers": " Robert \"Bumps\" Blackwell, John Marascalco",
         "year": 1958
     },
-    "94": {
+    "95": {
         "album": " Original Sun Greatest Hits (Rhino) ",
         "artist": "Carl Perkins",
         "charts": "21 weeks; No. 2",
@@ -2670,7 +2693,7 @@
         "writers": " Perkins",
         "year": 1956
     },
-    "95": {
+    "96": {
         "album": " Original Sun Greatest Hits (Rhino) ",
         "artist": "Jerry Lee Lewis",
         "charts": "21 weeks; No. 2",
@@ -2698,7 +2721,7 @@
         "writers": " Otis Blackwell, Jack Hammer",
         "year": 1957
     },
-    "96": {
+    "97": {
         "album": " The Anthology (Chess) ",
         "artist": "Chuck Berry",
         "charts": "5 weeks; No. 29",
@@ -2726,7 +2749,7 @@
         "writers": " Berry",
         "year": 1956
     },
-    "97": {
+    "98": {
         "album": " I'm Still in Love With You (Capitol) ",
         "artist": "Al Green",
         "charts": "12 weeks; No. 3",
@@ -2756,7 +2779,7 @@
         "writers": " Green, Mabon \"Teenie\" Hodges",
         "year": 1972
     },
-    "98": {
+    "99": {
         "album": " Willy and the Poor Boys (Fantasy) ",
         "artist": "Creedence Clearwater Revival",
         "charts": "14 weeks; No. 14",
@@ -2784,7 +2807,7 @@
         "writers": " John Fogerty",
         "year": 1969
     },
-    "99": {
+    "100": {
         "album": " St. Elsewhere (Downtown)",
         "artist": "Gnarls Barkley",
         "charts": "24 weeks; No. 2",
@@ -2809,7 +2832,7 @@
         "writers": " Brian Burton, Thomas Calloway, Gianfranco Reverberi, Gian Piero Reverberi",
         "year": 2006
     },
-    "100": {
+    "101": {
         "album": " Let It Bleed (ABKCO)",
         "artist": "The Rolling Stones",
         "charts": "8 weeks; No. 42",
@@ -2835,7 +2858,7 @@
         "writers": " Mick Jagger, Keith Richards",
         "year": 1969
     },
-    "101": {
+    "102": {
         "album": " Electric Ladyland (MCA) ",
         "artist": "The Jimi Hendrix Experience",
         "charts": "Non-single",
@@ -2857,7 +2880,7 @@
         "writers": " Jimi Hendrix",
         "year": 1968
     },
-    "102": {
+    "103": {
         "album": " The Screaming End: The Best of Gene Vincent and His Blue Caps (Razor and Tie) ",
         "artist": "Gene Vincent and His Blue Caps",
         "charts": "20 weeks; No. 7",
@@ -2882,7 +2905,7 @@
         "writers": " Vincent, Bill Davis",
         "year": 1956
     },
-    "103": {
+    "104": {
         "album": " Bad Girls (Mercury/Chronicles) ",
         "artist": "Donna Summer",
         "charts": "21 weeks; No. 1",
@@ -2910,7 +2933,7 @@
         "writers": " Pete Bellotte, Harold Faltermeyer, Keith Forsey",
         "year": 1979
     },
-    "104": {
+    "105": {
         "album": " Innervisions (Motown) ",
         "artist": "Stevie Wonder",
         "charts": "17 weeks; No. 8",
@@ -2938,7 +2961,7 @@
         "writers": " Wonder",
         "year": 1973
     },
-    "105": {
+    "106": {
         "album": " Bridge Over Troubled Water (Columbia)",
         "artist": "Simon and Garfunkel",
         "charts": "10 weeks; No. 7",
@@ -2967,7 +2990,7 @@
         "writers": " Paul Simon",
         "year": 1969
     },
-    "106": {
+    "107": {
         "album": " Bringing it All Back Home (Columbia) ",
         "artist": "Bob Dylan",
         "charts": "Non-single",
@@ -2999,7 +3022,7 @@
         "writers": " Dylan",
         "year": 1965
     },
-    "107": {
+    "108": {
         "album": " Greatest Hits (MCA) ",
         "artist": "Buddy Holly and the Crickets",
         "charts": "20 weeks; No. 10",
@@ -3027,7 +3050,7 @@
         "writers": " Holly, Norman Petty",
         "year": 1957
     },
-    "108": {
+    "109": {
         "album": " 1999 (Warner Bros.) ",
         "artist": "Prince",
         "charts": "22 weeks; No. 6",
@@ -3054,7 +3077,7 @@
         "writers": " Prince",
         "year": 1983
     },
-    "109": {
+    "110": {
         "album": " Blowin' Your Mind (Sony) ",
         "artist": "Van Morrison",
         "charts": "16 weeks; No. 10",
@@ -3085,7 +3108,7 @@
         "writers": " Morrison",
         "year": 1967
     },
-    "110": {
+    "111": {
         "album": " Otis Blue: Otis Redding Sings Soul (Atco) ",
         "artist": "Otis Redding",
         "charts": "11 weeks; No. 21",
@@ -3107,7 +3130,7 @@
         "writers": " Jerry Butler, Redding",
         "year": 1965
     },
-    "111": {
+    "112": {
         "album": " The Ultimate Collection (Universal) ",
         "artist": "Hank Williams",
         "charts": "Did not chart",
@@ -3129,7 +3152,7 @@
         "writers": " Williams",
         "year": 1949
     },
-    "112": {
+    "113": {
         "album": " Sunrise (RCA) ",
         "artist": "Elvis Presley",
         "charts": "Did not chart",
@@ -3154,7 +3177,7 @@
         "writers": " Arthur Crudup",
         "year": 1954
     },
-    "113": {
+    "114": {
         "album": " The Very Best of the Drifters (Rhino) ",
         "artist": "The Drifters",
         "charts": "20 weeks; No. 5",
@@ -3185,7 +3208,7 @@
         "writers": " Gerry Goffin, Carole King",
         "year": 1962
     },
-    "114": {
+    "115": {
         "album": " Greatest Hits (RCA) ",
         "artist": "Sam Cooke",
         "charts": "26 weeks; No. 1 ",
@@ -3213,7 +3236,7 @@
         "writers": " Cooke",
         "year": 1957
     },
-    "115": {
+    "116": {
         "album": " Let It Bleed (ABKCO)",
         "artist": "The Rolling Stones",
         "charts": "15 weeks; No. 1",
@@ -3239,7 +3262,7 @@
         "writers": " Mick Jagger, Keith Richards",
         "year": 1969
     },
-    "116": {
+    "117": {
         "album": " Al Green Explores Your Mind (The Right Stuff) ",
         "artist": "Al Green",
         "charts": "Non-single",
@@ -3269,7 +3292,7 @@
         "writers": " Green, Mabon Hodges",
         "year": 1974
     },
-    "117": {
+    "118": {
         "album": " Dangerously in Love (Columbia)",
         "artist": "Beyonce feat. Jay-Z",
         "charts": "27 weeks; No. 1",
@@ -3296,7 +3319,7 @@
         "writers": " Rich Harrison, Beyonce, Jay-Z",
         "year": 2003
     },
-    "118": {
+    "119": {
         "album": " The Isley Brothers Story, Vol. 1: Rockin' Soul (Rhino) ",
         "artist": "The Isley Brothers",
         "charts": "11 weeks; No. 47",
@@ -3325,7 +3348,7 @@
         "writers": " Rudolph Isley, Ronald Isley, O'Kelly Isley",
         "year": 1959
     },
-    "119": {
+    "120": {
         "album": " Rumours (Warner Bros.) ",
         "artist": "Fleetwood Mac",
         "charts": "15 weeks; No. 10",
@@ -3354,7 +3377,7 @@
         "writers": " Lindsey Buckingham",
         "year": 1977
     },
-    "120": {
+    "121": {
         "album": " The Ultimate Collection (Motown) ",
         "artist": "The Jackson 5",
         "charts": "19 weeks; No. 1",
@@ -3379,7 +3402,7 @@
         "writers": " Freddie Perren, Fonce Mizell, Deke Richards, Berry Gordy Jr.",
         "year": 1969
     },
-    "121": {
+    "122": {
         "album": " The Very Best of Ben E. King (Rhino)",
         "artist": "Ben E. King",
         "charts": "14 weeks; No. 4",
@@ -3409,7 +3432,7 @@
         "writers": " King, Elmo Glick, Jerry Leiber, Mike Stoller",
         "year": 1961
     },
-    "122": {
+    "123": {
         "album": " The Best of the Animals (ABKCO)",
         "artist": "The Animals",
         "charts": "11 weeks; No. 1",
@@ -3440,7 +3463,7 @@
         "writers": " Alan Price",
         "year": 1964
     },
-    "123": {
+    "124": {
         "album": " 50th Anniversary Collection (UTV/Polydor) ",
         "artist": "James Brown",
         "charts": "9 weeks; No. 8",
@@ -3466,7 +3489,7 @@
         "writers": " Brown, Betty Jean Newsome",
         "year": 1966
     },
-    "124": {
+    "125": {
         "album": " Forty Licks (Virgin)",
         "artist": "The Rolling Stones",
         "charts": "12 weeks; No. 3",
@@ -3492,7 +3515,7 @@
         "writers": " Mick Jagger, Keith Richards",
         "year": 1968
     },
-    "125": {
+    "126": {
         "album": " Girl Group Greats (Rhino)",
         "artist": "The Shirelles",
         "charts": "19 weeks; No. 1",
@@ -3524,7 +3547,7 @@
         "writers": " Gerry Goffin, Carole King",
         "year": 1960
     },
-    "126": {
+    "127": {
         "album": " ",
         "artist": "Big Joe Turner",
         "charts": "Predates chart",
@@ -3554,7 +3577,7 @@
         "writers": " Charles Calhoun",
         "year": 1954
     },
-    "127": {
+    "128": {
         "album": " ",
         "artist": "David Bowie",
         "charts": "11 Weeks; No. 41",
@@ -3582,7 +3605,7 @@
         "writers": " Bowie",
         "year": 1971
     },
-    "128": {
+    "129": {
         "album": "  ",
         "artist": "Chuck Berry",
         "charts": "19 Weeks; No. 8",
@@ -3610,7 +3633,7 @@
         "writers": " Berry ",
         "year": 1957
     },
-    "129": {
+    "130": {
         "album": " Steppenwolf (MCA)",
         "artist": "Steppenwolf",
         "charts": "13 Weeks; No. 2  ",
@@ -3644,7 +3667,7 @@
         "writers": " Mars Bonfire",
         "year": 1968
     },
-    "130": {
+    "131": {
         "album": " Every Picture Tells a Story (Mercury/Universal)",
         "artist": "Rod Stewart",
         "charts": "17 weeks; No. 1",
@@ -3653,6 +3676,7 @@
         "genres": [
             "classic rock",
             "mellow gold",
+            "rock",
             "soft rock"
         ],
         "popularity": 71,
@@ -3670,7 +3694,7 @@
         "writers": " Stewart, Martin Quittenton",
         "year": 1971
     },
-    "131": {
+    "132": {
         "album": " The Joshua Tree (Island)",
         "artist": "U2",
         "charts": "18 weeks; No. 1",
@@ -3696,7 +3720,7 @@
         "writers": " Bono, the Edge, Adam Clayton, Larry Mullen Jr.",
         "year": 1987
     },
-    "132": {
+    "133": {
         "album": " His Best: The Chess 50th Anniversary Collection (Chess)",
         "artist": "Bo Diddley",
         "charts": "Did not chart",
@@ -3730,7 +3754,7 @@
         "writers": " Ellas McDaniel",
         "year": 1957
     },
-    "133": {
+    "134": {
         "album": " Who's Next (MCA)",
         "artist": "The Who",
         "charts": "13 weeks; No. 15 ",
@@ -3760,7 +3784,7 @@
         "writers": " Pete Townshend",
         "year": 1971
     },
-    "134": {
+    "135": {
         "album": " The Very Best of Wilson Pickett (Rhino)",
         "artist": "Wilson Pickett",
         "charts": "12 weeks; No. 21",
@@ -3791,7 +3815,7 @@
         "writers": " Pickett, Steve Cropper",
         "year": 1965
     },
-    "135": {
+    "136": {
         "album": " The Beatles (Capitol)",
         "artist": "The Beatles",
         "charts": "Non-single ",
@@ -3820,7 +3844,7 @@
         "writers": " George Harrison",
         "year": 1968
     },
-    "136": {
+    "137": {
         "album": " Greatest Hits (Island)",
         "artist": "Elton John",
         "charts": "14 weeks; No. 8 ",
@@ -3846,7 +3870,7 @@
         "writers": " Bernie Taupin, John",
         "year": 1970
     },
-    "137": {
+    "138": {
         "album": " Revolver (Capitol)",
         "artist": "The Beatles",
         "charts": "8 weeks; No. 11 ",
@@ -3875,7 +3899,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1966
     },
-    "138": {
+    "139": {
         "album": " There's a Riot Goin' On (Sony)",
         "artist": "Sly and the Family Stone",
         "charts": "14 weeks; No. 1",
@@ -3884,7 +3908,6 @@
         "genres": [
             "classic rock",
             "classic soul",
-            "disco",
             "folk rock",
             "funk",
             "funk rock",
@@ -3908,7 +3931,7 @@
         "writers": " Sly Stone",
         "year": 1971
     },
-    "139": {
+    "140": {
         "album": " Please Please Me (Capitol)",
         "artist": "The Beatles",
         "charts": "11 weeks; No. 14",
@@ -3937,7 +3960,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1964
     },
-    "140": {
+    "141": {
         "album": " Physical Graffiti (Atlantic)",
         "artist": "Led Zeppelin",
         "charts": "Non-single",
@@ -3964,7 +3987,7 @@
         "writers": " John Bonham, Jimmy Page, Robert Plant",
         "year": 1975
     },
-    "141": {
+    "142": {
         "album": " All-Time Original Hits (Rhino)",
         "artist": "The Everly Brothers",
         "charts": "11 weeks; No. 21",
@@ -3995,7 +4018,7 @@
         "writers": " Boudleaux and Felice Bryant",
         "year": 1958
     },
-    "142": {
+    "143": {
         "album": " 50th Anniversary Collection (UTV/Polydor)",
         "artist": "James Brown and His Famous Flames",
         "charts": "2 weeks; No. 95",
@@ -4020,7 +4043,7 @@
         "writers": " Brown, Johnny Terry",
         "year": 1956
     },
-    "143": {
+    "144": {
         "album": " Purple Rain (Warner Bros.)",
         "artist": "Prince and the Revolution",
         "charts": "16 weeks; No. 2",
@@ -4047,7 +4070,7 @@
         "writers": " Prince",
         "year": 1984
     },
-    "144": {
+    "145": {
         "album": " Road to Ruin (Rhino)",
         "artist": "Ramones",
         "charts": "Did not chart",
@@ -4076,7 +4099,7 @@
         "writers": " Ramones",
         "year": 1978
     },
-    "145": {
+    "146": {
         "album": " Stand! (Sony)",
         "artist": "Sly and the Family Stone",
         "charts": "19 weeks; No. 1",
@@ -4085,7 +4108,6 @@
         "genres": [
             "classic rock",
             "classic soul",
-            "disco",
             "folk rock",
             "funk",
             "funk rock",
@@ -4109,7 +4131,7 @@
         "writers": " Sly Stone",
         "year": 1968
     },
-    "146": {
+    "147": {
         "album": " The B-52's (Warner Bros.)",
         "artist": "The B-52's",
         "charts": "8 weeks; No. 56",
@@ -4141,7 +4163,7 @@
         "writers": " Fred Schneider, Ricky Wilson",
         "year": 1979
     },
-    "147": {
+    "148": {
         "album": " Pearl (Sony/Legacy)",
         "artist": "Janis Joplin",
         "charts": "15 weeks; No. 1",
@@ -4168,7 +4190,7 @@
         "writers": " Kris Kristofferson, Fred Foster",
         "year": 1971
     },
-    "148": {
+    "149": {
         "album": " Lust for Life (Virgin)",
         "artist": "Iggy Pop",
         "charts": "Did not chart",
@@ -4200,7 +4222,7 @@
         "writers": " David Bowie, Pop",
         "year": 1977
     },
-    "149": {
+    "150": {
         "album": " All-Time Original Hits (Rhino)",
         "artist": "The Everly Brothers",
         "charts": "17 weeks; No. 1",
@@ -4231,7 +4253,7 @@
         "writers": " Phil and Don Everly",
         "year": 1960
     },
-    "150": {
+    "151": {
         "album": " Fifth Dimension (Legacy)",
         "artist": "The Byrds",
         "charts": "9 weeks; No. 14",
@@ -4269,7 +4291,7 @@
         "writers": " Gene Clark, Roger McGuinn, David Crosby",
         "year": 1966
     },
-    "151": {
+    "152": {
         "album": " Earth Angel (Ace)",
         "artist": "The Penguins",
         "charts": "15 weeks; No. 8",
@@ -4294,7 +4316,7 @@
         "writers": " Jesse Belvin, Curtis Williams",
         "year": 1954
     },
-    "152": {
+    "153": {
         "album": " Are You Experienced? (MCA)",
         "artist": "The Jimi Hendrix Experience",
         "charts": "4 weeks; No. 67",
@@ -4316,7 +4338,7 @@
         "writers": " Hendrix",
         "year": 1965
     },
-    "153": {
+    "154": {
         "album": " A Hard Day's Night (Capitol)",
         "artist": "The Beatles",
         "charts": "13 weeks; No. 1",
@@ -4345,7 +4367,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1964
     },
-    "154": {
+    "155": {
         "album": " Buddy Holly: Greatest Hits (MCA)",
         "artist": "Buddy Holly and the Crickets",
         "charts": "10 weeks; No. 37",
@@ -4373,7 +4395,7 @@
         "writers": " Sonny West, Bill Tilghman, Norman Petty",
         "year": 1958
     },
-    "155": {
+    "156": {
         "album": " ",
         "artist": "Creedence Clearwater Revival",
         "charts": "14 weeks; No. 2",
@@ -4401,7 +4423,7 @@
         "writers": " John Fogerty",
         "year": 1969
     },
-    "156": {
+    "157": {
         "album": " Sounds of Silence (Columbia)",
         "artist": "Simon and Garfunkel",
         "charts": "14 weeks; No. 1",
@@ -4430,7 +4452,7 @@
         "writers": " Paul Simon",
         "year": 1965
     },
-    "157": {
+    "158": {
         "album": " The Best of the Flamingos (Rhino)",
         "artist": "The Flamingos",
         "charts": "13 weeks; No. 11",
@@ -4456,7 +4478,7 @@
         "writers": " Harry Warren",
         "year": 1959
     },
-    "158": {
+    "159": {
         "album": " The Best of Bill Haley and His Comets (MCA)",
         "artist": "Bill Haley and His Comets",
         "charts": "24 weeks; No. 1",
@@ -4478,7 +4500,7 @@
         "writers": " Jimmy DeKnight, Max Freedman",
         "year": 1954
     },
-    "159": {
+    "160": {
         "album": " No Line on the Horizon (Interscope)",
         "artist": "U2",
         "charts": "Non-single",
@@ -4504,7 +4526,7 @@
         "writers": " Bono, the Edge, Adam Clayton, Larry Mullen Jr.",
         "year": 2009
     },
-    "160": {
+    "161": {
         "album": " The Velvet Underground and Nico (Polygram)",
         "artist": "The Velvet Underground",
         "charts": "Non-single",
@@ -4526,7 +4548,7 @@
         "writers": " Lou Reed",
         "year": 1967
     },
-    "161": {
+    "162": {
         "album": " It Takes a Nation of Millions to Hold Us Back (Def Jam)",
         "artist": "Public Enemy",
         "charts": "Did not chart",
@@ -4558,7 +4580,7 @@
         "writers": " Carlton Ridenhour, Eric Sadler, Hank Shocklee",
         "year": 1988
     },
-    "162": {
+    "163": {
         "album": " The Essential Johnny Cash (Columbia)",
         "artist": "Johnny Cash",
         "charts": "18 weeks; No. 32",
@@ -4583,7 +4605,7 @@
         "writers": " Cash",
         "year": 1956
     },
-    "163": {
+    "164": {
         "album": " Modern Sounds in Country and Western Music (Rhino)",
         "artist": "Ray Charles",
         "charts": "18 weeks; No. 1",
@@ -4613,7 +4635,7 @@
         "writers": " Don Gibson",
         "year": 1962
     },
-    "164": {
+    "165": {
         "album": " I Do Not Want What I Haven't Got (Capitol)",
         "artist": "Sinead O'Connor",
         "charts": "21 weeks; No. 1",
@@ -4639,7 +4661,7 @@
         "writers": " Prince",
         "year": 1990
     },
-    "165": {
+    "166": {
         "album": " A Night at the Opera (Hollywood)",
         "artist": "Queen",
         "charts": "24 weeks; No. 9",
@@ -4665,7 +4687,7 @@
         "writers": " Freddie Mercury",
         "year": 1975
     },
-    "166": {
+    "167": {
         "album": " Tracy Chapman (Elektra)",
         "artist": "Tracy Chapman",
         "charts": " 21 weeks; No. 6",
@@ -4692,7 +4714,7 @@
         "writers": " Chapman",
         "year": 1988
     },
-    "167": {
+    "168": {
         "album": " Let's Get It On (Motown)",
         "artist": "Marvin Gaye",
         "charts": "14 weeks; No. 1",
@@ -4722,7 +4744,7 @@
         "writers": " Gaye, Ed Townsend",
         "year": 1973
     },
-    "168": {
+    "169": {
         "album": " Anthology (Motown)",
         "artist": "The Temptations",
         "charts": "16 weeks; No. 1",
@@ -4750,7 +4772,7 @@
         "writers": " Norman Whitfield, Barrett Strong",
         "year": 1972
     },
-    "169": {
+    "170": {
         "album": " Out of Time (Warner Bros.)",
         "artist": "R.E.M.",
         "charts": "21 weeks; No. 4",
@@ -4779,7 +4801,7 @@
         "writers": " Berry, Buck, Mills, Stipe",
         "year": 1991
     },
-    "170": {
+    "171": {
         "album": " Clouds (Warner Bros.)",
         "artist": "Joni Mitchell",
         "charts": "Did not chart",
@@ -4809,7 +4831,7 @@
         "writers": " Mitchell",
         "year": 1969
     },
-    "171": {
+    "172": {
         "album": " The Black Album (Roc-a-Fella)",
         "artist": "Jay-Z",
         "charts": "12 weeks; No. 30",
@@ -4818,7 +4840,6 @@
         "genres": [
             "east coast hip hop",
             "hip hop",
-            "pop rap",
             "rap"
         ],
         "popularity": 64,
@@ -4836,7 +4857,7 @@
         "writers": " Jay-Z, Rick Rubin",
         "year": 2003
     },
-    "172": {
+    "173": {
         "album": " Aerosmith (Columbia)",
         "artist": "Aerosmith",
         "charts": "9 weeks; No. 59",
@@ -4863,7 +4884,7 @@
         "writers": " Steven Tyler",
         "year": 1973
     },
-    "173": {
+    "174": {
         "album": " Arrival (Polydor)",
         "artist": "Abba",
         "charts": "22 weeks; No. 1",
@@ -4888,7 +4909,7 @@
         "writers": " Benny Andersson, Bj\u00f6rn Ulvaeus, Stig Anderson",
         "year": 1976
     },
-    "174": {
+    "175": {
         "album": " Never Mind the Bollocks, Here's the Sex Pistols (Warner Bros.)",
         "artist": "The Sex Pistols",
         "charts": "Did not chart ",
@@ -4912,7 +4933,7 @@
         "writers": " Johnny Rotten, Steve Jones, Glen Matlock, Paul Cook",
         "year": 1977
     },
-    "175": {
+    "176": {
         "album": " Aftermath (ABKCO)",
         "artist": "The Rolling Stones",
         "charts": "11 weeks; No. 1",
@@ -4938,7 +4959,7 @@
         "writers": " Mick Jagger, Keith Richards",
         "year": 1966
     },
-    "176": {
+    "177": {
         "album": " I Fought the Law: The Best of the Bobby Fuller Four (Rhino)",
         "artist": "The Bobby Fuller Four",
         "charts": "11 weeks; No. 9",
@@ -4965,7 +4986,7 @@
         "writers": " Sonny Curtis, Fuller",
         "year": 1966
     },
-    "177": {
+    "178": {
         "album": " Sounds of Summer (Capitol)",
         "artist": "The Beach Boys",
         "charts": "10 weeks; No. 24",
@@ -4994,7 +5015,7 @@
         "writers": " Brian Wilson, Roger Christian",
         "year": 1964
     },
-    "178": {
+    "179": {
         "album": " Full Moon Fever (MCA)",
         "artist": "Tom Petty",
         "charts": "21 weeks; No. 7",
@@ -5027,7 +5048,7 @@
         "writers": " Petty, Jeff Lynne",
         "year": 1989
     },
-    "179": {
+    "180": {
         "album": " Radio City (Stax)",
         "artist": "Big Star",
         "charts": "Did not chart",
@@ -5063,7 +5084,7 @@
         "writers": " Alex Chilton",
         "year": 1974
     },
-    "180": {
+    "181": {
         "album": " Substance 1977-1980 (Qwest)",
         "artist": "Joy Division",
         "charts": "Did not chart",
@@ -5093,7 +5114,7 @@
         "writers": " Ian Curtis, Peter Hook, Stephen Morris, Bernard Sumner",
         "year": 1980
     },
-    "181": {
+    "182": {
         "album": " Speakerboxxx/The Love Below (LaFace/Arista)",
         "artist": "OutKast",
         "charts": "32 weeks; No. 1",
@@ -5121,7 +5142,7 @@
         "writers": " Andr\u00e9 3000",
         "year": 2003
     },
-    "182": {
+    "183": {
         "album": " Green Onions (Atlantic)",
         "artist": "Booker T. and the MG's",
         "charts": "16 weeks; No. 3",
@@ -5151,7 +5172,7 @@
         "writers": " Booker T. Jones, Steve Cropper, Lewis Steinberg, Al Jackson",
         "year": 1962
     },
-    "183": {
+    "184": {
         "album": " The Drifters' Golden Hits (Atlantic)",
         "artist": "The Drifters",
         "charts": "18 weeks; No. 1",
@@ -5182,7 +5203,7 @@
         "writers": " Doc Pomus, Mort Shuman",
         "year": 1960
     },
-    "184": {
+    "185": {
         "album": " Greatest Hits (MCA)",
         "artist": "B.B. King",
         "charts": "14 weeks; No. 15",
@@ -5212,7 +5233,7 @@
         "writers": " Roy Hawkins, Rick Darnell",
         "year": 1969
     },
-    "185": {
+    "186": {
         "album": " Please Please Me (Capitol)",
         "artist": "The Beatles",
         "charts": "13 weeks; No. 3",
@@ -5241,7 +5262,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1964
     },
-    "186": {
+    "187": {
         "album": " Highway 61 Revisited (Columbia)",
         "artist": "Bob Dylan",
         "charts": "Non-single",
@@ -5273,7 +5294,7 @@
         "writers": " Dylan",
         "year": 1965
     },
-    "187": {
+    "188": {
         "album": " Cosmo's Factory (Fantasy)",
         "artist": "Creedence Clearwater Revival",
         "charts": "Did not chart",
@@ -5295,7 +5316,7 @@
         "writers": " John Fogerty",
         "year": 1970
     },
-    "188": {
+    "189": {
         "album": " I Never Loved a Man (the Way I Love You) (Rhino)",
         "artist": "Aretha Franklin",
         "charts": "11 weeks; No. 9",
@@ -5323,7 +5344,7 @@
         "writers": " Ronny Shannon",
         "year": 1967
     },
-    "189": {
+    "190": {
         "album": " Back in Black (Sony)",
         "artist": "AC/DC",
         "charts": "15 weeks; No. 37",
@@ -5349,7 +5370,7 @@
         "writers": " Angus Young, Malcolm Young, Brian Johnson",
         "year": 1980
     },
-    "190": {
+    "191": {
         "album": " Saturday Night Fever (Polydor)",
         "artist": "Bee Gees",
         "charts": "27 weeks; No. 1",
@@ -5375,7 +5396,7 @@
         "writers": " Robin Gibb, Barry Gibb, Maurice Gibb",
         "year": 1977
     },
-    "191": {
+    "192": {
         "album": " The Essential Bob Dylan (Sony)",
         "artist": "Bob Dylan",
         "charts": "16 weeks; No. 12",
@@ -5407,7 +5428,7 @@
         "writers": " Dylan",
         "year": 1973
     },
-    "192": {
+    "193": {
         "album": "Photo: Gijsbert Hanekroot/Redferns/Getty",
         "artist": "Lynyrd Skynyrd",
         "charts": "12 weeks; No. 19",
@@ -5438,7 +5459,7 @@
         "writers": " Allen Collins, Ronnie Van Zant",
         "year": 1973
     },
-    "193": {
+    "194": {
         "album": " Back to Black (Universal Republic)",
         "artist": "Amy Winehouse",
         "charts": "20 weeks; No. 9",
@@ -5463,7 +5484,7 @@
         "writers": " Winehouse",
         "year": 2007
     },
-    "194": {
+    "195": {
         "album": " Wichita Lineman (Capitol)",
         "artist": "Glen Campbell",
         "charts": "15 weeks; No. 3",
@@ -5473,10 +5494,12 @@
             "adult standards",
             "arkansas country",
             "brill building pop",
+            "bubblegum pop",
             "classic country pop",
             "classic uk pop",
             "folk",
             "folk rock",
+            "lounge",
             "mellow gold",
             "nashville sound",
             "soft rock"
@@ -5496,7 +5519,7 @@
         "writers": " Jimmy Webb",
         "year": 1968
     },
-    "195": {
+    "196": {
         "album": " The Very Best of the Drifters (Rhino)",
         "artist": "The Drifters",
         "charts": "19 weeks; No. 2",
@@ -5527,7 +5550,7 @@
         "writers": " Benjamin Nelson, Lover Patterson, George Treadwell",
         "year": 1959
     },
-    "196": {
+    "197": {
         "album": " Greatest Hits (MCA)",
         "artist": "Buddy Holly",
         "charts": "22 weeks; No. 3",
@@ -5536,6 +5559,7 @@
         "genres": [
             "adult standards",
             "brill building pop",
+            "bubblegum pop",
             "folk rock",
             "rock-and-roll",
             "rockabilly"
@@ -5555,7 +5579,7 @@
         "writers": " Jerry Allison, Holly, Norman Petty",
         "year": 1957
     },
-    "197": {
+    "198": {
         "album": " Appetite for Destruction (Geffen)",
         "artist": "Guns n' Roses",
         "charts": "24 weeks; No. 1",
@@ -5581,7 +5605,7 @@
         "writers": " Guns n' Roses",
         "year": 1987
     },
-    "198": {
+    "199": {
         "album": " The Best of the Chantels (Rhino)",
         "artist": "The Chantels",
         "charts": "18 weeks; No. 15",
@@ -5611,7 +5635,7 @@
         "writers": " Arlene Smith",
         "year": 1957
     },
-    "199": {
+    "200": {
         "album": " Elvis: 30 #1 Hits (RCA)",
         "artist": "Elvis Presley",
         "charts": "27 weeks; No. 1",
@@ -5633,7 +5657,7 @@
         "writers": " Otis Blackwell, Presley",
         "year": 1956
     },
-    "200": {
+    "201": {
         "album": " Are You Experienced? (MCA)",
         "artist": "The Jimi Hendrix Experience",
         "charts": "Did not chart",
@@ -5657,7 +5681,7 @@
         "writers": " William Roberts",
         "year": 1966
     },
-    "201": {
+    "202": {
         "album": " Funkentelechy vs. the Placebo Syndrome (Mercury)",
         "artist": "Parliament",
         "charts": "16 weeks; No. 16",
@@ -5687,7 +5711,7 @@
         "writers": " George Clinton, Bernie Worrell, Bootsy Collins",
         "year": 1977
     },
-    "202": {
+    "203": {
         "album": " Mellow Gold (Geffen)",
         "artist": "Beck",
         "charts": "24 weeks; No. 10",
@@ -5716,7 +5740,7 @@
         "writers": " Beck Hansen",
         "year": 1993
     },
-    "203": {
+    "204": {
         "album": " Substance (Qwest)",
         "artist": "New Order",
         "charts": "2 weeks; No. 98",
@@ -5750,7 +5774,7 @@
         "writers": " Bernard Albrecht, Gillian Gilbert, Peter Hook, Stephen Morris",
         "year": 1986
     },
-    "204": {
+    "205": {
         "album": " Abbey Road (Apple)",
         "artist": "The Beatles",
         "charts": "16 weeks; No. 1",
@@ -5779,7 +5803,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1969
     },
-    "205": {
+    "206": {
         "album": " The Essential Bob Dylan (Sony)",
         "artist": "Bob Dylan",
         "charts": "9 weeks; No. 7",
@@ -5811,7 +5835,7 @@
         "writers": " Dylan",
         "year": 1965
     },
-    "206": {
+    "207": {
         "album": " Very Best of Otis Redding (Rhino)",
         "artist": "Otis Redding",
         "charts": "10 weeks; No. 25",
@@ -5839,7 +5863,7 @@
         "writers": " Jimmy Campbell, Reginald Connelly, Harry Woods",
         "year": 1966
     },
-    "207": {
+    "208": {
         "album": " Lean on Me (Sony)",
         "artist": "Bill Withers",
         "charts": "19 weeks; No. 1",
@@ -5866,7 +5890,7 @@
         "writers": " Withers",
         "year": 1972
     },
-    "208": {
+    "209": {
         "album": " The Ultimate Collection (Motown)",
         "artist": "The Four Tops",
         "charts": "15 weeks; No. 1",
@@ -5890,7 +5914,7 @@
         "writers": " Eddie Holland, Lamont Dozier, Brian Holland",
         "year": 1966
     },
-    "209": {
+    "210": {
         "album": " All-Time Original Hits (Rhino)",
         "artist": "The Everly Brothers",
         "charts": "27 weeks; No. 2",
@@ -5921,7 +5945,7 @@
         "writers": " Boudleaux and Felice Bryant",
         "year": 1957
     },
-    "210": {
+    "211": {
         "album": " The Story of Them (Polydor)",
         "artist": "Them",
         "charts": "1 week; No. 95",
@@ -5941,7 +5965,7 @@
             "rock-and-roll",
             "roots rock"
         ],
-        "popularity": 61,
+        "popularity": 62,
         "producer": " Tommy Scott",
         "ranking": 211,
         "records_company": "Parrot",
@@ -5956,7 +5980,7 @@
         "writers": " Van Morrison",
         "year": 1965
     },
-    "211": {
+    "212": {
         "album": " Surfer Girl/Shut Down, Volume 2 (Capitol)",
         "artist": "The Beach Boys",
         "charts": "11 weeks; No. 23",
@@ -5985,7 +6009,7 @@
         "writers": " Brian Wilson, Gary Usher",
         "year": 1963
     },
-    "212": {
+    "213": {
         "album": " More Action (Cavestomp)",
         "artist": "? and the Mysterians",
         "charts": "15 weeks; No. 1",
@@ -6014,7 +6038,7 @@
         "writers": " Rudy Martinez",
         "year": 1966
     },
-    "213": {
+    "214": {
         "album": " Pet Sounds (Capitol)",
         "artist": "The Beach Boys",
         "charts": "7 weeks; No. 32",
@@ -6043,7 +6067,7 @@
         "writers": " Brian Wilson, Tony Asher",
         "year": 1966
     },
-    "214": {
+    "215": {
         "album": " 1999 (Warner Bros.)",
         "artist": "Prince",
         "charts": "27 weeks; No. 12",
@@ -6070,7 +6094,7 @@
         "writers": " Prince",
         "year": 1982
     },
-    "215": {
+    "216": {
         "album": " Freedom (Reprise)",
         "artist": "Neil Young",
         "charts": "Non-single",
@@ -6102,14 +6126,13 @@
         "writers": " Young",
         "year": 1989
     },
-    "216": {
+    "217": {
         "album": " The Ultimate Collection (Mercury Nashville)",
         "artist": "Hank Williams",
         "charts": "Predates pop charts",
         "description": "Legend has it that this song came to Williams when he was thinking about his first wife while driving around with his second; she wrote down the lyrics for him in the passenger seat. After polishing it with Rose, Williams recorded \"Your Cheatin' Heart\" during the last sessions he ever did, on September 23rd, 1952. He told a friend, \"It's the best heart song I ever wrote.\"",
         "duration": 161640,
         "genres": [
-            "folk",
             "honky tonk",
             "rock-and-roll",
             "rockabilly",
@@ -6131,7 +6154,7 @@
         "writers": " Williams, Fred Rose",
         "year": 1953
     },
-    "217": {
+    "218": {
         "album": " Do You Believe in Magic (Buddha)",
         "artist": "The Lovin' Spoonful",
         "charts": "13 weeks; No. 9",
@@ -6167,7 +6190,7 @@
         "writers": " John Sebastian",
         "year": 1965
     },
-    "218": {
+    "219": {
         "album": " Jolene (Buddha/BMG)",
         "artist": "Dolly Parton",
         "charts": "8 weeks; No. 60",
@@ -6193,7 +6216,7 @@
         "writers": " Parton",
         "year": 1974
     },
-    "219": {
+    "220": {
         "album": " The Very Best of John Lee Hooker (Rhino)",
         "artist": "John Lee Hooker",
         "charts": "10 weeks; No. 60",
@@ -6225,7 +6248,7 @@
         "writers": " Hooker",
         "year": 1962
     },
-    "220": {
+    "221": {
         "album": " Anniversary Collection (Chess)",
         "artist": "Howlin' Wolf",
         "charts": "Did not chart",
@@ -6258,7 +6281,7 @@
         "writers": " Willie Dixon",
         "year": 1960
     },
-    "221": {
+    "222": {
         "album": " There's Gonna Be a Storm (Mercury)",
         "artist": "The Left Banke",
         "charts": "13 weeks; No. 5",
@@ -6269,7 +6292,6 @@
             "brill building pop",
             "bubblegum pop",
             "classic garage rock",
-            "country rock",
             "folk rock",
             "freakbeat",
             "psychedelic rock"
@@ -6289,7 +6311,7 @@
         "writers": " Michael Brown, Bob Calilli, Tony Sansone",
         "year": 1966
     },
-    "222": {
+    "223": {
         "album": " Transformer (RCA)",
         "artist": "Lou Reed",
         "charts": "14 weeks; No. 16",
@@ -6319,7 +6341,7 @@
         "writers": " Reed",
         "year": 1972
     },
-    "223": {
+    "224": {
         "album": " For the Lonely: 18 Greatest Hits (Rhino)",
         "artist": "Roy Orbison",
         "charts": "15 weeks; No. 1",
@@ -6328,6 +6350,7 @@
         "genres": [
             "adult standards",
             "brill building pop",
+            "bubblegum pop",
             "mellow gold",
             "rock-and-roll",
             "rockabilly"
@@ -6347,7 +6370,7 @@
         "writers": " Orbison, Billy Dees",
         "year": 1964
     },
-    "224": {
+    "225": {
         "album": " Dance to the Music (Sony)",
         "artist": "Sly and the Family Stone",
         "charts": "15 weeks; No. 8",
@@ -6356,7 +6379,6 @@
         "genres": [
             "classic rock",
             "classic soul",
-            "disco",
             "folk rock",
             "funk",
             "funk rock",
@@ -6380,7 +6402,7 @@
         "writers": " Sylvester Stewart (Sly Stone)",
         "year": 1968
     },
-    "225": {
+    "226": {
         "album": " The Anthology (Chess/MCA)",
         "artist": "Muddy Waters",
         "charts": "Did not chart",
@@ -6410,13 +6432,14 @@
         "writers": " Willie Dixon",
         "year": 1954
     },
-    "226": {
+    "227": {
         "album": " Sweet Baby James (Warner Bros.)",
         "artist": "James Taylor",
         "charts": "16 weeks; No. 3",
         "description": "Taylor wrote the three verses of this song in three phases following the breakup of his band the Flying Machine. The first came in a London flat while he was signed to the Apple label, the second in a New York hospital as he kicked heroin and the third during a stay in a Massachusetts psychiatric facility. \"It's like three samplings of what I went through,\" he said.",
         "duration": 203613,
         "genres": [
+            "adult standards",
             "classic rock",
             "folk",
             "folk rock",
@@ -6440,7 +6463,7 @@
         "writers": " Taylor",
         "year": 1970
     },
-    "227": {
+    "228": {
         "album": " Combat Rock (Sony)",
         "artist": "The Clash",
         "charts": "13 weeks; No. 45",
@@ -6467,7 +6490,7 @@
         "writers": " The Clash",
         "year": 1982
     },
-    "228": {
+    "229": {
         "album": " Risqu\u00e9 (Atlantic)",
         "artist": "Chic",
         "charts": "19 weeks; No. 1",
@@ -6496,7 +6519,7 @@
         "writers": " Nile Rodgers, Bernard Edwards",
         "year": 1979
     },
-    "229": {
+    "230": {
         "album": " The Anthology (MCA/Chess)",
         "artist": "Muddy Waters",
         "charts": "Did not chart",
@@ -6526,7 +6549,7 @@
         "writers": " McKinley Morganfield, Mel London, Ellas McDaniel",
         "year": 1955
     },
-    "230": {
+    "231": {
         "album": " Moondance (Warner Bros.)",
         "artist": "Van Morrison",
         "charts": "4 weeks; No. 92",
@@ -6557,7 +6580,7 @@
         "writers": " Morrison",
         "year": 1970
     },
-    "231": {
+    "232": {
         "album": " Blonde on Blonde (Columbia)",
         "artist": "Bob Dylan",
         "charts": "6 weeks; No. 33",
@@ -6589,7 +6612,7 @@
         "writers": " Dylan",
         "year": 1966
     },
-    "232": {
+    "233": {
         "album": " Midnight Love (Columbia)",
         "artist": "Marvin Gaye",
         "charts": "21 weeks; No. 3",
@@ -6619,7 +6642,7 @@
         "writers": " Gaye, Odell Brown, David Ritz",
         "year": 1982
     },
-    "233": {
+    "234": {
         "album": " For the Lonely: 18 Greatest Hits (Rhino)",
         "artist": "Roy Orbison",
         "charts": "21 weeks; No. 2",
@@ -6628,6 +6651,7 @@
         "genres": [
             "adult standards",
             "brill building pop",
+            "bubblegum pop",
             "mellow gold",
             "rock-and-roll",
             "rockabilly"
@@ -6647,7 +6671,7 @@
         "writers": " Joe Melson, Orbison",
         "year": 1960
     },
-    "234": {
+    "235": {
         "album": " Retrospective (ABKCO)",
         "artist": "The Animals",
         "charts": "11 weeks; No. 13",
@@ -6678,7 +6702,7 @@
         "writers": " Barry Mann, Cynthia Weil",
         "year": 1965
     },
-    "235": {
+    "236": {
         "album": " Kala (Interscope)",
         "artist": "M.I.A.",
         "charts": "21 weeks; No. 4",
@@ -6705,7 +6729,7 @@
         "writers": " M.I.A., Diplo",
         "year": 2007
     },
-    "236": {
+    "237": {
         "album": " Mr. Tambourine Man (Columbia)",
         "artist": "The Byrds",
         "charts": "Did not chart",
@@ -6727,7 +6751,7 @@
         "writers": " Gene Clark",
         "year": 1965
     },
-    "237": {
+    "238": {
         "album": " Best of Buddy Holly (Universal)",
         "artist": "Buddy Holly and the Crickets",
         "charts": "Did not chart",
@@ -6755,7 +6779,7 @@
         "writers": " Charles Hardin, Norman Petty",
         "year": 1957
     },
-    "238": {
+    "239": {
         "album": " Atlantic Singles (Rhino)",
         "artist": "Ray Charles",
         "charts": "Predates chart",
@@ -6785,7 +6809,7 @@
         "writers": " Charles, Renald Richard",
         "year": 1954
     },
-    "239": {
+    "240": {
         "album": " Looking for the Perfect Beat 1980-1985 (Tommy Boy)",
         "artist": "Afrika Bambaataa and the Soul Sonic Force",
         "charts": "11 weeks; No. 48",
@@ -6814,7 +6838,7 @@
         "writers": " Bambaataa, John Robie, the Soul Sonic Force",
         "year": 1982
     },
-    "240": {
+    "241": {
         "album": " 12 Greatest Hits (MCA)",
         "artist": "Patsy Cline",
         "charts": "20 weeks; No. 12",
@@ -6840,7 +6864,7 @@
         "writers": " Hank Cochran",
         "year": 1961
     },
-    "241": {
+    "242": {
         "album": " Dusty in Memphis (Rhino)",
         "artist": "Dusty Springfield",
         "charts": "12 weeks; No. 10",
@@ -6873,7 +6897,7 @@
         "writers": " John Hurley, Ronnie Wilkins",
         "year": 1968
     },
-    "242": {
+    "243": {
         "album": " Runaround Sue (Capitol)",
         "artist": "Dion",
         "charts": "18 weeks; No. 2",
@@ -6902,7 +6926,7 @@
         "writers": " Ernie Maresca",
         "year": 1961
     },
-    "243": {
+    "244": {
         "album": " Stand! (Sony)",
         "artist": "Sly and the Family Stone",
         "charts": "8 weeks; No. 22",
@@ -6911,7 +6935,6 @@
         "genres": [
             "classic rock",
             "classic soul",
-            "disco",
             "folk rock",
             "funk",
             "funk rock",
@@ -6935,7 +6958,7 @@
         "writers": " Sly Stone",
         "year": 1969
     },
-    "244": {
+    "245": {
         "album": " Honky Chateau (Island)",
         "artist": "Elton John",
         "charts": "15 weeks; No. 6",
@@ -6961,7 +6984,7 @@
         "writers": " John, Bernie Taupin",
         "year": 1972
     },
-    "245": {
+    "246": {
         "album": " Cosmic Thing (Reprise)",
         "artist": "The B-52's",
         "charts": "27 weeks; No. 3",
@@ -6993,7 +7016,7 @@
         "writers": " Kate Pierson, Fred Schneider, Keith Strickland, Cindy Wilson",
         "year": 1989
     },
-    "246": {
+    "247": {
         "album": " Gimme Some Lovin' (Sundazed)",
         "artist": "The Spencer Davis Group",
         "charts": "13 weeks; No. 7",
@@ -7028,7 +7051,7 @@
         "writers": " Davis, Steve Winwood, Muff Winwood",
         "year": 1966
     },
-    "247": {
+    "248": {
         "album": " The Very Best of Jackie Wilson (Rhino)",
         "artist": "Jackie Wilson",
         "charts": "12 weeks; No. 6",
@@ -7062,7 +7085,7 @@
         "writers": " Gary Jackson, Raynard Miner, Carl Smith",
         "year": 1967
     },
-    "248": {
+    "249": {
         "album": " The Band (Capitol)",
         "artist": "The Band",
         "charts": "Non-single",
@@ -7100,7 +7123,7 @@
         "writers": " Robbie Robertson",
         "year": 1969
     },
-    "249": {
+    "250": {
         "album": " Greatest Hits (Epic)",
         "artist": "Sly and the Family Stone",
         "charts": "16 weeks; No. 2",
@@ -7109,7 +7132,6 @@
         "genres": [
             "classic rock",
             "classic soul",
-            "disco",
             "folk rock",
             "funk",
             "funk rock",
@@ -7133,7 +7155,7 @@
         "writers": " Sly Stone",
         "year": 1969
     },
-    "250": {
+    "251": {
         "album": " Rappers Delight: The Best of Sugarhill Gang (Rhino)",
         "artist": "Sugarhill Gang",
         "charts": "12 weeks; No. 36 ",
@@ -7164,7 +7186,7 @@
         "writers": " S. Robinson, H. Jackson, M. Wright, G. O\u2019Brien",
         "year": 1979
     },
-    "251": {
+    "252": {
         "album": " Lady Soul (Rhino)",
         "artist": "Aretha Franklin",
         "charts": "12 weeks; No. 2 ",
@@ -7192,11 +7214,42 @@
         "writers": " Don Covay",
         "year": 1967
     },
-    "252": {
+    "253": {
         "album": " Paranoid (Castle)",
+        "artist": "Black Sabbath",
+        "charts": "8 weeks; No. 61 ",
+        "description": "After Sabbath\u2019s first U.S. tour, Iommi was at Regent Studios in London trying to write one more song for their next album. \"I started fiddling about on the guitar and came up with this riff,\" he said. \"When the others came back [from lunch], we recorded it on the spot.\"",
+        "duration": 168405,
+        "genres": [
+            "album rock",
+            "birmingham metal",
+            "classic rock",
+            "hard rock",
+            "metal",
+            "rock",
+            "stoner rock",
+            "uk doom metal"
+        ],
+        "popularity": 69,
+        "producer": " Rodger Bain",
+        "ranking": 253,
+        "records_company": "Warner Bros.",
+        "released": "Released: Nov. '70, Warner Bros.",
+        "sentiment": {
+            "compound": 0.0,
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0
+        },
+        "track": "Paranoid'",
+        "writers": " Geezer Butler, Tony Iommi, Ozzy Osbourne, William Ward",
+        "year": 1970
+    },
+    "254": {
+        "album": " Greatest Hits (Curb)",
         "artist": "The Drifters",
-        "charts": "The Drifters were a tough R&B group led by the great soul singer Clyde McPhatter. After McPhatter got drafted in 1954, the Drifters enjoyed pop success with a totally different lineup. Sadly, McPhatter drank himself to death in 1972, before reaching 40.",
-        "description": " Greatest Hits (Curb)253Black SabbathParanoid' Geezer Butler, Tony Iommi, Ozzy Osbourne, William Ward Rodger BainReleased: Nov. '70, Warner Bros.8 weeks; No. 61 After Sabbath\u2019s first U.S. tour, Iommi was at Regent Studios in London trying to write one more song for their next album. \"I started fiddling about on the guitar and came up with this riff,\" he said. \"When the others came back [from lunch], we recorded it on the spot.\"",
+        "charts": "Unknown",
+        "description": "The Drifters were a tough R&B group led by the great soul singer Clyde McPhatter. After McPhatter got drafted in 1954, the Drifters enjoyed pop success with a totally different lineup. Sadly, McPhatter drank himself to death in 1972, before reaching 40.",
         "duration": 179400,
         "genres": [
             "adult standards",
@@ -7214,16 +7267,16 @@
         "records_company": "Atlantic",
         "released": "Released: Sept.'53, Atlantic",
         "sentiment": {
-            "compound": 0.4588,
-            "neg": 0.029,
-            "neu": 0.915,
-            "pos": 0.056
+            "compound": 0.6637,
+            "neg": 0.156,
+            "neu": 0.607,
+            "pos": 0.237
         },
         "track": "Money Honey'",
         "writers": " Jesse Stone",
         "year": 1953
     },
-    "253": {
+    "255": {
         "album": " That\u2019s All (Atlantic)",
         "artist": "Bobby Darin",
         "charts": "26 weeks; No. 1 ",
@@ -7255,7 +7308,7 @@
         "writers": " Marc Blitzstein, Bertolt Brecht, Kurt Weill",
         "year": 1959
     },
-    "254": {
+    "256": {
         "album": " All the Young Dudes (Columbia)",
         "artist": "Mott the Hoople",
         "charts": "11 weeks; No. 37 ",
@@ -7289,7 +7342,7 @@
         "writers": " David Bowie",
         "year": 1972
     },
-    "255": {
+    "257": {
         "album": " OK Computer (Capitol)",
         "artist": "Radiohead",
         "charts": "Did not chart ",
@@ -7318,7 +7371,7 @@
         "writers": " Thom Yorke",
         "year": 1997
     },
-    "256": {
+    "258": {
         "album": " Highway to Hell (Atlantic)",
         "artist": "AC/DC",
         "charts": "10 weeks; No. 47 ",
@@ -7344,7 +7397,7 @@
         "writers": " Angus Young, Malcolm Young, Bon Scott",
         "year": 1979
     },
-    "257": {
+    "259": {
         "album": " Parallel Lines (Capitol)",
         "artist": "Blondie",
         "charts": "21 weeks; No. 1 ",
@@ -7373,7 +7426,7 @@
         "writers": " Deborah Harry, Chris Stein",
         "year": 1978
     },
-    "258": {
+    "260": {
         "album": " Love and Theft (Columbia)",
         "artist": "Bob Dylan",
         "charts": "Non-Single",
@@ -7405,7 +7458,7 @@
         "writers": " Dylan",
         "year": 2001
     },
-    "259": {
+    "261": {
         "album": " Greatest Hits (Prime Cuts)",
         "artist": "The Troggs",
         "charts": "11 weeks; No. 1",
@@ -7438,7 +7491,7 @@
         "writers": " Chip Taylor",
         "year": 1966
     },
-    "260": {
+    "262": {
         "album": " The Who Sell Out (MCA)",
         "artist": "The Who",
         "charts": "11 weeks; No. 9",
@@ -7468,7 +7521,7 @@
         "writers": " Pete Townshend",
         "year": 1967
     },
-    "261": {
+    "263": {
         "album": " Ultimate Collection (Hip-O)",
         "artist": "The Dells",
         "charts": "11 weeks; No. 10",
@@ -7500,7 +7553,7 @@
         "writers": " Marvin Junior, John Funches",
         "year": 1969
     },
-    "262": {
+    "264": {
         "album": " Grace (Columbia)",
         "artist": "Jeff Buckley",
         "charts": "Non-Single",
@@ -7527,7 +7580,7 @@
         "writers": " Leonard Cohen",
         "year": 1994
     },
-    "263": {
+    "265": {
         "album": " Innervisions (Motown)",
         "artist": "Stevie Wonder",
         "charts": "14 weeks; No. 4",
@@ -7555,7 +7608,7 @@
         "writers": " Wonder",
         "year": 1973
     },
-    "264": {
+    "266": {
         "album": " Ooo Baby Baby: The Anthology (Motown)",
         "artist": "Smokey Robinson and The Miracles",
         "charts": "11 weeks; No. 16",
@@ -7586,7 +7639,7 @@
         "writers": " Robinson, Warren Moore",
         "year": 1965
     },
-    "265": {
+    "267": {
         "album": " Best of the Crystals (ABKCO)",
         "artist": "The Crystals",
         "charts": "18 weeks; No. 1",
@@ -7618,7 +7671,7 @@
         "writers": " Gene Pitney",
         "year": 1962
     },
-    "266": {
+    "268": {
         "album": " Sail Away (Rhino)",
         "artist": "Randy Newman",
         "charts": "Did not chart",
@@ -7644,7 +7697,7 @@
         "writers": " Newman",
         "year": 1972
     },
-    "267": {
+    "269": {
         "album": " The Best of the Ronettes (ABKCO)",
         "artist": "The Ronettes",
         "charts": "11 weeks; No. 23",
@@ -7671,7 +7724,7 @@
         "writers": " Barry Mann, Cynthia Weil, Phil Spector",
         "year": 1964
     },
-    "268": {
+    "270": {
         "album": " Tightening It Up: The Best of Archie Bell and the Drells (Rhino)",
         "artist": "Archie Bell and The Drells",
         "charts": "15 weeks; No. 1",
@@ -7681,7 +7734,6 @@
             "beach music",
             "classic soul",
             "disco",
-            "funk",
             "motown",
             "northern soul",
             "philly soul",
@@ -7705,7 +7757,7 @@
         "writers": " Bell, Billy Butler",
         "year": 1968
     },
-    "269": {
+    "271": {
         "album": " New York Dolls (Mercury)",
         "artist": "New York Dolls",
         "charts": "Did not chart",
@@ -7716,6 +7768,7 @@
             "glam punk",
             "glam rock",
             "post-punk",
+            "power pop",
             "protopunk",
             "pub rock",
             "punk",
@@ -7736,7 +7789,7 @@
         "writers": " David Johansen, Johnny Thunders",
         "year": 1973
     },
-    "270": {
+    "272": {
         "album": " War (Island)",
         "artist": "U2",
         "charts": "Did not chart ",
@@ -7762,7 +7815,7 @@
         "writers": " Bono, the Edge, Adam Clayton, Larry Mullen Jr.",
         "year": 1983
     },
-    "271": {
+    "273": {
         "album": " The College Dropout (Roc-a-Fella)",
         "artist": "Kanye West",
         "charts": "25 weeks; No. 11",
@@ -7787,7 +7840,7 @@
         "writers": " Kanye West, Rhymefest",
         "year": 2004
     },
-    "272": {
+    "274": {
         "album": " The Modern Lovers (Rhino)",
         "artist": "The Modern Lovers",
         "charts": "Did not chart ",
@@ -7818,7 +7871,7 @@
         "writers": " Jonathan Richman",
         "year": 1976
     },
-    "273": {
+    "275": {
         "album": " I Am What I Am (Epic/Legacy)",
         "artist": "George Jones",
         "charts": "Did not chart ",
@@ -7844,7 +7897,7 @@
         "writers": " Bobby Braddock,Curly Putnam",
         "year": 1980
     },
-    "274": {
+    "276": {
         "album": " Pet Sounds (Capitol)",
         "artist": "The Beach Boys",
         "charts": "11 weeks; No. 3",
@@ -7873,7 +7926,7 @@
         "writers": " Traditional, Brian Wilson",
         "year": 1966
     },
-    "275": {
+    "277": {
         "album": " The Anthology (Chess)",
         "artist": "Chuck Berry",
         "charts": "16 weeks; No. 2",
@@ -7901,7 +7954,7 @@
         "writers": " Berry",
         "year": 1958
     },
-    "276": {
+    "278": {
         "album": " Abbey Road (Apple)",
         "artist": "The Beatles",
         "charts": "16 weeks; No. 3",
@@ -7930,7 +7983,7 @@
         "writers": " George Harrison",
         "year": 1969
     },
-    "277": {
+    "279": {
         "album": " Surrealistic Pillow (RCA)",
         "artist": "Jefferson Airplane",
         "charts": "15 weeks; No. 5",
@@ -7958,29 +8011,58 @@
         "writers": " Darby Slick",
         "year": 1967
     },
-    "278": {
+    "280": {
         "album": " Born in the U.S.A. (Columbia)",
-        "artist": "The Staple Singers, I'll Take You There",
-        "charts": "It was a good day\u2019s work at Stax in 1971 when the Staples cut both \"Respect Yourself\" and \"I\u2019ll Take You There.\" The latter \u2014 a funk vamp promising heavenly or sexual devotion, depending on your perspective \u2014 was \"written on the spot,\" said bassist David Hood. \"We always tried to do material that was inspirational,\" said Roebuck \"Pop\" Staples, \"in addition to whatever else it was.\"",
-        "description": " Bealtitude: Respect Yourself (Stax)280Bruce SpringsteenBorn in the U.S.A.' SpringsteenProducers: Springsteen, Jon Landau, Chuck Plotkin, Steve Van ZandtReleased: June '84, Columbia17 weeks; No. 9Before it became the centerpiece of Springsteen\u2019s biggest album, \"U.S.A.\" was an acoustic protest song meant for Nebraska. But when Springsteen revived it with the E Street Band, Roy Bittan came up with a huge synth riff, and Max Weinberg hammered out a beat like he was using M-80s for drumsticks. \"We played it two times, and our second take is the record,\" Springsteen said.",
+        "artist": "Bruce Springsteen",
+        "charts": "17 weeks; No. 9",
+        "description": "Before it became the centerpiece of Springsteen\u2019s biggest album, \"U.S.A.\" was an acoustic protest song meant for Nebraska. But when Springsteen revived it with the E Street Band, Roy Bittan came up with a huge synth riff, and Max Weinberg hammered out a beat like he was using M-80s for drumsticks. \"We played it two times, and our second take is the record,\" Springsteen said.",
+        "duration": 278680,
+        "genres": [
+            "classic rock",
+            "heartland rock",
+            "mellow gold",
+            "permanent wave",
+            "rock",
+            "singer-songwriter"
+        ],
+        "popularity": 74,
+        "producer": "Producers: Springsteen, Jon Landau, Chuck Plotkin, Steve Van Zandt",
+        "ranking": 280,
+        "records_company": "Columbia",
+        "released": "Released: June '84, Columbia",
+        "sentiment": {
+            "compound": 0.8316,
+            "neg": 0.022,
+            "neu": 0.843,
+            "pos": 0.135
+        },
+        "track": "Born in the U.S.A.'",
+        "writers": " Springsteen",
+        "year": 1984
+    },
+    "281": {
+        "album": " Bealtitude: Respect Yourself (Stax)",
+        "artist": "The Staple Singers",
+        "charts": "15 weeks; No. 1",
+        "description": "It was a good day\u2019s work at Stax in 1971 when the Staples cut both \"Respect Yourself\" and \"I\u2019ll Take You There.\" The latter \u2014 a funk vamp promising heavenly or sexual devotion, depending on your perspective \u2014 was \"written on the spot,\" said bassist David Hood. \"We always tried to do material that was inspirational,\" said Roebuck \"Pop\" Staples, \"in addition to whatever else it was.\"",
         "duration": null,
         "genres": null,
         "popularity": null,
-        "producer": "Released: June '72, Stax",
+        "producer": " Bell",
         "ranking": 281,
-        "records_company": null,
-        "released": "15 weeks; No. 1",
+        "records_company": "Stax",
+        "released": "Released: June '72, Stax",
         "sentiment": {
-            "compound": 0.85,
-            "neg": 0.034,
-            "neu": 0.844,
-            "pos": 0.123
+            "compound": 0.9274,
+            "neg": 0.028,
+            "neu": 0.762,
+            "pos": 0.21
         },
-        "track": " Alvertis Isbell (Al Bell)",
-        "writers": " Bell",
-        "year": null
+        "track": "I'll Take You There'",
+        "writers": " Alvertis Isbell (Al Bell)",
+        "year": 1972
     },
-    "279": {
+    "282": {
         "album": " The Rise and Fall of Ziggy Stardust and the Spiders From Mars (Virgin)",
         "artist": "David Bowie",
         "charts": "Non-single",
@@ -8008,7 +8090,7 @@
         "writers": " Bowie",
         "year": 1972
     },
-    "280": {
+    "283": {
         "album": " Disintegration (Elektra)",
         "artist": "The Cure",
         "charts": "8 weeks; No. 71",
@@ -8035,7 +8117,7 @@
         "writers": " Robert Smith, Simon Gallup, Boris Williams, Porl Thompson, Roger O'Donnell, Lol Tolhurst",
         "year": 1989
     },
-    "281": {
+    "284": {
         "album": " The Best of the Girl Groups, Vol. 1 (Rhino)",
         "artist": "The Dixie Cups",
         "charts": "13 weeks; No. 1",
@@ -8062,11 +8144,38 @@
         "writers": " Jeff Barry, Ellie Greenwich, Phil Spector",
         "year": 1964
     },
-    "282": {
+    "285": {
         "album": " Lean on Me: The Best of Bill Withers (Columbia/Legacy)",
+        "artist": "Bill Withers",
+        "charts": "16 weeks; No. 3",
+        "description": "When the 31-year-old Withers recorded \"Sunshine,\" he was still working at a factory making toilet seats for 747s. He intended to write more lyrics for the part where he repeats the phrase \"I know\" 26 times, but the other musicians told him to leave it.",
+        "duration": 186629,
+        "genres": [
+            "funk",
+            "motown",
+            "quiet storm",
+            "soul"
+        ],
+        "popularity": 46,
+        "producer": " Booker T. Jones",
+        "ranking": 285,
+        "records_company": "Sussex",
+        "released": "Released: July '71, Sussex",
+        "sentiment": {
+            "compound": -0.0772,
+            "neg": 0.029,
+            "neu": 0.971,
+            "pos": 0.0
+        },
+        "track": "Ain't No Sunshine'",
+        "writers": " Withers",
+        "year": 1971
+    },
+    "286": {
+        "album": " Elephant (V2/Third Man)",
         "artist": "The White Stripes",
-        "charts": "Jack White used an effects pedal to make his guitar sound like a bass for this howling anthem about rage and paranoia. The result was the greatest riff of the 2000s and a massive, career-changing hit that has been covered by everyone from Metallica to the University of South Alabama marching band. As for the title, \"That\u2019s what I called the Salvation Army when I was a kid,\" White told Rolling Stone.",
-        "description": " Elephant (V2/Third Man)285Bill WithersAin't No Sunshine' Withers Booker T. JonesReleased: July '71, Sussex16 weeks; No. 3When the 31-year-old Withers recorded \"Sunshine,\" he was still working at a factory making toilet seats for 747s. He intended to write more lyrics for the part where he repeats the phrase \"I know\" 26 times, but the other musicians told him to leave it.",
+        "charts": "Unknown",
+        "description": "Jack White used an effects pedal to make his guitar sound like a bass for this howling anthem about rage and paranoia. The result was the greatest riff of the 2000s and a massive, career-changing hit that has been covered by everyone from Metallica to the University of South Alabama marching band. As for the title, \"That\u2019s what I called the Salvation Army when I was a kid,\" White told Rolling Stone.",
         "duration": 232106,
         "genres": [
             "alternative rock",
@@ -8085,16 +8194,16 @@
         "records_company": "V2/Third Man",
         "released": "Released: April '03, V2/Third Man",
         "sentiment": {
-            "compound": -0.0583,
-            "neg": 0.051,
-            "neu": 0.902,
-            "pos": 0.047
+            "compound": 0.2732,
+            "neg": 0.074,
+            "neu": 0.837,
+            "pos": 0.089
         },
         "track": "Seven Nation Army'",
         "writers": " Jack White",
         "year": 2003
     },
-    "283": {
+    "287": {
         "album": " Talking Book (Tamla)",
         "artist": "Stevie Wonder",
         "charts": "17 weeks; No. 1",
@@ -8122,7 +8231,7 @@
         "writers": " Wonder",
         "year": 1972
     },
-    "284": {
+    "288": {
         "album": " Court and Spark (Elektra)",
         "artist": "Joni Mitchell",
         "charts": "19 weeks; No. 7",
@@ -8152,7 +8261,7 @@
         "writers": " Mitchell",
         "year": 1974
     },
-    "285": {
+    "289": {
         "album": " Best of Blondie (Chrysalis)",
         "artist": "Blondie",
         "charts": "25 weeks; No. 1 ",
@@ -8181,7 +8290,7 @@
         "writers": " Giorgio Moroder, Deborah Harry",
         "year": 1980
     },
-    "286": {
+    "290": {
         "album": " Armed Forces (Rhino)",
         "artist": "Elvis Costello and the Attractions",
         "charts": "Non-single",
@@ -8203,7 +8312,7 @@
         "writers": " Nick Lowe",
         "year": 1979
     },
-    "287": {
+    "291": {
         "album": " His Best (Chess)",
         "artist": "Howlin' Wolf",
         "charts": "Did not chart ",
@@ -8236,7 +8345,7 @@
         "writers": " Chester Burnett",
         "year": 1956
     },
-    "288": {
+    "292": {
         "album": " Slanted and Enchanted (Matador)",
         "artist": "Pavement",
         "charts": "Did not chart",
@@ -8269,7 +8378,7 @@
         "writers": " Stephen Malkmus",
         "year": 1992
     },
-    "289": {
+    "293": {
         "album": " Raising Hell (Arista)",
         "artist": "Run-DMC",
         "charts": "16 weeks; No. 4",
@@ -8291,7 +8400,7 @@
         "writers": " Steven Tyler, Joe Perry",
         "year": 1986
     },
-    "290": {
+    "294": {
         "album": " Motown: The Classic Years (Polygram)",
         "artist": "Barrett Strong",
         "charts": "17 weeks; No. 23",
@@ -8315,7 +8424,7 @@
         "writers": " Berry Gordy, Janie Bradford",
         "year": 1960
     },
-    "291": {
+    "295": {
         "album": " A Hard Day\u2019s Night (Capitol)",
         "artist": "The Beatles",
         "charts": "10 weeks; No. 1",
@@ -8344,7 +8453,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1964
     },
-    "292": {
+    "296": {
         "album": " The Marshall Mathers LP (Aftermath/Interscope)",
         "artist": "Eminem feat. Dido",
         "charts": "15 weeks; No. 51",
@@ -8370,7 +8479,7 @@
         "writers": " Marshall Mathers,D. Armstrong, P. Herman",
         "year": 2000
     },
-    "293": {
+    "297": {
         "album": " British Invasion: 1963-1967 (Hip-O)",
         "artist": "The Zombies",
         "charts": "15 weeks; No. 2 ",
@@ -8378,6 +8487,7 @@
         "duration": 145293,
         "genres": [
             "baroque pop",
+            "brill building pop",
             "british invasion",
             "bubblegum pop",
             "classic rock",
@@ -8400,7 +8510,7 @@
         "writers": " Rod Argent",
         "year": 1964
     },
-    "294": {
+    "298": {
         "album": " London Calling (Epic)",
         "artist": "The Clash",
         "charts": "14 weeks; No. 23",
@@ -8427,7 +8537,7 @@
         "writers": " Mick Jones, Joe Strummer",
         "year": 1979
     },
-    "295": {
+    "299": {
         "album": " Greatest Hits (Capitol)",
         "artist": "Al Green",
         "charts": "19 weeks; No. 11",
@@ -8442,7 +8552,7 @@
             "soul blues",
             "southern soul"
         ],
-        "popularity": 65,
+        "popularity": 66,
         "producer": "Producers: Willie Mitchell, Green",
         "ranking": 299,
         "records_company": "Hi",
@@ -8457,7 +8567,7 @@
         "writers": " Green",
         "year": 1971
     },
-    "296": {
+    "300": {
         "album": " Led Zeppelin IV (Atlantic)",
         "artist": "Led Zeppelin",
         "charts": "12 weeks; No. 15",
@@ -8484,7 +8594,7 @@
         "writers": " Jimmy Page, Robert Plant, John Paul Jones",
         "year": 1971
     },
-    "297": {
+    "301": {
         "album": " Beggars Banquet (ABKCO)",
         "artist": "The Rolling Stones",
         "charts": "6 weeks; No. 48",
@@ -8510,7 +8620,7 @@
         "writers": " Mick Jagger, Keith Richards",
         "year": 1968
     },
-    "298": {
+    "302": {
         "album": " Legend (Island)",
         "artist": "Bob Marley and the Wailers",
         "charts": "Did not chart",
@@ -8535,7 +8645,7 @@
         "writers": " Bob Marley, Peter Tosh",
         "year": 1975
     },
-    "299": {
+    "303": {
         "album": " Harvest (Warner Bros.)",
         "artist": "Neil Young",
         "charts": "14 weeks; No. 1",
@@ -8567,7 +8677,7 @@
         "writers": " Young",
         "year": 1972
     },
-    "300": {
+    "304": {
         "album": " Sign 'O' the Times (Warner Bros.)",
         "artist": "Prince",
         "charts": "14 weeks; No. 3",
@@ -8594,7 +8704,7 @@
         "writers": " Prince",
         "year": 1987
     },
-    "301": {
+    "305": {
         "album": "  Parallel Lines (Capitol)",
         "artist": "Blondie",
         "charts": "14 weeks; No. 24",
@@ -8623,7 +8733,7 @@
         "writers": " Deborah Harry, Nigel Harrison",
         "year": 1978
     },
-    "302": {
+    "306": {
         "album": " Like a Prayer (Warner Bros.)",
         "artist": "Madonna",
         "charts": "16 weeks; No. 1",
@@ -8648,7 +8758,7 @@
         "writers": " Madonna, Patrick Leonard",
         "year": 1989
     },
-    "303": {
+    "307": {
         "album": " Discovery (Virgin)",
         "artist": "Daft Punk",
         "charts": "16 weeks; No. 61",
@@ -8673,7 +8783,7 @@
         "writers": " Thomas Bangalter, Guy-Manuel de Homem-Christo, Anthony Moore",
         "year": 2000
     },
-    "304": {
+    "308": {
         "album": " Blondes Have More Fun (Warner Bros.)",
         "artist": "Rod Stewart",
         "charts": "21 weeks; No. 1",
@@ -8682,6 +8792,7 @@
         "genres": [
             "classic rock",
             "mellow gold",
+            "rock",
             "soft rock"
         ],
         "popularity": 70,
@@ -8699,7 +8810,7 @@
         "writers": " Stewart, Carmine Appice",
         "year": 1978
     },
-    "305": {
+    "309": {
         "album": " Red Headed Stranger (Sony)",
         "artist": "Willie Nelson",
         "charts": "18 weeks; No. 21",
@@ -8729,7 +8840,7 @@
         "writers": " Fred Rose",
         "year": 1975
     },
-    "306": {
+    "310": {
         "album": " Between the Buttons (ABKCO)",
         "artist": "The Rolling Stones",
         "charts": "12 weeks; No. 1",
@@ -8755,7 +8866,7 @@
         "writers": " Mick Jagger, Keith Richards",
         "year": 1967
     },
-    "307": {
+    "311": {
         "album": " Sgt. Pepper\u2019s Lonely Hearts Club Band (Apple/Capitol)",
         "artist": "The Beatles",
         "charts": "Non-single",
@@ -8784,7 +8895,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1967
     },
-    "308": {
+    "312": {
         "album": " 50th Anniversary Collection (UTV/Polydor)",
         "artist": "James Brown",
         "charts": "11 weeks; No. 10",
@@ -8810,7 +8921,7 @@
         "writers": " Brown, Pee Wee Ellis",
         "year": 1968
     },
-    "309": {
+    "313": {
         "album": " Sound Affects (Polygram)",
         "artist": "The Jam",
         "charts": "Non-single in the U.S.",
@@ -8838,7 +8949,7 @@
         "writers": " Paul Weller",
         "year": 1980
     },
-    "310": {
+    "314": {
         "album": " The Best of Frankie Lymon and the Teenagers (Rhino)",
         "artist": "Frankie Lymon and The Teenagers",
         "charts": "21 weeks; No. 6",
@@ -8864,7 +8975,7 @@
         "writers": " Lymon, Morris Levy",
         "year": 1956
     },
-    "311": {
+    "315": {
         "album": " The Greatest Hits of Jackie Wilson (Brunswick)",
         "artist": "Jackie Wilson",
         "charts": "21 weeks; No. 7 ",
@@ -8898,7 +9009,7 @@
         "writers": " Berry Gordy, Gwen Gordy, Tyran Carlo",
         "year": 1958
     },
-    "312": {
+    "316": {
         "album": " Private Dancer (Capitol)",
         "artist": "Tina Turner",
         "charts": "28 weeks; No. 1",
@@ -8925,7 +9036,7 @@
         "writers": " Terry Britten, Graham Lyle",
         "year": 1984
     },
-    "313": {
+    "317": {
         "album": " Paranoid (Warner Bros.)",
         "artist": "Black Sabbath",
         "charts": "10 weeks; No. 52",
@@ -8956,7 +9067,7 @@
         "writers": " Black Sabbath",
         "year": 1971
     },
-    "314": {
+    "318": {
         "album": " The Best of the Everly Brothers (Rhino)",
         "artist": "The Everly Brothers",
         "charts": "26 weeks; No. 1",
@@ -8987,7 +9098,7 @@
         "writers": " Felice Bryant, Boudleaux Bryant",
         "year": 1957
     },
-    "315": {
+    "319": {
         "album": " For the Lonely: 18 Greatest Hits (Rhino)",
         "artist": "Roy Orbison",
         "charts": "13 weeks; No. 7",
@@ -8996,6 +9107,7 @@
         "genres": [
             "adult standards",
             "brill building pop",
+            "bubblegum pop",
             "mellow gold",
             "rock-and-roll",
             "rockabilly"
@@ -9015,7 +9127,7 @@
         "writers": " Joe Melson, Orbison",
         "year": 1963
     },
-    "316": {
+    "320": {
         "album": " Voodoo Jive (Rhino)",
         "artist": "Screamin' Jay Hawkins",
         "charts": "Did not chart",
@@ -9040,7 +9152,7 @@
         "writers": " Screamin\u2019 Jay Hawkins, Herb Slotkin",
         "year": 1956
     },
-    "317": {
+    "321": {
         "album": " The Wall (Capitol)",
         "artist": "Pink Floyd",
         "charts": "Did not chart",
@@ -9070,7 +9182,7 @@
         "writers": " David Gilmour, Roger Waters",
         "year": 1979
     },
-    "318": {
+    "322": {
         "album": " Retrospective (ABKCO)",
         "artist": "The Animals",
         "charts": "10 weeks; No. 15",
@@ -9092,7 +9204,7 @@
         "writers": " Bennie Benjamin, Sol Marcus,Gloria Caldwell",
         "year": 1965
     },
-    "319": {
+    "323": {
         "album": " My Aim Is True (Rhino)",
         "artist": "Elvis Costello",
         "charts": "Did not chart",
@@ -9126,7 +9238,7 @@
         "writers": " Costello",
         "year": 1977
     },
-    "320": {
+    "324": {
         "album": " Wish You Were Here (Capitol)",
         "artist": "Pink Floyd",
         "charts": "Non-single",
@@ -9156,7 +9268,7 @@
         "writers": " David Gilmour, Roger Waters",
         "year": 1975
     },
-    "321": {
+    "325": {
         "album": " Wonderful World, Beautiful People (A&M)",
         "artist": "Jimmy Cliff",
         "charts": "Did not chart",
@@ -9168,7 +9280,7 @@
             "roots reggae",
             "ska"
         ],
-        "popularity": 42,
+        "popularity": 43,
         "producer": " Cliff",
         "ranking": 325,
         "records_company": "A&M",
@@ -9183,7 +9295,7 @@
         "writers": " Cliff",
         "year": 1969
     },
-    "322": {
+    "326": {
         "album": " School\u2019s Out (Warner Bros.)",
         "artist": "Alice Cooper",
         "charts": "13 weeks; No. 7",
@@ -9216,7 +9328,7 @@
         "writers": " Michael Bruce, Glen Buxton, Cooper, Dennis Dunway, Neal Smith",
         "year": 1972
     },
-    "323": {
+    "327": {
         "album": " Franz Ferdinand (Domino)",
         "artist": "Franz Ferdinand",
         "charts": "19 weeks; No. 66",
@@ -9245,7 +9357,7 @@
         "writers": " Alex Kapranos, Nick McCarthy",
         "year": 2004
     },
-    "324": {
+    "328": {
         "album": " Led Zeppelin II (Atlantic)",
         "artist": "Led Zeppelin",
         "charts": "Non-single",
@@ -9272,7 +9384,7 @@
         "writers": " Jimmy Page, Robert Plant, John Bonham, John Paul Jones",
         "year": 1969
     },
-    "325": {
+    "329": {
         "album": " Zuma (Reprise)",
         "artist": "Neil Young",
         "charts": "Non-single",
@@ -9304,7 +9416,7 @@
         "writers": " Young",
         "year": 1975
     },
-    "326": {
+    "330": {
         "album": " Fear of a Black Planet (Def Jam)",
         "artist": "Public Enemy",
         "charts": "Did not chart",
@@ -9336,7 +9448,7 @@
         "writers": " Chuck D, Eric Sadler, Hank Shocklee, Keith Shocklee",
         "year": 1989
     },
-    "327": {
+    "331": {
         "album": " Wave (Arista)",
         "artist": "Patti Smith Group",
         "charts": "Did not chart",
@@ -9365,7 +9477,7 @@
         "writers": " Smith, Ivan Kral",
         "year": 1979
     },
-    "328": {
+    "332": {
         "album": " The Ultimate Collection (Motown)",
         "artist": "The Supremes",
         "charts": "13 weeks; No. 1",
@@ -9395,7 +9507,7 @@
         "writers": " Brian Holland,Lamont Dozier, Eddie Holland",
         "year": 1964
     },
-    "329": {
+    "333": {
         "album": " The Very Best of the Rascals (Rhino)",
         "artist": "The Young Rascals",
         "charts": "14 weeks; No. 1 ",
@@ -9427,7 +9539,7 @@
         "writers": " Rudy Clark, Arthur Resnick",
         "year": 1966
     },
-    "330": {
+    "334": {
         "album": " 50th Anniversary Collection (UTV/Polydor)",
         "artist": "James Brown",
         "charts": "9 weeks; No. 15",
@@ -9453,7 +9565,7 @@
         "writers": " Brown, Bobby Byrd,Ron Lenhoff",
         "year": 1970
     },
-    "331": {
+    "335": {
         "album": " Greatest Hits (Curb)",
         "artist": "Jerry Butler and The Impressions",
         "charts": "12 weeks; No. 11",
@@ -9479,7 +9591,7 @@
         "writers": " Arthur Brooks, Butler",
         "year": 1958
     },
-    "332": {
+    "336": {
         "album": " The Doors (Elektra)",
         "artist": "The Doors",
         "charts": "Non-single",
@@ -9506,7 +9618,7 @@
         "writers": " John Densmore, Robbie Krieger, Ray Manzarek, Jim Morrison",
         "year": 1967
     },
-    "333": {
+    "337": {
         "album": " That\u2019s the Way of the World (Columbia)",
         "artist": "Earth, Wind and Fire",
         "charts": "16 weeks; No. 12",
@@ -9535,7 +9647,7 @@
         "writers": " Maurice White, Verdine White, Charles Stepney",
         "year": 1975
     },
-    "334": {
+    "338": {
         "album": " News of the World (Hollywood)",
         "artist": "Queen",
         "charts": "14 weeks; No. 52",
@@ -9561,7 +9673,7 @@
         "writers": " Brian May, Mike Stone",
         "year": 1977
     },
-    "335": {
+    "339": {
         "album": " Luck of the Draw (Capitol)",
         "artist": "Bonnie Raitt",
         "charts": "20 weeks; No. 18",
@@ -9596,7 +9708,7 @@
         "writers": " Mike Reid, Allen Shamblin",
         "year": 1991
     },
-    "336": {
+    "340": {
         "album": " Bringing It All Back Home (Sony)",
         "artist": "Bob Dylan",
         "charts": "8 weeks; No. 39",
@@ -9628,7 +9740,7 @@
         "writers": " Dylan",
         "year": 1965
     },
-    "337": {
+    "341": {
         "album": " Spirit in the Sky (Varese)",
         "artist": "Norman Greenbaum",
         "charts": "15 weeks; No. 3",
@@ -9652,7 +9764,7 @@
         "writers": " Greenbaum",
         "year": 1970
     },
-    "338": {
+    "342": {
         "album": " Loaded (Fully Loaded Edition) (Rhino)",
         "artist": "The Velvet Underground",
         "charts": "Non-single",
@@ -9684,7 +9796,7 @@
         "writers": " Lou Reed",
         "year": 1970
     },
-    "339": {
+    "343": {
         "album": " Sticky Fingers (Virgin)",
         "artist": "The Rolling Stones",
         "charts": "8 weeks; No. 28",
@@ -9710,7 +9822,7 @@
         "writers": " Mick Jagger, Keith Richards",
         "year": 1971
     },
-    "340": {
+    "344": {
         "album": " Thriller (Epic)",
         "artist": "Michael Jackson",
         "charts": "25 weeks; No. 1 ",
@@ -9736,7 +9848,7 @@
         "writers": " Jackson",
         "year": 1982
     },
-    "341": {
+    "345": {
         "album": " All That You Can\u2019t Leave Behind (Island)",
         "artist": "U2",
         "charts": "25 weeks; No. 1",
@@ -9762,7 +9874,7 @@
         "writers": " U2",
         "year": 2000
     },
-    "342": {
+    "346": {
         "album": " Toys in the Attic (Sony)",
         "artist": "Aerosmith",
         "charts": "17 weeks; No. 10",
@@ -9789,7 +9901,7 @@
         "writers": " Steven Tyler, Joe Perry",
         "year": 1976
     },
-    "343": {
+    "347": {
         "album": " McCartney (Capitol)",
         "artist": "Paul McCartney",
         "charts": "13 weeks; No. 10",
@@ -9819,7 +9931,7 @@
         "writers": " McCartney",
         "year": 1970
     },
-    "344": {
+    "348": {
         "album": " The Ultimate Collection (Motown)",
         "artist": "The Supremes",
         "charts": "12 weeks; No. 1",
@@ -9849,7 +9961,7 @@
         "writers": " Brian Holland,Lamont Dozier, Eddie Holland",
         "year": 1966
     },
-    "345": {
+    "349": {
         "album": " Who\u2019s Next (MCA)",
         "artist": "The Who",
         "charts": "Non-single in U.S.",
@@ -9879,7 +9991,7 @@
         "writers": " Pete Townshend",
         "year": 1971
     },
-    "346": {
+    "350": {
         "album": " The Harder They Come (Island)",
         "artist": "Jimmy Cliff",
         "charts": "Did not chart",
@@ -9906,7 +10018,7 @@
         "writers": " Cliff",
         "year": 1975
     },
-    "347": {
+    "351": {
         "album": " Runaround Sue (Capitol)",
         "artist": "Dion",
         "charts": "14 weeks; No. 1",
@@ -9935,7 +10047,7 @@
         "writers": " Dion DiMucci, Ernie Maresca",
         "year": 1961
     },
-    "348": {
+    "352": {
         "album": " Soul on Fire: The Best of LaVern Baker (Atlantic)",
         "artist": "Lavern Baker",
         "charts": "19 weeks; No. 17",
@@ -9967,7 +10079,7 @@
         "writers": " Lincoln Chase",
         "year": 1956
     },
-    "349": {
+    "353": {
         "album": " Cheap Thrills (Columbia)",
         "artist": "Big Brother and the Holding Company",
         "charts": "12 weeks; No. 12",
@@ -9993,7 +10105,7 @@
         "writers": " Bert Berns, Jerry Ragovoy",
         "year": 1968
     },
-    "350": {
+    "354": {
         "album": " The Ritchie Valens Story (Rhino)",
         "artist": "Ritchie Valens",
         "charts": "15 weeks; No. 22",
@@ -10020,11 +10132,33 @@
         "writers": " William Clauson",
         "year": 1958
     },
-    "351": {
+    "355": {
         "album": " Greatest Hits (Death Row)",
+        "artist": "Dr. Dre and 2Pac",
+        "charts": "24 weeks; No. 6",
+        "description": "When 2Pac left jail in October 1995, after serving eight months for a sexual-assault conviction, Dre had a hit ready for him: a slice of West Coast funk, built around a Joe Cocker sample and a vocal from Zapp frontman Roger Troutman. \u201cI don\u2019t want it to be about violence,\u201d 2Pac said seven months before he was shot dead. \u201cI want it to be about money.\u201d",
+        "duration": null,
+        "genres": null,
+        "popularity": null,
+        "producer": " Dr. Dre",
+        "ranking": 355,
+        "records_company": "Death Row",
+        "released": "Released: Feb. '96, Death Row",
+        "sentiment": {
+            "compound": -0.296,
+            "neg": 0.065,
+            "neu": 0.858,
+            "pos": 0.077
+        },
+        "track": "California Love'",
+        "writers": " Dr. Dre, Chris Stainton, Roger Troutman, Larry Troutman, 2Pac",
+        "year": 1996
+    },
+    "356": {
+        "album": " Goodbye Yellow Brick Road (Island)",
         "artist": "Elton John",
-        "charts": "John\u2019s Marilyn Monroe tribute was a U.K. hit in 1973, but in the U.S. the single release was canceled when DJs began playing \"Bennie and the Jets\" instead. A live version with the Melbourne Symphony Orchestra recorded in 1986 finally reached the U.S. charts, and a 1997 rerelease with new lyrics in honor of Princess Diana became the biggest-selling single of the 20th century.",
-        "description": " Goodbye Yellow Brick Road (Island)355Dr. Dre and 2PacCalifornia Love' Dr. Dre, Chris Stainton, Roger Troutman, Larry Troutman, 2Pac Dr. DreReleased: Feb. '96, Death Row24 weeks; No. 6When 2Pac left jail in October 1995, after serving eight months for a sexual-assault conviction, Dre had a hit ready for him: a slice of West Coast funk, built around a Joe Cocker sample and a vocal from Zapp frontman Roger Troutman. \u201cI don\u2019t want it to be about violence,\u201d 2Pac said seven months before he was shot dead. \u201cI want it to be about money.\u201d",
+        "charts": "Unknown",
+        "description": "John\u2019s Marilyn Monroe tribute was a U.K. hit in 1973, but in the U.S. the single release was canceled when DJs began playing \"Bennie and the Jets\" instead. A live version with the Melbourne Symphony Orchestra recorded in 1986 finally reached the U.S. charts, and a 1997 rerelease with new lyrics in honor of Princess Diana became the biggest-selling single of the 20th century.",
         "duration": 228932,
         "genres": [
             "glam rock",
@@ -10037,16 +10171,16 @@
         "records_company": "MCA",
         "released": "Released: Oct. '73, MCA",
         "sentiment": {
-            "compound": -0.4767,
-            "neg": 0.104,
-            "neu": 0.802,
-            "pos": 0.093
+            "compound": 0.7964,
+            "neg": 0.0,
+            "neu": 0.877,
+            "pos": 0.123
         },
         "track": "Candle in the Wind'",
         "writers": " John, Bernie Taupin",
         "year": 1973
     },
-    "352": {
+    "357": {
         "album": " The Essential Isley Brothers (Legacy)",
         "artist": "The Isley Brothers",
         "charts": "20 weeks; No. 6",
@@ -10075,7 +10209,7 @@
         "writers": " The Isley Brothers",
         "year": 1973
     },
-    "353": {
+    "358": {
         "album": " The Very Best of Ben E. King (Rhino)",
         "artist": "Ben E. King",
         "charts": "16 weeks; No. 10",
@@ -10105,7 +10239,7 @@
         "writers": " Phil Spector, Jerry Leiber",
         "year": 1960
     },
-    "354": {
+    "359": {
         "album": " The Loco-Motion (Rhino)",
         "artist": "Little Eva",
         "charts": "16 weeks; No. 1",
@@ -10132,7 +10266,7 @@
         "writers": " Gerry Goffin, Carole King",
         "year": 1962
     },
-    "355": {
+    "360": {
         "album": " The Magic Touch: An Anthology (Mercury)",
         "artist": "The Platters",
         "charts": "24 weeks; No. 1",
@@ -10163,7 +10297,7 @@
         "writers": " Buck Ram",
         "year": 1955
     },
-    "356": {
+    "361": {
         "album": " Elvis 30 #1 Hits (RCA)",
         "artist": "Elvis Presley",
         "charts": "30 weeks; No. 1",
@@ -10188,7 +10322,7 @@
         "writers": " Otis Blackwell, Presley",
         "year": 1957
     },
-    "357": {
+    "362": {
         "album": " \"Rush\" Soundtrack (Warner Bros.)",
         "artist": "Eric Clapton",
         "charts": "26 weeks; No. 2",
@@ -10218,7 +10352,7 @@
         "writers": " Clapton, Will Jennings",
         "year": 1992
     },
-    "358": {
+    "363": {
         "album": " My Aim Is True (Rhino)",
         "artist": "Elvis Costello",
         "charts": "Did not chart",
@@ -10252,7 +10386,7 @@
         "writers": " Costello",
         "year": 1977
     },
-    "359": {
+    "364": {
         "album": " Green River (Fantasy)",
         "artist": "Creedence Clearwater Revival",
         "charts": "14 weeks; No. 2",
@@ -10280,7 +10414,7 @@
         "writers": " John Fogerty",
         "year": 1969
     },
-    "360": {
+    "365": {
         "album": " Sweet Dreams (RCA)",
         "artist": "Eurythmics",
         "charts": "26 weeks; No. 1",
@@ -10313,7 +10447,7 @@
         "writers": " Annie Lennox, Dave Stewart",
         "year": 1983
     },
-    "361": {
+    "366": {
         "album": " Axis: Bold as Love (Experience Hendrix/MCA)",
         "artist": "The Jimi Hendrix Experience",
         "charts": "Non-single",
@@ -10335,7 +10469,7 @@
         "writers": " Hendrix",
         "year": 1968
     },
-    "362": {
+    "367": {
         "album": " The Ultimate Collection (Motown)",
         "artist": "Martha and the Vandellas",
         "charts": "11 weeks; No. 8",
@@ -10367,7 +10501,7 @@
         "writers": " Brian Holland, Lamont Dozier, Eddie Holland",
         "year": 1965
     },
-    "363": {
+    "368": {
         "album": " The Anthology (Chess/MCA)",
         "artist": "Muddy Waters",
         "charts": "Did not chart",
@@ -10397,7 +10531,7 @@
         "writers": " Preston Foster",
         "year": 1957
     },
-    "364": {
+    "369": {
         "album": " Killing Me Softly (Atlantic)",
         "artist": "Roberta Flack",
         "charts": "16 weeks; No. 1",
@@ -10430,7 +10564,7 @@
         "writers": " Norman Gimbel, Charles Fox",
         "year": 1973
     },
-    "365": {
+    "370": {
         "album": " Magical Mystery Tour (Capitol)",
         "artist": "The Beatles",
         "charts": "11 weeks; No. 1",
@@ -10459,7 +10593,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1967
     },
-    "366": {
+    "371": {
         "album": " The Clash (Epic)",
         "artist": "The Clash",
         "charts": "Non-single ",
@@ -10486,7 +10620,7 @@
         "writers": " Mick Jones, Joe Strummer",
         "year": 1979
     },
-    "367": {
+    "372": {
         "album": " The Letter (Sundazed)",
         "artist": "The Box Tops",
         "charts": "16 weeks; No. 1",
@@ -10513,7 +10647,7 @@
         "writers": " Wayne Carson Thompson",
         "year": 1967
     },
-    "368": {
+    "373": {
         "album": " Highway 61 Revisited (Columbia)",
         "artist": "Bob Dylan",
         "charts": "Did not chart",
@@ -10545,7 +10679,7 @@
         "writers": " Dylan",
         "year": 1965
     },
-    "369": {
+    "374": {
         "album": " Anthology 1962-1974 (Rhino)",
         "artist": "The Righteous Brothers",
         "charts": "13 weeks; No. 4",
@@ -10577,7 +10711,7 @@
         "writers": " Alex North, Hy Zaret",
         "year": 1965
     },
-    "370": {
+    "375": {
         "album": " Saturday Night Fever (Polygram)",
         "artist": "Bee Gees",
         "charts": "33 weeks; No. 1 ",
@@ -10603,7 +10737,7 @@
         "writers": " Bee Gees",
         "year": 1977
     },
-    "371": {
+    "376": {
         "album": " Wheels of Fire (Polygram)",
         "artist": "Cream",
         "charts": "11 weeks; No. 6",
@@ -10636,7 +10770,7 @@
         "writers": " Pete Brown, Jack Bruce",
         "year": 1968
     },
-    "372": {
+    "377": {
         "album": " Violator (Sire)",
         "artist": "Depeche Mode",
         "charts": "20 weeks; No. 28",
@@ -10664,7 +10798,7 @@
         "writers": " Martin Gore",
         "year": 1989
     },
-    "373": {
+    "378": {
         "album": " His Best: The Chess 50th Anniversary Collection (Chess)",
         "artist": "Bo Diddley",
         "charts": "Did Not Chart",
@@ -10686,7 +10820,7 @@
         "writers": " Diddley",
         "year": 1955
     },
-    "374": {
+    "379": {
         "album": " Are You Experienced? (MCA)",
         "artist": "The Jimi Hendrix Experience",
         "charts": "8 weeks; No. 65",
@@ -10708,7 +10842,7 @@
         "writers": " Hendrix",
         "year": 1967
     },
-    "375": {
+    "380": {
         "album": " The Ultimate Collection (MCA)",
         "artist": "The Who",
         "charts": "2 weeks; No. 93",
@@ -10738,7 +10872,7 @@
         "writers": " Pete Townshend",
         "year": 1965
     },
-    "376": {
+    "381": {
         "album": " Marquee Moon (Elektra)",
         "artist": "Television",
         "charts": "Did Not Chart",
@@ -10758,7 +10892,7 @@
             "punk",
             "punk blues"
         ],
-        "popularity": 56,
+        "popularity": 55,
         "producer": " Andy Johns",
         "ranking": 381,
         "records_company": "Elektra",
@@ -10773,7 +10907,7 @@
         "writers": " Tom Verlaine",
         "year": 1977
     },
-    "377": {
+    "382": {
         "album": " Portrait of a Legend 1951-1964 (ABKCO)",
         "artist": "Sam Cooke",
         "charts": "15 weeks; No. 12",
@@ -10801,7 +10935,7 @@
         "writers": " Cooke, Herb Alpert, Lou Adler",
         "year": 1960
     },
-    "378": {
+    "383": {
         "album": " The Anthology (Chess)",
         "artist": "Chuck Berry",
         "charts": "Did Not Chart",
@@ -10829,7 +10963,7 @@
         "writers": " Berry",
         "year": 1956
     },
-    "379": {
+    "384": {
         "album": " The Wall (Capitol)",
         "artist": "Pink Floyd",
         "charts": "25 weeks; No. 1",
@@ -10859,7 +10993,7 @@
         "writers": " Roger Waters",
         "year": 1979
     },
-    "380": {
+    "385": {
         "album": " The Bends (Capitol)",
         "artist": "Radiohead",
         "charts": "4 weeks; No. 65",
@@ -10888,7 +11022,7 @@
         "writers": " Radiohead",
         "year": 1995
     },
-    "381": {
+    "386": {
         "album": " Fever to Tell (Interscope)",
         "artist": "Yeah Yeah Yeahs",
         "charts": "13 weeks; No. 87",
@@ -10920,7 +11054,7 @@
         "writers": " Yeah Yeah Yeahs",
         "year": 2004
     },
-    "382": {
+    "387": {
         "album": " Ultimate Hits Collection (Rhino)",
         "artist": "Ray Charles",
         "charts": "11 weeks; No. 1",
@@ -10950,7 +11084,7 @@
         "writers": " Percy Mayfield",
         "year": 1961
     },
-    "383": {
+    "388": {
         "album": " The Unforgettable Fire (Island)",
         "artist": "U2",
         "charts": "15 weeks; No. 33",
@@ -10976,7 +11110,7 @@
         "writers": " Bono, the Edge, Adam Clayton, Larry Mullen Jr.",
         "year": 1984
     },
-    "384": {
+    "389": {
         "album": " Murmur (A&M)",
         "artist": "R.E.M.",
         "charts": "5 weeks; No. 78",
@@ -11005,7 +11139,7 @@
         "writers": " R.E.M.",
         "year": 1983
     },
-    "385": {
+    "390": {
         "album": "500 Greatest Albums of All Time: Elton John's Goodbye Yellow Brick Road",
         "artist": "Elton John",
         "charts": "17 weeks; No. 2",
@@ -11031,7 +11165,7 @@
         "writers": " John, Bernie Taupin",
         "year": 1973
     },
-    "386": {
+    "391": {
         "album": " Tell It Like It Is: Golden Classics (Collectables)",
         "artist": "Aaron Neville",
         "charts": "14 weeks; No. 2",
@@ -11056,7 +11190,7 @@
         "writers": " George Davis, Lee Diamond",
         "year": 1966
     },
-    "387": {
+    "392": {
         "album": " Urban Hymns (Virgin)",
         "artist": "The Verve",
         "charts": "20 weeks; No. 12",
@@ -11085,7 +11219,7 @@
         "writers": " Mick Jagger, Keith Richards, Richard Ashcroft",
         "year": 1997
     },
-    "388": {
+    "393": {
         "album": " At Fillmore East (Mercury)",
         "artist": "The Allman Brothers Band",
         "charts": "Non-single",
@@ -11109,7 +11243,7 @@
         "writers": " Gregg Allman",
         "year": 1969
     },
-    "389": {
+    "394": {
         "album": " Help! (Capitol/Apple)",
         "artist": "The Beatles",
         "charts": "11 weeks; No. 1",
@@ -11138,7 +11272,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1965
     },
-    "390": {
+    "395": {
         "album": " Decade (Reprise)",
         "artist": "Crosby, Stills, Nash and Young",
         "charts": "9 weeks; No. 14",
@@ -11174,7 +11308,7 @@
         "writers": " Neil Young",
         "year": 1970
     },
-    "391": {
+    "396": {
         "album": " Paid in Full (Island)",
         "artist": "Eric B. and Rakim",
         "charts": "Did Not Chart",
@@ -11184,7 +11318,6 @@
             "alternative hip hop",
             "bboy",
             "east coast hip hop",
-            "electro",
             "gangster rap",
             "golden age hip hop",
             "hardcore hip hop",
@@ -11208,7 +11341,7 @@
         "writers": " Eric B. and Rakim",
         "year": 1987
     },
-    "392": {
+    "397": {
         "album": " Madman Across the Water (Island)",
         "artist": "Elton John",
         "charts": "7 weeks; No. 41",
@@ -11234,7 +11367,7 @@
         "writers": " John, Bernie Taupin",
         "year": 1971
     },
-    "393": {
+    "398": {
         "album": " Outlandos d'Amour (Interscope)",
         "artist": "The Police",
         "charts": "13 weeks; No. 32",
@@ -11265,7 +11398,7 @@
         "writers": " Sting",
         "year": 1979
     },
-    "394": {
+    "399": {
         "album": " Anthology (Motown)",
         "artist": "The Temptations",
         "charts": "15 weeks; No. 1",
@@ -11293,7 +11426,7 @@
         "writers": " Norman Whitfield, Barrett Strong",
         "year": 1971
     },
-    "395": {
+    "400": {
         "album": " The Ultimate Collection (Motown)",
         "artist": "The Four Tops",
         "charts": "12 weeks; No. 11",
@@ -11315,7 +11448,7 @@
         "writers": " Brian Holland, Lamont Dozier, Eddie Holland",
         "year": 1964
     },
-    "396": {
+    "401": {
         "album": " The Lovin' Spoonful Greatest Hits (Buddha)",
         "artist": "The Lovin' Spoonful",
         "charts": "11 weeks; No. 1",
@@ -11351,7 +11484,7 @@
         "writers": " John Sebastian, Steve Boone, Mark Sebastian",
         "year": 1966
     },
-    "397": {
+    "402": {
         "album": " Soul Hits of the '70s: Didn't It Blow Your Mind! Vol. 2 (Rhino)",
         "artist": "The Five Stairsteps",
         "charts": "16 weeks; No. 8",
@@ -11378,7 +11511,7 @@
         "writers": " Stan Vincent",
         "year": 1970
     },
-    "398": {
+    "403": {
         "album": " Elvis 30 #1 Hits (RCA)",
         "artist": "Elvis Presley",
         "charts": "14 weeks; No. 1",
@@ -11403,7 +11536,7 @@
         "writers": " George Weiss, Hugo Peretti, Luigi Creatore",
         "year": 1961
     },
-    "399": {
+    "404": {
         "album": " The Best of the Shangri-Las (Mercury)",
         "artist": "The Shangri-Las",
         "charts": "11 weeks; No. 5",
@@ -11428,7 +11561,7 @@
         "writers": " George \"Shadow\" Morton",
         "year": 1964
     },
-    "400": {
+    "405": {
         "album": " Agents of Fortune (Columbia)",
         "artist": "Blue \u00d6yster Cult",
         "charts": "14 weeks; No. 12",
@@ -11450,7 +11583,7 @@
         "writers": " Donald Roeser",
         "year": 1976
     },
-    "401": {
+    "406": {
         "album": " #1 Record/Radio City (Fantasy)",
         "artist": "Big Star",
         "charts": "Non-Single",
@@ -11486,7 +11619,7 @@
         "writers": " Alex Chilton, Chris Bell",
         "year": 1972
     },
-    "402": {
+    "407": {
         "album": " Second Helping (MCA)",
         "artist": "Lynyrd Skynyrd",
         "charts": "17 weeks; No. 8",
@@ -11517,7 +11650,7 @@
         "writers": " Ed King, Gary Rossington, Ronnie Van Zant",
         "year": 1974
     },
-    "403": {
+    "408": {
         "album": " Metallica (Elektra)",
         "artist": "Metallica",
         "charts": "20 weeks; No. 16",
@@ -11545,7 +11678,7 @@
         "writers": " James Hetfield, Lars Ulrich, Kirk Hammett",
         "year": 1991
     },
-    "404": {
+    "409": {
         "album": " 25 All-Time Greatest Hits (Var\u00e8se Fontana)",
         "artist": "The Shirelles",
         "charts": "12 weeks; No. 39",
@@ -11577,7 +11710,7 @@
         "writers": " Luther Dixon, Shirley Owens",
         "year": 1960
     },
-    "405": {
+    "410": {
         "album": " Anthology (Epic)",
         "artist": "Sly and the Family Stone",
         "charts": "13 weeks; No. 1",
@@ -11586,7 +11719,6 @@
         "genres": [
             "classic rock",
             "classic soul",
-            "disco",
             "folk rock",
             "funk",
             "funk rock",
@@ -11610,7 +11742,7 @@
         "writers": " Sly Stone",
         "year": 1970
     },
-    "406": {
+    "411": {
         "album": " Something' Else (Razor and Tie)",
         "artist": "Eddie Cochran",
         "charts": "12 weeks; No. 35",
@@ -11637,7 +11769,7 @@
         "writers": " Cochran, Jerry Capehart",
         "year": 1958
     },
-    "407": {
+    "412": {
         "album": " Good Girl Gone Bad (Def Jam)",
         "artist": "Rihanna Featuring Jay-Z",
         "charts": "27 weeks; No. 1",
@@ -11659,7 +11791,7 @@
         "writers": " The-Dream, Kuk Harrell, Jay-Z, Christopher \"Tricky\" Stewart",
         "year": 2007
     },
-    "408": {
+    "413": {
         "album": " Blonde on Blonde (Columbia)",
         "artist": "Bob Dylan",
         "charts": "Non-Single",
@@ -11691,7 +11823,7 @@
         "writers": " Dylan",
         "year": 1966
     },
-    "409": {
+    "414": {
         "album": " Singles 1969-1981 (Interscope)",
         "artist": "Carpenters",
         "charts": "17 weeks; No. 2",
@@ -11717,13 +11849,14 @@
         "writers": " Paul Williams, Roger Nichols",
         "year": 1970
     },
-    "410": {
+    "415": {
         "album": " Nevermind (Geffen)",
         "artist": "Nirvana",
         "charts": "Non-Single",
         "description": "\"I don't like rednecks, I don't like macho men,\" Cobain once said. This track about a guy who \"loves to shoot his gun\" would become one of Nirvana's biggest live anthems. It started out as more of a hardcore rant. \"It sounded like a Bad Brains song,\" said Nirvana bassist Krist Novoselic. Then, \"One day Kurt called me and started singing. It was the 'In Bloom' of Nevermind, more of a pop thing.\"",
         "duration": 255080,
         "genres": [
+            "alternative rock",
             "grunge",
             "permanent wave",
             "rock"
@@ -11743,7 +11876,7 @@
         "writers": " Kurt Cobain",
         "year": 1991
     },
-    "411": {
+    "416": {
         "album": " Toys in the Attic (Sony)",
         "artist": "Aerosmith",
         "charts": "8 weeks; No. 36",
@@ -11770,7 +11903,7 @@
         "writers": " Steven Tyler, Tom Hamilton",
         "year": 1975
     },
-    "412": {
+    "417": {
         "album": " Doolittle (4 AD/Elektra)",
         "artist": "Pixies",
         "charts": "Did Not Chart",
@@ -11798,7 +11931,7 @@
         "writers": " Black Francis",
         "year": 1989
     },
-    "413": {
+    "418": {
         "album": " The Donna Summer Anthology (Casablanca)",
         "artist": "Donna Summer",
         "charts": "23 weeks; No. 6",
@@ -11826,7 +11959,7 @@
         "writers": " Summer, Giorgio Moroder, Pete Bellotte",
         "year": 1977
     },
-    "414": {
+    "419": {
         "album": " Greatest Hits (Curb)",
         "artist": "Bobbie Gentry",
         "charts": "14 weeks; No. 1",
@@ -11853,7 +11986,7 @@
         "writers": " Gentry",
         "year": 1967
     },
-    "415": {
+    "420": {
         "album": " The Georgia Peach (Specialty)",
         "artist": "Little Richard",
         "charts": "8 weeks; No. 49",
@@ -11866,7 +11999,7 @@
             "rockabilly",
             "soul"
         ],
-        "popularity": 36,
+        "popularity": 35,
         "producer": " Robert \"Bumps\" Blackwell",
         "ranking": 420,
         "records_company": "Specialty",
@@ -11881,7 +12014,7 @@
         "writers": " Bobby Troup",
         "year": 1957
     },
-    "416": {
+    "421": {
         "album": " The Very Best of the Coasters (Rhino)",
         "artist": "The Coasters",
         "charts": "11 weeks; No. 1",
@@ -11890,6 +12023,7 @@
         "genres": [
             "adult standards",
             "brill building pop",
+            "bubblegum pop",
             "doo-wop",
             "motown",
             "rhythm and blues",
@@ -11912,7 +12046,7 @@
         "writers": " Jerry Leiber, Mike Stoller, Doc Pomus",
         "year": 1957
     },
-    "417": {
+    "422": {
         "album": " The Ultimate Collection (Motown)",
         "artist": "The Four Tops",
         "charts": "14 weeks; No. 1",
@@ -11934,7 +12068,7 @@
         "writers": " Eddie Holland, Lamont Dozier, Brian Holland",
         "year": 1965
     },
-    "418": {
+    "423": {
         "album": " Building the Perfect Beast (Geffen)",
         "artist": "Don Henley",
         "charts": "22 weeks; No. 5",
@@ -11970,7 +12104,7 @@
         "writers": " Henley, Mike Campbell",
         "year": 1984
     },
-    "419": {
+    "424": {
         "album": " Ready to Die (Bad Boy)",
         "artist": "The Notorious B.I.G.",
         "charts": "20 weeks; No. 27",
@@ -11998,7 +12132,7 @@
         "writers": " The Notorious B.I.G.",
         "year": 1994
     },
-    "420": {
+    "425": {
         "album": " Straight Outta Compton (Priority)",
         "artist": "N.W.A",
         "charts": "Non-Single",
@@ -12029,7 +12163,7 @@
         "writers": " Ice Cube, MC Ren",
         "year": 1989
     },
-    "421": {
+    "426": {
         "album": " Crosby, Stills and Nash (Atlantic)",
         "artist": "Crosby, Stills and Nash",
         "charts": "12 weeks; No. 21",
@@ -12065,7 +12199,7 @@
         "writers": " Stephen Stills",
         "year": 1969
     },
-    "422": {
+    "427": {
         "album": "500 Greatest Albums of All Time: Dr. Dre's The Chronic",
         "artist": "Dr. Dre",
         "charts": "27 weeks; No. 2",
@@ -12093,7 +12227,7 @@
         "writers": " Snoop Dogg",
         "year": 1993
     },
-    "423": {
+    "428": {
         "album": " The Ultimate Isley Brothers (Legacy)",
         "artist": "The Isley Brothers",
         "charts": "14 weeks; No. 2",
@@ -12122,7 +12256,7 @@
         "writers": " Rudolph Isley, Ronald lsley, O'Kelly Isley",
         "year": 1969
     },
-    "424": {
+    "429": {
         "album": " Piano Man (Columbia)",
         "artist": "Billy Joel",
         "charts": "14 weeks; No. 25",
@@ -12152,7 +12286,7 @@
         "writers": " Joel",
         "year": 1973
     },
-    "425": {
+    "430": {
         "album": " 2nd to None (BMG Heritage)",
         "artist": "Elvis Presley",
         "charts": "12 weeks; No. 20",
@@ -12177,7 +12311,7 @@
         "writers": " Carl Perkins",
         "year": 1956
     },
-    "426": {
+    "431": {
         "album": " Louder Than Bombs (Sire)",
         "artist": "The Smiths",
         "charts": "Did Not Chart",
@@ -12205,7 +12339,7 @@
         "writers": " Johnny Marr, Morrissey",
         "year": 1984
     },
-    "427": {
+    "432": {
         "album": " American Idiot (Reprise)",
         "artist": "Green Day",
         "charts": "20 weeks; No. 61",
@@ -12230,7 +12364,7 @@
         "writers": " Green Day",
         "year": 2004
     },
-    "428": {
+    "433": {
         "album": " Exile on Main Street (Virgin)",
         "artist": "Rolling Stones",
         "charts": "10 weeks; No. 7",
@@ -12256,7 +12390,7 @@
         "writers": " Mick Jagger, Keith Richards",
         "year": 1972
     },
-    "429": {
+    "434": {
         "album": " Machine Head (Rhino)",
         "artist": "Deep Purple",
         "charts": "16 weeks; No. 4",
@@ -12285,7 +12419,7 @@
         "writers": " Ritchie Blackmore, Ian Gillian, Roger Glover, Jon Lord, Ian Paice",
         "year": 1973
     },
-    "430": {
+    "435": {
         "album": " War (Island)",
         "artist": "U2",
         "charts": "12 weeks; No. 53",
@@ -12311,7 +12445,7 @@
         "writers": " Bono, the Edge, Adam Clayton, Larry Mullen Jr.",
         "year": 1983
     },
-    "431": {
+    "436": {
         "album": " The Very Best of Solomon Burke (Rhino)",
         "artist": "Solomon Burke",
         "charts": "8 weeks; No. 58",
@@ -12340,7 +12474,7 @@
         "writers": " Burke, Bert Berns, Jerry Wexler",
         "year": 1964
     },
-    "432": {
+    "437": {
         "album": " The Clash (Epic)",
         "artist": "The Clash",
         "charts": "Did Not Chart",
@@ -12367,7 +12501,7 @@
         "writers": " Mick Jones, Joe Strummer",
         "year": 1979
     },
-    "433": {
+    "438": {
         "album": " The Fats Domino Jukebox: 20 Greatest Hits (Capitol)",
         "artist": "Fats Domino",
         "charts": "13 weeks; No. 10",
@@ -12389,7 +12523,7 @@
         "writers": " Dave Bartholomew, Domino",
         "year": 1955
     },
-    "434": {
+    "439": {
         "album": " Essential Collection (Hip-O)",
         "artist": "Gladys Knight and the Pips",
         "charts": "19 weeks; No. 1",
@@ -12420,7 +12554,7 @@
         "writers": " Jim Weatherly",
         "year": 1973
     },
-    "435": {
+    "440": {
         "album": " Led Zeppelin II (Atlantic)",
         "artist": "Led Zeppelin",
         "charts": "Non-Single",
@@ -12447,7 +12581,7 @@
         "writers": " Jimmy Page, Robert Plant",
         "year": 1969
     },
-    "436": {
+    "441": {
         "album": " The Very Best of Wilson Pickett (Rhino)",
         "artist": "Wilson Pickett",
         "charts": "9 weeks; No. 23",
@@ -12478,7 +12612,7 @@
         "writers": " Sir Mack Rice",
         "year": 1966
     },
-    "437": {
+    "442": {
         "album": " Forever Changes (Rhino)",
         "artist": "Love",
         "charts": "3 weeks; No. 99",
@@ -12511,7 +12645,7 @@
         "writers": " Bryan MacLean",
         "year": 1968
     },
-    "438": {
+    "443": {
         "album": " Some Girls (Virgin)",
         "artist": "The Rolling Stones",
         "charts": "13 weeks; No. 8",
@@ -12537,7 +12671,7 @@
         "writers": " Mick Jagger, Keith Richards",
         "year": 1978
     },
-    "439": {
+    "444": {
         "album": " Elvis: 30 #1 Hits (RCA)",
         "artist": "Elvis Presley",
         "charts": "23 weeks; No. 1",
@@ -12562,7 +12696,7 @@
         "writers": " Presley, Vera Watson",
         "year": 1956
     },
-    "440": {
+    "445": {
         "album": " The Stooges (Elektra)",
         "artist": "The Stooges",
         "charts": "Did Not Chart",
@@ -12595,7 +12729,7 @@
         "writers": " Dave Alexander, Ron Asheton, Scott Asheton, Iggy Pop",
         "year": 1969
     },
-    "441": {
+    "446": {
         "album": " Hot, Cool and Vicious (London)",
         "artist": "Salt 'n Pepa",
         "charts": "25 weeks; No. 19",
@@ -12627,7 +12761,7 @@
         "writers": " Hurby \"Luv Bug\" Azor",
         "year": 1987
     },
-    "442": {
+    "447": {
         "album": " Uh-Huh (Mercury)",
         "artist": "John Cougar Mellencamp",
         "charts": "16 weeks; No. 8",
@@ -12660,7 +12794,7 @@
         "writers": " Mellencamp",
         "year": 1983
     },
-    "443": {
+    "448": {
         "album": " Get Rich or Die Tryin' (Interscope/Aftermath/Shady)",
         "artist": "50 Cent",
         "charts": "30 weeks; No. 1",
@@ -12689,7 +12823,7 @@
         "writers": " 50 Cent, Dr. Dre, Mike Elizondo",
         "year": 2002
     },
-    "444": {
+    "449": {
         "album": " Golden Classics (Collectables)",
         "artist": "The Dell-Vikings",
         "charts": "31 weeks; No. 5",
@@ -12717,7 +12851,7 @@
         "writers": " Clarence E. Quick",
         "year": 1957
     },
-    "445": {
+    "450": {
         "album": " Burnin' (Island)",
         "artist": "Bob Marley and the Wailers",
         "charts": "did not chart",
@@ -12742,7 +12876,7 @@
         "writers": " Marley",
         "year": 1973
     },
-    "446": {
+    "451": {
         "album": " The Beat Goes On: The Best of Sonny and Cher (Atlantic)",
         "artist": "Sonny and Cher",
         "charts": "14 weeks; No. 1",
@@ -12772,13 +12906,14 @@
         "writers": " Sonny Bono",
         "year": 1965
     },
-    "447": {
+    "452": {
         "album": " Nevermind (Geffen)",
         "artist": "Nirvana",
         "charts": "18 weeks; No. 32",
         "description": "\"It's just about people and what they're expected to act like,\" Cobain said. \"The lines in the song are really contradictory. They're kind of a rebuttal to each other.\" The song is driven by a simple riff that Vig goosed with a flanged, subaquatic guitar effect. Cobain apparently lifted it from a 1985 song by U.K. art-metal band Killing Joke, whom Dave Grohl paid back 12 years later by drumming on their 2003 album.",
         "duration": 218920,
         "genres": [
+            "alternative rock",
             "grunge",
             "permanent wave",
             "rock"
@@ -12798,7 +12933,7 @@
         "writers": " Kurt Cobain, Nirvana",
         "year": 1991
     },
-    "448": {
+    "453": {
         "album": " The Harder They Come (Hip-O)",
         "artist": "Toots and the Maytals",
         "charts": "Did Not Chart",
@@ -12824,7 +12959,7 @@
         "writers": " Toots Hibbert",
         "year": 1973
     },
-    "449": {
+    "454": {
         "album": " Myrmidons of Melodrama: Definitive Collection (RPM)",
         "artist": "The Shangri-Las",
         "charts": "12 weeks; No. 1",
@@ -12849,7 +12984,7 @@
         "writers": " George \"Shadow\" Morton, Jeff Barry, Ellie Greenwich",
         "year": 1964
     },
-    "450": {
+    "455": {
         "album": " The Velvet Underground and Nico (Polydor)",
         "artist": "The Velvet Underground",
         "charts": "Non-Single",
@@ -12881,7 +13016,7 @@
         "writers": " Lou Reed",
         "year": 1967
     },
-    "451": {
+    "456": {
         "album": " Magical Mystery Tour (Capitol/Apple)",
         "artist": "The Beatles",
         "charts": "10 weeks; No. 1",
@@ -12910,7 +13045,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1967
     },
-    "452": {
+    "457": {
         "album": " Greatest Hits (Prime Cuts)",
         "artist": "Chubby Checker",
         "charts": "39 weeks; No. 1",
@@ -12919,6 +13054,7 @@
         "genres": [
             "adult standards",
             "brill building pop",
+            "bubblegum pop",
             "rock-and-roll",
             "rockabilly"
         ],
@@ -12937,7 +13073,7 @@
         "writers": " Hank Ballard",
         "year": 1960
     },
-    "453": {
+    "458": {
         "album": " Greatest Hits (RCA)",
         "artist": "Sam Cooke",
         "charts": "17 weeks; No. 12",
@@ -12965,7 +13101,7 @@
         "writers": " Cooke",
         "year": 1961
     },
-    "454": {
+    "459": {
         "album": " Appetite for Destruction (Geffen)",
         "artist": "Guns N' Roses",
         "charts": "17 weeks; No. 5",
@@ -12991,7 +13127,7 @@
         "writers": " Guns n' Roses",
         "year": 1987
     },
-    "455": {
+    "460": {
         "album": " All Things Must Pass (Capitol)",
         "artist": "George Harrison",
         "charts": "14 weeks; No. 1",
@@ -13021,7 +13157,7 @@
         "writers": " Harrison",
         "year": 1970
     },
-    "456": {
+    "461": {
         "album": " Rocket to Russia (Rhino)",
         "artist": "Ramones",
         "charts": "13 weeks; No. 81",
@@ -13050,13 +13186,14 @@
         "writers": " Ramones",
         "year": 1977
     },
-    "457": {
+    "462": {
         "album": " In Utero (Geffen)",
         "artist": "Nirvana",
         "charts": "22 weeks; No. 45",
         "description": "Written in the L.A. apartment Cobain shared with Courtney Love, this haunting meditation on remorse was originally produced by punk malcontent Albini, but then R.E.M. producer Scott Litt was brought in to smooth it out \u2014 the original had a long stream of feedback on it. Cobain's shredded vocals maintain the punk edge in the hushed MTV Unplugged in New York rendition.",
         "duration": 233173,
         "genres": [
+            "alternative rock",
             "grunge",
             "permanent wave",
             "rock"
@@ -13076,7 +13213,7 @@
         "writers": " Kurt Cobain",
         "year": 1993
     },
-    "458": {
+    "463": {
         "album": " Soul Men (Rhino)",
         "artist": "Sam and Dave",
         "charts": "15 weeks; No. 2",
@@ -13106,7 +13243,7 @@
         "writers": " Isaac Hayes, David Porter",
         "year": 1967
     },
-    "459": {
+    "464": {
         "album": " Parade (Warner Bros.)",
         "artist": "Prince and the Revolution",
         "charts": "18 weeks; No. 1",
@@ -13133,7 +13270,7 @@
         "writers": " Prince and the Revolution",
         "year": 1986
     },
-    "460": {
+    "465": {
         "album": " The Anthology: 1947-1972 (Chess/MCA)",
         "artist": "Muddy Waters",
         "charts": "predates chart",
@@ -13163,7 +13300,7 @@
         "writers": " McKinley Morganfield",
         "year": 1948
     },
-    "461": {
+    "466": {
         "album": " Miss E \u2026 So Addictive (Atlantic/ATG)",
         "artist": "Missy Elliott",
         "charts": "25 weeks; No. 7",
@@ -13195,7 +13332,7 @@
         "writers": " Elliott, Timbaland",
         "year": 2001
     },
-    "462": {
+    "467": {
         "album": " Vol. 3: Life and Times of S. Carter (Roc-A-Fella)",
         "artist": "Jay-Z Featuring UGK",
         "charts": "20 weeks; No. 18",
@@ -13217,7 +13354,7 @@
         "writers": " Jay-Z, Bun B, Pimp C, Timbaland, Kyambo Joshua",
         "year": 1999
     },
-    "463": {
+    "468": {
         "album": " Bealtitude: Respect Yourself (Stax)",
         "artist": "The Staple Singers",
         "charts": "14 weeks; No. 12",
@@ -13248,7 +13385,7 @@
         "writers": " Luther Ingram, Mack Rice",
         "year": 1971
     },
-    "464": {
+    "469": {
         "album": " Past Masters (Capitol/Apple)",
         "artist": "The Beatles",
         "charts": "7 weeks; No. 23",
@@ -13277,7 +13414,7 @@
         "writers": " John Lennon, Paul McCartney",
         "year": 1966
     },
-    "465": {
+    "470": {
         "album": " The Ultimate Collection (Motown)",
         "artist": "The Four Tops",
         "charts": "10 weeks; No. 6",
@@ -13299,7 +13436,7 @@
         "writers": " Brian Holland, Lamont Dozier, Eddie Holland",
         "year": 1966
     },
-    "466": {
+    "471": {
         "album": " Heaven Tonight (Epic)",
         "artist": "Cheap Trick",
         "charts": "8 weeks; No. 62",
@@ -13335,7 +13472,7 @@
         "writers": " Rick Nielsen",
         "year": 1978
     },
-    "467": {
+    "472": {
         "album": " Greatest Hits (Rhino)",
         "artist": "Del Shannon",
         "charts": "17 weeks; No. 1",
@@ -13365,7 +13502,7 @@
         "writers": " Shannon, Max Crook",
         "year": 1961
     },
-    "468": {
+    "473": {
         "album": " Appetite for Destruction (Geffen)",
         "artist": "Guns N' Roses",
         "charts": "17 weeks; No. 7",
@@ -13391,7 +13528,7 @@
         "writers": " Guns n' Roses",
         "year": 1987
     },
-    "469": {
+    "474": {
         "album": " Moondance (Warner Bros.)",
         "artist": "Van Morrison",
         "charts": "Non-Single",
@@ -13422,7 +13559,7 @@
         "writers": " Morrison",
         "year": 1970
     },
-    "470": {
+    "475": {
         "album": " The Ultimate Collection (Motown)",
         "artist": "The Supremes",
         "charts": "14 weeks; No. 1",
@@ -13452,7 +13589,7 @@
         "writers": " Brian Holland, Lamont Dozier, Eddie Holland",
         "year": 1964
     },
-    "471": {
+    "476": {
         "album": " I Never Loved a Man the Way I Love You (Rhino)",
         "artist": "Aretha Franklin",
         "charts": "11 weeks; No. 9",
@@ -13474,7 +13611,7 @@
         "writers": " Chips Moman, Dan Penn",
         "year": 1967
     },
-    "472": {
+    "477": {
         "album": " Meat Is Murder (Warner Bros.)",
         "artist": "The Smiths",
         "charts": "Did Not Chart",
@@ -13502,7 +13639,7 @@
         "writers": " Johnny Marr, Morrissey",
         "year": 1985
     },
-    "473": {
+    "478": {
         "album": " Is This It (RCA)",
         "artist": "The Strokes",
         "charts": "Did Not Chart",
@@ -13530,7 +13667,7 @@
         "writers": " Julian Casablancas",
         "year": 2001
     },
-    "474": {
+    "479": {
         "album": " Agent Provocateur (Atlantic)",
         "artist": "Foreigner",
         "charts": "21 weeks; No. 1",
@@ -13559,7 +13696,7 @@
         "writers": " Mick Jones",
         "year": 1984
     },
-    "475": {
+    "480": {
         "album": " Ill Communication (Capitol)",
         "artist": "Beastie Boys",
         "charts": "Did Not Chart",
@@ -13589,7 +13726,7 @@
         "writers": " Beastie Boys",
         "year": 1994
     },
-    "476": {
+    "481": {
         "album": " Street Songs (Motown)",
         "artist": "Rick James",
         "charts": "24 weeks; No. 16",
@@ -13619,7 +13756,7 @@
         "writers": " James, Alonzo Miller",
         "year": 1981
     },
-    "477": {
+    "482": {
         "album": " Breakaway (RCA)",
         "artist": "Kelly Clarkson",
         "charts": "46 weeks; No. 2",
@@ -13648,7 +13785,7 @@
         "writers": " Dr. Luke, Max Martin",
         "year": 2004
     },
-    "478": {
+    "483": {
         "album": " Surrealistic Pillow (RCA)",
         "artist": "Jefferson Airplane",
         "charts": "10 weeks; No. 8",
@@ -13676,7 +13813,7 @@
         "writers": " Grace Slick",
         "year": 1967
     },
-    "479": {
+    "484": {
         "album": " Justified (Jive)",
         "artist": "Justin Timberlake",
         "charts": "20 weeks; No. 3",
@@ -13701,7 +13838,7 @@
         "writers": " Timbaland, Scott Storch, Timberlake",
         "year": 2002
     },
-    "480": {
+    "485": {
         "album": " Nightbirds (Epic)",
         "artist": "LaBelle",
         "charts": "18 weeks; No. 1",
@@ -13735,7 +13872,7 @@
         "writers": " Bob Crewe, Kenny Nolan",
         "year": 1975
     },
-    "481": {
+    "486": {
         "album": " Young Americans (Virgin)",
         "artist": "David Bowie",
         "charts": "11 weeks; No. 28",
@@ -13763,7 +13900,7 @@
         "writers": " Bowie",
         "year": 1975
     },
-    "482": {
+    "487": {
         "album": " Love It to Death (Warner Bros.)",
         "artist": "Alice Cooper",
         "charts": "13 weeks; No. 21",
@@ -13785,7 +13922,7 @@
         "writers": " Michael Bruce, Glen Buxton, Cooper, Dennis Dunway, Neal Smith",
         "year": 1971
     },
-    "483": {
+    "488": {
         "album": " Kiss Me, Kiss Me, Kiss Me (Elektra)",
         "artist": "The Cure",
         "charts": "19 weeks; No. 40",
@@ -13812,7 +13949,7 @@
         "writers": " Robert Smith, Simon Gallup, Porl Thompson, Lol Tolhurst, Boris Williams",
         "year": 1987
     },
-    "484": {
+    "489": {
         "album": " The Very Best of the Drifters (Rhino)",
         "artist": "The Drifters",
         "charts": "33 weeks; No. 4",
@@ -13843,7 +13980,7 @@
         "writers": " Arthur Resnick, Kenny Young",
         "year": 1964
     },
-    "485": {
+    "490": {
         "album": " A Rush of Blood to the Head (Capitol)",
         "artist": "Coldplay",
         "charts": "22 weeks; No. 29",
@@ -13868,7 +14005,7 @@
         "writers": " Coldplay",
         "year": 2002
     },
-    "486": {
+    "491": {
         "album": " I Love Rock 'N Roll (Blackheart)",
         "artist": "Joan Jett and the Blackhearts",
         "charts": "20 weeks; No. 1",
@@ -13893,7 +14030,7 @@
         "writers": " Jake Hooker, Alan Merrill",
         "year": 1982
     },
-    "487": {
+    "492": {
         "album": " I Will Survive: The Anthology (Polygram)",
         "artist": "Gloria Gaynor",
         "charts": "27 weeks; No. 1",
@@ -13917,7 +14054,7 @@
         "writers": " Dino Fekaris, Freddie Perren",
         "year": 1978
     },
-    "488": {
+    "493": {
         "album": " Oracular Spectacular (Columbia)",
         "artist": "MGMT",
         "charts": "Did Not Chart",
@@ -13945,7 +14082,7 @@
         "writers": " Ben Goldwasser, Andrew VanWyngarden",
         "year": 2008
     },
-    "489": {
+    "494": {
         "album": " Chocolate Factory (Jive)",
         "artist": "R. Kelly",
         "charts": "42 weeks; No. 2",
@@ -13967,7 +14104,7 @@
         "writers": " Kelly",
         "year": 2002
     },
-    "490": {
+    "495": {
         "album": " Sticky Fingers (Virgin)",
         "artist": "The Rolling Stones",
         "charts": "12 weeks; No. 1",
@@ -13993,7 +14130,7 @@
         "writers": " Mick Jagger, Keith Richards",
         "year": 1971
     },
-    "491": {
+    "496": {
         "album": " Running on Empty (Elektra)",
         "artist": "Jackson Browne",
         "charts": "17 weeks; No. 11",
@@ -14028,7 +14165,7 @@
         "writers": " Browne",
         "year": 1977
     },
-    "492": {
+    "497": {
         "album": " The Rising (Columbia)",
         "artist": "Bruce Springsteen",
         "charts": "11 weeks; No. 52",
@@ -14057,7 +14194,7 @@
         "writers": " Springsteen",
         "year": 2002
     },
-    "493": {
+    "498": {
         "album": " Some Girls (Virgin)",
         "artist": "The Rolling Stones",
         "charts": "20 weeks; No. 1",
@@ -14083,7 +14220,7 @@
         "writers": " Mick Jagger, Keith Richards",
         "year": 1978
     },
-    "494": {
+    "499": {
         "album": " Weezer (Geffen)",
         "artist": "Weezer",
         "charts": "21 weeks; No. 18",
@@ -14111,7 +14248,7 @@
         "writers": " Rivers Cuomo",
         "year": 1994
     },
-    "495": {
+    "500": {
         "album": " The Ultimate Collection (Motown)",
         "artist": "Smokey Robinson and the Miracles",
         "charts": "16 weeks; No. 2",
@@ -14127,7 +14264,7 @@
             "soul",
             "southern soul"
         ],
-        "popularity": 3,
+        "popularity": 2,
         "producer": " Gordy",
         "ranking": 500,
         "records_company": "Tamla",

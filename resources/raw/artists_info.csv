@@ -399,64 +399,65 @@ Howlin' Wolf,TRUE,FALSE
 The Left Banke,FALSE,FALSE
 Afrika Bambaataa and the Soul Sonic Force,TRUE,FALSE
 Dion,FALSE,FALSE
-The Spencer Davis Group,,
-Jackie Wilson,,
-Sugarhill Gang,,
-Bobby Darin,,
-The Troggs,,
-The Dells,,
-Smokey Robinson and The Miracles,,
-Archie Bell and The Drells,,
-"The Staple Singers, I'll Take You There",,
-The Dixie Cups,,
-Elvis Costello and the Attractions,,
-Barrett Strong,,
-Daft Punk,,
-The Jam,,
-Frankie Lymon and The Teenagers,,
-Screamin' Jay Hawkins,,
-Franz Ferdinand,,
-Patti Smith Group,,
-The Young Rascals,,
-Jerry Butler and The Impressions,,
-"Earth, Wind and Fire",,
-Norman Greenbaum,,
-Paul McCartney,,
-Lavern Baker,,
-Big Brother and the Holding Company,,
-Ritchie Valens,,
-Little Eva,,
-The Platters,,
-Eric Clapton,,
-The Box Tops,,
-Aaron Neville,,
-The Verve,,
-The Allman Brothers Band,,
-"Crosby, Stills, Nash and Young",,
-The Five Stairsteps,,
-Rihanna Featuring Jay-Z,,
-Carpenters,,
-Pixies,,
-The Coasters,,
-"Crosby, Stills and Nash",,
-Dr. Dre,,
-Rolling Stones,,
-Deep Purple,,
-Solomon Burke,,
-Love,,
-Salt 'n Pepa,,
-John Cougar Mellencamp,,
-The Dell-Vikings,,
-Sonny and Cher,,
-Chubby Checker,,
-George Harrison,,
-Sam and Dave,,
-Jay-Z Featuring UGK,,
-Del Shannon,,
-Foreigner,,
-Justin Timberlake,,
-LaBelle,,
-Joan Jett and the Blackhearts,,
-MGMT,,
-R. Kelly,,
+The Spencer Davis Group,FALSE,FALSE
+Jackie Wilson,TRUE,FALSE
+Sugarhill Gang,TRUE,FALSE
+Bobby Darin,FALSE,FALSE
+The Troggs,FALSE,FALSE
+The Dells,TRUE,FALSE
+Smokey Robinson and The Miracles,TRUE,FALSE
+Archie Bell and The Drells,TRUE,FALSE
+"The Staple Singers, I'll Take You There",TRUE,TRUE
+The Staple Singers,TRUE,TRUE
+The Dixie Cups,TRUE,TRUE
+Elvis Costello and the Attractions,FALSE,FALSE
+Barrett Strong,TRUE,FALSE
+Daft Punk,FALSE,FALSE
+The Jam,FALSE,FALSE
+Frankie Lymon and The Teenagers,TRUE,FALSE
+Screamin' Jay Hawkins,TRUE,FALSE
+Franz Ferdinand,FALSE,FALSE
+Patti Smith Group,FALSE,TRUE
+The Young Rascals,FALSE,FALSE
+Jerry Butler and The Impressions,TRUE,FALSE
+"Earth, Wind and Fire",TRUE,FALSE
+Norman Greenbaum,FALSE,FALSE
+Paul McCartney,FALSE,FALSE
+Lavern Baker,TRUE,TRUE
+Big Brother and the Holding Company,FALSE,TRUE
+Ritchie Valens,FALSE,FALSE
+Little Eva,TRUE,TRUE
+The Platters,TRUE,FALSE
+Eric Clapton,FALSE,FALSE
+The Box Tops,FALSE,FALSE
+Aaron Neville,TRUE,FALSE
+The Verve,FALSE,FALSE
+The Allman Brothers Band,FALSE,FALSE
+"Crosby, Stills, Nash and Young",FALSE,FALSE
+The Five Stairsteps,TRUE,FALSE
+Rihanna Featuring Jay-Z,TRUE,TRUE
+Carpenters,FALSE,TRUE
+Pixies,FALSE,FALSE
+The Coasters,TRUE,FALSE
+"Crosby, Stills and Nash",FALSE,FALSE
+Dr. Dre,TRUE,FALSE
+Rolling Stones,FALSE,FALSE
+Deep Purple,FALSE,FALSE
+Solomon Burke,TRUE,FALSE
+Love,TRUE,FALSE
+Salt 'n Pepa,TRUE,TRUE
+John Cougar Mellencamp,FALSE,FALSE
+The Dell-Vikings,TRUE,FALSE
+Sonny and Cher,FALSE,TRUE
+Chubby Checker,TRUE,FALSE
+George Harrison,FALSE,FALSE
+Sam and Dave,TRUE,FALSE
+Jay-Z Featuring UGK,TRUE,FALSE
+Del Shannon,FALSE,FALSE
+Foreigner,FALSE,FALSE
+Justin Timberlake,FALSE,FALSE
+LaBelle,TRUE,TRUE
+Joan Jett and the Blackhearts,FALSE,TRUE
+MGMT,FALSE,FALSE
+R. Kelly,TRUE,FALSE
 Jackson Browne,,

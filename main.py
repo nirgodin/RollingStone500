@@ -43,5 +43,5 @@ for import_path, data_type, export_path in zip(IMPORT_PATHS, DATA_TYPES, EXPORT_
 
 # Concatenate two data objects results to one final dataframe and export
 data = pd.concat(dataframes,
-                 join='outer')
+                 join='outer').drop_duplicates(subset=['ranking', 'data_type'])
 data.to_csv(r'data.csv', index=False)
