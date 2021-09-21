@@ -1,8 +1,7 @@
 from dataclasses import dataclass, asdict
 from typing import Union
-
 from nltk.sentiment import SentimentIntensityAnalyzer
-from spotify import Spotify
+from code.spotify import Spotify
 
 
 @dataclass(unsafe_hash=True)

@@ -1,7 +1,7 @@
 from dataclasses import dataclass
 from typing import List, Union, Dict
 from spotipy import SpotifyException
-from song import OldSong, NewSong
+from code.song import OldSong, NewSong
 
 
 @dataclass

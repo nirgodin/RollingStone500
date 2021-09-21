@@ -6,7 +6,7 @@ from typing import Generator, List, Dict, Tuple
 import pandas as pd
 from pandas import DataFrame
 
-ARTISTS_INFO_PATH = 'resources/raw/artists_info.csv'
+ARTISTS_INFO_PATH = '../resources/raw/artists_info.csv'
 
 main_genres = [
     'rock',
