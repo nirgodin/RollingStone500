@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="73410fa4-24b4-4fbd-994e-aa15554c1ece" name="Changes" comment="- Remove local files">
+      <change afterPath="$PROJECT_DIR$/charts/BlackFemalePercentage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/BlackPercentage.png" beforeDir="false" afterPath="$PROJECT_DIR$/charts/BlackPercentage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/DurationHistogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/charts/DurationHistogram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/FemalePercentage.png" beforeDir="false" afterPath="$PROJECT_DIR$/charts/FemalePercentage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/Genres.png" beforeDir="false" afterPath="$PROJECT_DIR$/charts/Genres.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/Popularity.png" beforeDir="false" afterPath="$PROJECT_DIR$/charts/Popularity.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/RollingStone500.twbx" beforeDir="false" afterPath="$PROJECT_DIR$/charts/RollingStone500.twbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/charts/YearHistogram.png" beforeDir="false" afterPath="$PROJECT_DIR$/charts/YearHistogram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/processed/new_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/processed/2021_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/processed/new_df_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/processed/old_data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/processed/2004_data.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1yDeZUQcyDPYlnAyJ5vDZgnPvj1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nirgo\Documents\GitHub\RollingStone\code1" />
+      <recent name="C:\Users\nirgo\Documents\GitHub\RollingStone\code" />
+      <recent name="C:\Users\nirgo\Documents\GitHub\RollingStone\" />
+      <recent name="C:\Users\nirgo\Documents\GitHub\RollingStone\resources\raw" />
+      <recent name="C:\Users\nirgo\Documents\GitHub\RollingStone\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.RollingStone">
+    <configuration name="RollingStone" type="PythonConfigurationType" factoryName="Python">
+      <module name="RollingStone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="SPOTIPY_CLIENT_ID" value="f61b6bcc9613416aa231020bf3410dc7" />
+        <env name="SPOTIPY_CLIENT_SECRET" value="5bafe004041d4d4d948ed1164337b601" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\nirgo\anaconda3\envs\RollingStone\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pre_processor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RollingStone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\nirgo\Documents\GitHub\RollingStone\code1\pre_processor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spotify" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RollingStone" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="SPOTIPY_CLIENT_ID" value="f61b6bcc9613416aa231020bf3410dc7" />
+        <env name="SPOTIPY_CLIENT_SECRET" value="5bafe004041d4d4d948ed1164337b601" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\nirgo\Documents\GitHub\RollingStone\code1\spotify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.RollingStone" />
+      <item itemvalue="Python.spotify" />
+      <item itemvalue="Python.pre_processor" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pre_processor" />
+        <item itemvalue="Python.spotify" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73410fa4-24b4-4fbd-994e-aa15554c1ece" name="Changes" comment="" />
+      <created>1631790642052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631790642052</updated>
+    </task>
+    <task id="LOCAL-00001" summary="- Little code refactoring&#10;- Added sentiment analysis">
+      <created>1631816396791</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631816396791</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- Parse 2004 RS list">
+      <created>1631830926467</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631830926467</updated>
+    </task>
+    <task id="LOCAL-00003" summary="PreProcessor class">
+      <created>1631874808721</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631874808721</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Reorganize project">
+      <created>1631909955303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1631909955303</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Code refactoring:&#10;- Song Base class for OldSong and NewSong&#10;- United Songs class for OldSongs and NewSongs&#10;- load_spotify function with lru_cache for running time optimization">
+      <created>1631912816928</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1631912816928</updated>
+    </task>
+    <task id="LOCAL-00006" summary="- Tableau visualization workbook&#10;- Bug fix">
+      <created>1631978081957</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1631978081957</updated>
+    </task>
+    <task id="LOCAL-00007" summary="- Tableau visualization workbook&#10;- Bug fix">
+      <created>1631978089353</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1631978089353</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Refactoring">
+      <created>1631996270163</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1631996270163</updated>
+    </task>
+    <task id="LOCAL-00009" summary="- Recursive function debug&#10;- Genres bug fix&#10;- Updated data">
+      <created>1632090409280</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1632090409280</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Pass code files to distinct folder package">
+      <created>1632240451534</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1632240451534</updated>
+    </task>
+    <task id="LOCAL-00011" summary="- Remove local files">
+      <created>1632240591071</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1632240591071</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="- Little code refactoring&#10;- Added sentiment analysis" />
+    <MESSAGE value="- Parse 2004 RS list" />
+    <MESSAGE value="PreProcessor class" />
+    <MESSAGE value="Reorganize project" />
+    <MESSAGE value="Code refactoring:&#10;- Song Base class for OldSong and NewSong&#10;- United Songs class for OldSongs and NewSongs&#10;- load_spotify function with lru_cache for running time optimization" />
+    <MESSAGE value="- Tableau visualization workbook&#10;- Bug fix" />
+    <MESSAGE value="Refactoring" />
+    <MESSAGE value="- Recursive function debug&#10;- Genres bug fix&#10;- Updated data" />
+    <MESSAGE value="Pass code files to distinct folder package" />
+    <MESSAGE value="- Remove local files" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Remove local files" />
+  </component>
+</project>

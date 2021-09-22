@@ -15,8 +15,8 @@ DATA_TYPES = [
 ]
 
 EXPORT_PATHS = [
-    'resources/processed/old_data.txt',
-    'resources/processed/new_data.txt'
+    'resources/processed/2004_data.txt',
+    'resources/processed/2021_data.txt'
 ]
 
 
