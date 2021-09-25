@@ -8,7 +8,7 @@ Most of the analysis is done by parsing the raw text from the rolling stone webs
 To install the required modules for this project, just run the following command on terminal:
 ```$ pip install -r .\resources\requirements.txt```.
 
-Please notice that in order the Spotipy module will work, you need to first create a spotify developer's account and set ```SPOTIPY_CLIENT_ID``` and ```SPOTIPY_CLIENT_SECRET``` as environment variables.
+Please notice that in order the Spotipy module will work, you will first need to create a Spotify developers account, and set ```SPOTIPY_CLIENT_ID``` and ```SPOTIPY_CLIENT_SECRET``` as environment variables.
 
 To run the entire projcet just set the main folder as the project's directory and run ```main.py``` file.
 
